@@ -30,6 +30,7 @@ ARROW = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width
 NAV = {"en":[("Latest","index.html"),("Archive","archive.html"),("About","about.html")],
        "pt":[("Últimas","index-pt.html"),("Arquivo","archive-pt.html"),("Sobre","about-pt.html")]}
 AVAIL = {"en","pt"}  # idiomas gerados nesta rodada; o seletor só aparece p/ o outro se existir
+FEATURES = []        # carregado de <dados>/_features.json em main()
 
 def e(x): return html.escape(str(x), quote=True)
 
@@ -39,6 +40,12 @@ def nav_links(items, active):
         cls=' class="on"' if lab==active else ''
         out.append(f'<a href="{h}"{cls}>{e(lab)}</a>')
     return "".join(out)
+
+import re, unicodedata
+def slug(s):
+    s = unicodedata.normalize('NFKD', s or '').encode('ascii','ignore').decode('ascii')
+    s = re.sub(r'[^a-zA-Z0-9]+', '-', s).strip('-').lower()
+    return s[:60] or 'item'
 
 def head(title, desc=""):
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
@@ -135,15 +142,37 @@ def render_home(d, lang, index):
         for it in sec["items"]:
             span = " span" if it.get("span") else ""
             srcline = f'<span class="csrc">{it["src"]}</span>' if it.get("src") else '<span></span>'
+            anchor = f'{ed_href}#{slug(it["title"])}'
+            read_more = "Read in the edition" if lang=="en" else "Ler na edição"
             main_html.append(
                 f'<article class="ncard reveal{span}">'
+                f'<a class="cardlink" href="{anchor}" aria-label="{e(it["title"])}"></a>'
                 f'<span class="tag {tagclass(it.get("tagtype","final"))}">{e(it.get("tag",""))}</span>'
                 f'<h4>{e(it["title"])}</h4>'
                 f'<p class="cdeck">{e(it["deck"])}</p>'
                 f'<div class="cfoot">{srcline}'
-                f'<button class="iconbtn" data-cardshare data-url="{ed_href}" data-title="{e(it["title"])}" title="Share" style="width:32px;height:32px">{SHARE_SVG}</button>'
+                f'<button class="iconbtn" data-cardshare data-url="{anchor}" data-title="{e(it["title"])}" title="Share" style="width:32px;height:32px">{SHARE_SVG}</button>'
                 f'</div></article>')
         main_html.append('</div>')
+    # seção de FEATURES (se houver), ao fim da coluna principal
+    feats = [f for f in FEATURES if lang in f]
+    if feats:
+        feat_h = "Feature Series" if lang=="en" else "Matérias de Série"
+        main_html.append(f'<div class="secrule reveal"><h3>{feat_h}</h3></div>')
+        for f in feats:
+            F = f[lang]; href = f'edicoes/feature-{f["slug"]}-{lang}.html'
+            cover = f.get("cover")
+            img = f'<div class="fcimg" style="background-image:url(\'{e(cover)}\')"></div>' if cover else '<div class="fcimg"></div>'
+            more = "Read the full article" if lang=="en" else "Ler a matéria completa"
+            main_html.append(
+                f'<article class="featcard reveal">'
+                f'<a class="cardlink" href="{href}" aria-label="{e(F["title"])}"></a>'
+                f'{img}<div class="fcbody">'
+                f'<div class="fckick">{e(F.get("kicker",""))}</div>'
+                f'<h3>{e(F["title"])}</h3>'
+                f'<p class="fcdeck">{e(F.get("deck",""))}</p>'
+                f'<span class="fcmore">{more} {ARROW}</span>'
+                f'</div></article>')
     main_html.append('</div>')
 
     # rail
@@ -240,7 +269,7 @@ def render_edition(d, lang):
         for it in sec["items"]:
             body = "".join(f'<p>{p}</p>' for p in it.get("body", [f'<p>{e(it["deck"])}</p>']))
             if not it.get("body"): body = f'<p>{e(it["deck"])}</p>'
-            parts.append(f'<div class="item"><span class="tag {tagclass(it.get("tagtype","final"))}">{e(it.get("tag",""))}</span>'
+            parts.append(f'<div class="item" id="{slug(it["title"])}" style="scroll-margin-top:72px"><span class="tag {tagclass(it.get("tagtype","final"))}">{e(it.get("tag",""))}</span>'
                          f'<h4>{e(it["title"])}</h4>{body}'
                          + (f'<div class="src">{it["src"]}</div>' if it.get("src") else '') + '</div>')
         parts.append('</div>')
@@ -263,13 +292,14 @@ def render_edition(d, lang):
             + footer(lang).replace('class="sitefoot reveal"','class="sitefoot"')
             + f'<script>{JS}</script></body></html>')
 
-def topbar_rel(active, lang, lang_switch_href, prefix=""):
+def topbar_rel(active, lang, lang_switch_href, prefix="", lang_ok=None):
     """topbar com hrefs relativos a uma subpasta (edicoes/)."""
     items = [(lab, prefix+h) for lab,h in NAV[lang]]
     nav = nav_links(items, active)
     other = "pt" if lang=="en" else "en"
+    show = (other in AVAIL) if lang_ok is None else lang_ok
     lang_btn = ""
-    if other in AVAIL:
+    if show:
         lang_lbl = "PT" if lang=="en" else "EN"
         lang_ttl = "Ler em português" if lang=="en" else "Read in English"
         lang_btn = f'<a class="eicon" href="{lang_switch_href}" title="{lang_ttl}">{lang_lbl}</a>'
@@ -311,6 +341,32 @@ def build_index(data_path):
     idx.sort(key=lambda r: r["date"], reverse=True)
     return idx
 
+# ---------- FEATURE (página própria, estilo matéria) ----------
+def render_feature(f, lang):
+    F = f[lang]
+    lang_switch = f'feature-{f["slug"]}-{"pt" if lang=="en" else "en"}.html'
+    has_other = ("pt" if lang=="en" else "en") in f
+    # troca o alvo do seletor só se a outra língua existir (senão AVAIL já esconde o botão)
+    body = "".join(F.get("body", []))
+    back = "All editions" if lang=="en" else "Todas as edições"
+    kicker = F.get("kicker","")
+    sheet = (f'<div class="sheet" lang="{lang}">'
+             f'<div class="toprule"><span></span><span>{"Feature Series" if lang=="en" else "Matéria de Série"}</span></div>'
+             f'<div class="masthead"><h1>Stewart on Immigration</h1><div class="sub byline">Joel Stewart, P.A.</div></div>'
+             f'<div class="lead"><div class="kicker">{e(kicker)}</div><h2>{e(F["title"])}</h2>'
+             f'<div class="deck">{e(F.get("deck",""))}</div></div>'
+             f'{body}'
+             f'<div class="exped"><a href="https://www.joelstewartpa.com/">Joel Stewart, P.A.</a></div>'
+             + ('<div class="disclaimer">General information only; not legal advice. Reading this article creates no attorney-client relationship.</div>' if lang=="en"
+                else '<div class="disclaimer">Informativo geral; não constitui aconselhamento jurídico. A leitura deste artigo não estabelece relação advogado-cliente.</div>')
+             + '</div>')
+    home_lbl = "Latest" if lang=="en" else "Últimas"
+    tb = topbar_rel(home_lbl, lang, lang_switch, prefix="../", lang_ok=has_other)
+    title = f'{F["title"]} — Stewart on Immigration'
+    return (head(title, F.get("deck","")) + tb + '<main>' + sheet + '</main>'
+            + footer(lang).replace('class="sitefoot reveal"','class="sitefoot"')
+            + f'<script>{JS}</script></body></html>')
+
 def main():
     data_path = sys.argv[1] if len(sys.argv)>1 else os.path.join(HERE,"dados","2026-11-17.json")
     outdir = sys.argv[2] if len(sys.argv)>2 else os.path.join(HERE,"out")
@@ -319,7 +375,17 @@ def main():
     os.makedirs(outdir, exist_ok=True)
     os.makedirs(os.path.join(outdir,"edicoes"), exist_ok=True)
     langs = [l for l in ("en","pt") if l in d]
-    global AVAIL; AVAIL = set(langs)
+    global AVAIL, FEATURES; AVAIL = set(langs)
+    # features curadas (opcional): <dados>/_features.json {"features":[...]}
+    featpath = os.path.join(os.path.dirname(os.path.abspath(data_path)), "_features.json")
+    if os.path.exists(featpath):
+        try: FEATURES = json.load(open(featpath, encoding="utf-8")).get("features", [])
+        except Exception: FEATURES = []
+    # páginas de feature (uma por slug+idioma existente)
+    for f in FEATURES:
+        for lg in ("en","pt"):
+            if lg in f:
+                open(os.path.join(outdir,"edicoes",f'feature-{f["slug"]}-{lg}.html'),"w",encoding="utf-8").write(render_feature(f,lg))
     for lang in langs:
         home = "index.html" if lang=="en" else "index-pt.html"
         open(os.path.join(outdir,home),"w",encoding="utf-8").write(render_home(d,lang,index))
