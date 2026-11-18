@@ -12,10 +12,10 @@
   body{margin:0;background:#e9e3d5;color:var(--ink);font-family:var(--serif);line-height:1.48}
   .sheet{max-width:880px;margin:0 auto;background:var(--paper);padding:28px 34px 40px;box-shadow:0 2px 18px rgba(0,0,0,.12)}
   .toprule{display:flex;justify-content:space-between;font-family:var(--sans);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:7px}
-  .masthead{text-align:center;padding:12px 0 6px;border-bottom:3px double var(--ink)}
+  .masthead{text-align:center;padding:4px 0 8px;border-bottom:3px double var(--ink)}
   .masthead h1{font-size:clamp(38px,8vw,60px);margin:.08em 0;letter-spacing:.02em;font-weight:700}
   .masthead .sub{font-family:var(--sans);font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
-  .masthead .byline{font-family:var(--sans);font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--muted);margin-top:5px}
+  .masthead .byline{font-family:var(--sans);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);font-weight:600;margin-top:4px}
   .dateline{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;font-family:var(--sans);font-size:12px;color:var(--muted);padding:7px 0;border-bottom:1px solid var(--line);margin-bottom:16px}
   .lead{border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:8px}
   .kicker{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
@@ -44,6 +44,12 @@
   .foot{margin-top:10px;font-family:var(--sans);font-size:12px;color:var(--muted)}
   .disclaimer{font-family:var(--sans);font-size:11.5px;line-height:1.45;color:var(--muted);background:#f1ead9;border:1px solid var(--line);border-radius:6px;padding:9px 13px;margin-top:10px}
   .stamp{font-family:var(--sans);font-size:12px;color:var(--muted);text-align:center;margin-top:8px}
+  .social{display:flex;justify-content:center;gap:18px;margin:14px 0 8px}
+  .social a{color:var(--muted);display:inline-flex;text-decoration:none}
+  .social a:hover{color:var(--accent2)}
+  .social svg{width:20px;height:20px;display:block}
+  .contact{font-family:var(--sans);font-size:11.5px;text-align:center;color:var(--muted);margin-top:2px}
+  .contact b{color:var(--ink);font-weight:600}
   .keep{break-inside:avoid;page-break-inside:avoid}
   @page{size:A4;margin:13mm;background:#faf6ec}
   @media print{
@@ -53,7 +59,115 @@
     .sechead,h2,h3,h4{break-after:avoid;page-break-after:avoid}
   }
 </style>
-<style>.feat-hero{width:100%;height:auto;max-height:300px;object-fit:cover;border-bottom:3px double var(--ink);margin:0 0 14px}.featwrap{break-inside:auto}.featart h4{margin-top:14px}.lead{break-inside:auto !important;page-break-inside:auto !important}</style>
+<style>
+:root{
+  --paper:#f7f2e6;--card:#fffdf6;--ink:#1b1a17;--muted:#6a6355;--faint:#8c8575;--line:#e2d9c4;--hair:rgba(27,26,23,.10);
+  --accent:#8a1b1b;--accent2:#0f4c5c;--tagfb:#e2efe4;--tagf:#0f6e2e;--tagpb:#f4ecd8;--tagp:#8a5a00;--tagab:#f3e0e0;--taga:#8a1b1b;
+  --bar:rgba(247,242,230,.72);--baredge:rgba(255,255,255,.65);--glass:rgba(255,253,246,.62);--glassln:rgba(255,255,255,.5);
+  --shadow:0 1px 2px rgba(27,26,23,.05),0 8px 26px rgba(27,26,23,.08);--shadow2:0 2px 6px rgba(27,26,23,.08),0 18px 44px rgba(27,26,23,.14);
+  --bg1:#efe8d8;--bg2:#e7e9e4;
+  --serif:'Iowan Old Style',Georgia,'Times New Roman',serif;--sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root[data-theme=auto]{
+  --paper:#15181b;--card:#1b1f23;--ink:#ece7db;--muted:#a39c8e;--faint:#857e70;--line:#2c3137;--hair:rgba(255,255,255,.08);
+  --accent:#e6736b;--accent2:#5bc0d6;--tagfb:rgba(40,90,55,.4);--tagf:#7fd79a;--tagpb:rgba(90,70,20,.4);--tagp:#e5b865;--tagab:rgba(100,45,45,.4);--taga:#f0918a;
+  --bar:rgba(21,24,27,.72);--baredge:rgba(255,255,255,.08);--glass:rgba(27,31,35,.6);--glassln:rgba(255,255,255,.07);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.45);--shadow2:0 2px 6px rgba(0,0,0,.35),0 18px 44px rgba(0,0,0,.55);--bg1:#0f1316;--bg2:#141a1b;
+}}
+:root[data-theme=dark]{
+  --paper:#15181b;--card:#1b1f23;--ink:#ece7db;--muted:#a39c8e;--faint:#857e70;--line:#2c3137;--hair:rgba(255,255,255,.08);
+  --accent:#e6736b;--accent2:#5bc0d6;--tagfb:rgba(40,90,55,.4);--tagf:#7fd79a;--tagpb:rgba(90,70,20,.4);--tagp:#e5b865;--tagab:rgba(100,45,45,.4);--taga:#f0918a;
+  --bar:rgba(21,24,27,.72);--baredge:rgba(255,255,255,.08);--glass:rgba(27,31,35,.6);--glassln:rgba(255,255,255,.07);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.45);--shadow2:0 2px 6px rgba(0,0,0,.35),0 18px 44px rgba(0,0,0,.55);--bg1:#0f1316;--bg2:#141a1b;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:linear-gradient(170deg,var(--bg1),var(--bg2));background-attachment:fixed;color:var(--ink);
+  font-family:var(--serif);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.ewm,.ebar nav a,.eicon{text-decoration:none}
+.sheet .src a,.sheet .brief a,.sheet .exped a,.sheet p a{text-decoration:none}
+.sheet .src a:hover,.sheet .brief a:hover,.sheet .exped a:hover,.sheet p a:hover{text-decoration:underline}
+.rprog{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--accent),var(--accent2));z-index:60;transition:width .1s linear}
+.ebar{position:sticky;top:0;z-index:50;background:var(--bar);backdrop-filter:blur(22px) saturate(180%);-webkit-backdrop-filter:blur(22px) saturate(180%);
+  border-top:1px solid var(--baredge);transition:box-shadow .3s ease}
+.ebar.scrolled{box-shadow:0 1px 0 var(--hair),0 10px 30px rgba(0,0,0,.10)}
+.ebar-in{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:11px 24px;font-family:var(--sans)}
+.ewm{font-family:var(--serif);font-weight:700;font-size:18px;letter-spacing:-.01em;color:var(--ink);white-space:nowrap}
+.ewm b{color:var(--accent)}
+.ebar nav{display:flex;gap:18px;margin-left:6px;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.ebar nav a:hover{color:var(--accent)}
+.ebar .sp{flex:1}
+.eicon{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--glassln);
+  background:var(--glass);color:var(--ink);font-family:var(--sans);font-size:12.5px;font-weight:600;letter-spacing:.04em;cursor:pointer;transition:transform .14s ease,box-shadow .2s ease}
+.eicon:hover{box-shadow:var(--shadow)}.eicon:active{transform:scale(.96)}
+.eicon svg{width:16px;height:16px;display:block}
+@media(max-width:720px){.ebar nav{display:none}.ewm{font-size:15px}.ebar-in{gap:9px;padding:10px 15px}.elbl{display:none}}
+main{max-width:1120px;margin:0 auto;padding:26px 24px 10px}
+.sheet{max-width:760px !important;margin:0 auto !important;background:var(--card) !important;color:var(--ink);
+  border:1px solid var(--line);border-radius:22px !important;box-shadow:var(--shadow2) !important;padding:38px 46px 42px !important;position:relative;overflow:hidden}
+.sheet::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+.toprule{color:var(--faint) !important;border-color:var(--hair) !important;font-family:var(--sans) !important}
+.masthead{border-bottom:1px solid var(--line) !important;padding:6px 0 14px !important}
+.masthead h1{font-family:var(--serif) !important;letter-spacing:-.025em !important;color:var(--ink);font-size:clamp(34px,6vw,54px) !important}
+.masthead .sub{color:var(--muted) !important;font-family:var(--sans) !important}
+.masthead .byline{color:var(--ink) !important;font-family:var(--sans) !important;font-weight:700 !important}
+.dateline{color:var(--muted) !important;border-color:var(--line) !important;font-family:var(--sans) !important}
+.lead{border-color:var(--line) !important}
+.kicker{color:var(--accent) !important;font-family:var(--sans) !important;letter-spacing:.11em !important;font-weight:800 !important}
+.lead h2{font-family:var(--serif) !important;letter-spacing:-.02em !important;line-height:1.08 !important;color:var(--ink);font-size:clamp(26px,4.4vw,38px) !important}
+.lead .deck{color:var(--muted) !important;font-family:var(--sans) !important;font-size:18px !important;line-height:1.5 !important}
+.lead p,.item p{text-align:left !important;hyphens:manual !important;-webkit-hyphens:manual !important;color:var(--ink);font-size:16.5px !important;line-height:1.62 !important}
+.sechead h3{color:var(--accent2) !important;font-family:var(--sans) !important;letter-spacing:.13em !important}
+.sechead::after{background:var(--line) !important;height:1px !important}
+.item{border-color:var(--line) !important}
+.item h4{font-family:var(--serif) !important;letter-spacing:-.01em !important;color:var(--ink);font-size:20px !important}
+.tag{border-radius:999px !important;font-family:var(--sans) !important;padding:3px 10px !important}
+.t-final{background:var(--tagfb) !important;color:var(--tagf) !important}
+.t-prop{background:var(--tagpb) !important;color:var(--tagp) !important}
+.t-alert{background:var(--tagab) !important;color:var(--taga) !important}
+.src{color:var(--faint) !important;font-family:var(--sans) !important}
+.src a{color:var(--accent2) !important}
+.brief{font-family:var(--sans) !important}
+.brief li{border-color:var(--line) !important}
+.brief a{color:var(--accent2) !important}
+.exped,.exped.credit{border-color:var(--line) !important}
+.exped a,.exped.credit a{color:var(--accent2) !important}
+.disclaimer{background:var(--glass) !important;border:1px solid var(--glassln) !important;border-radius:12px !important;color:var(--muted) !important;font-family:var(--sans) !important;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+.foot,.stamp{color:var(--faint) !important;font-family:var(--sans) !important}
+.toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);opacity:0;pointer-events:none;background:var(--ink);color:var(--paper);
+  font-size:13px;font-weight:600;padding:10px 18px;border-radius:999px;z-index:80;transition:opacity .25s,transform .25s;box-shadow:var(--shadow2);font-family:var(--sans)}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+.shwrap{position:relative}
+.shmenu{position:absolute;right:0;top:42px;min-width:168px;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow2);
+  padding:6px;display:none;flex-direction:column;z-index:70;font-family:var(--sans)}
+.shmenu.on{display:flex}
+.shmenu a,.shmenu button{display:flex;align-items:center;gap:10px;padding:9px 11px;border:0;background:none;color:var(--ink);font-size:13px;font-weight:600;
+  cursor:pointer;border-radius:9px;text-align:left;width:100%}
+.shmenu a:hover,.shmenu button:hover{background:var(--glass)}
+.shmenu svg{width:16px;height:16px}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}*{transition:none !important}.rprog{transition:none}}
+@media print{.ebar,.rprog,.toast{display:none !important}.sheet{box-shadow:none !important;border:0 !important;border-radius:0 !important;max-width:none !important;padding:0 !important}body{background:#fff !important}}
+</style>
+
+
+<div class="rprog" id="rprog"></div>
+<header class="ebar" id="ebar"><div class="ebar-in">
+<a class="ewm" href="#">Stewart <b>on</b> Immigration</a>
+<nav><a href="#">Latest</a><a href="#">Archive</a><a href="#">About</a></nav>
+<span class="sp"></span>
+<a class="eicon" href="#" title="Read in Portuguese">PT</a>
+<span class="shwrap">
+<button class="eicon" id="shareBtn" title="Share" aria-haspopup="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button>
+<div class="shmenu" id="shMenu">
+<button data-sh="copy"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>Copy link</button>
+<a data-sh="li" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.5 8h4V24h-4zM8 8h3.8v2.2h.05c.53-1 1.82-2.2 3.75-2.2 4 0 4.7 2.6 4.7 6V24h-4v-7.1c0-1.7 0-3.9-2.4-3.9s-2.7 1.8-2.7 3.8V24H8z"/></svg>LinkedIn</a>
+<a data-sh="wa" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12 2a10 10 0 0 0-8.6 15l-1.3 4.8 4.9-1.3A10 10 0 1 0 12 2zm0 2a8 8 0 0 1 6.9 12l-.2.3.8 2.9-3-.8-.3.2A8 8 0 1 1 12 4zm-3.4 4.3c-.2 0-.5.1-.7.3-.3.3-1 1-1 2.4s1 2.8 1.2 3 2 3.1 4.9 4.3c2.4 1 2.9.8 3.4.8.5-.1 1.6-.7 1.9-1.4.2-.6.2-1.2.1-1.3-.1-.1-.3-.2-.6-.3l-2.1-1c-.3-.1-.5-.1-.7.1l-.9 1.1c-.1.2-.3.2-.6.1-.3-.1-1.2-.5-2.3-1.4-.8-.7-1.4-1.6-1.6-1.9-.1-.3 0-.4.1-.6l.5-.5c.1-.2.2-.3.3-.5s0-.4 0-.5l-.9-2.1c-.2-.6-.5-.5-.7-.5z"/></svg>WhatsApp</a>
+</div>
+</span>
+<button class="eicon" id="themeBtn" title="Theme" aria-label="Theme"><svg id="thIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button>
+</div></header>
+<main>
 <div class="sheet" lang="en">
 <div class="toprule"><span></span><span>Issue No. 80 · 11/17/2026</span></div>
 <div class="masthead"><h1>Stewart on Immigration</h1><div class="sub byline">Joel Stewart, P.A.</div></div>
@@ -128,40 +242,50 @@
 <ul class="brief">
 <li><strong>Today, 11/17:</strong> DOL publishes the PERM modernization proposal (RIN 1205-AC29) and opens 60 days of comments through regulations.gov (docket ETA-2026-0133).</li><li><strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked that date or later.</li><li><strong>Early December:</strong> DOL updates PERM and prevailing-wage processing times.</li><li><strong>Tuesday, 12/09:</strong> mandatory electronic filing at DOL's OALJ.</li><li><strong>On or about 01/16/2027:</strong> the comment period for the PERM proposal closes.</li><li><strong>The 60-day grace period and deference to prior approvals:</strong> remain in effect while no final rule has issued.</li>
 </ul>
-<!--FEATURE-SERIES:START--><style id="FEATURE-SERIES-CSS">.feat-wrap{margin:22px 0;padding:0}.feat-head{display:flex;align-items:center;gap:12px;margin:0 0 12px}.feat-head h3{font-family:var(--sans,sans-serif);font-size:15px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent,#8a1b1b);white-space:nowrap;margin:0}.feat-head::after{content:"";flex:1;height:2px;background:var(--ink,#1b1a17)}.feat-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}@media(max-width:640px){.feat-grid{grid-template-columns:1fr}}.feat-card{border:1px solid var(--line,#d8cfba);border-left:4px solid var(--accent2,#0f4c5c);background:#f6f1e4;padding:12px 14px}.feat-kicker{font-family:var(--sans,sans-serif);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent2,#0f4c5c)}.feat-title{font-size:19px;line-height:1.2;margin:5px 0 6px}.feat-title a{color:var(--ink,#1b1a17);text-decoration:none}.feat-deck{font-size:15px;color:#33302a;margin:0 0 8px}.feat-read a{font-family:var(--sans,sans-serif);font-size:13px;font-weight:700;color:var(--accent2,#0f4c5c);text-decoration:none}</style><div class="feat-wrap"><div class="feat-head"><h3>Feature Series</h3></div><div class="featwrap keep"><div class="featflag">Feature Series &middot; PERM Proposed Rule Series &middot; Part 1 of 5</div><div class="featart">
-    
-    <h2 class="featart-title">The Newspaper Is Gone. The Paper Trail Is Not.</h2>
-    <div class="deck">The Department of Labor proposes the first full rewrite of the PERM rule since 2004: no print ads, 90 days of recruitment, Schedule A abolished, and a two-year layoff bar.</div>
-    <p>Since 2005, when the PERM Rule went into effect, the labor market test has been a ritual: a thirty-day state job order, two Sunday newspaper advertisements, and, for professional positions, three additional steps chosen from a menu of ten. On November 17, 2026, the U.S. Department of Labor proposed to retire the ritual.</p>
-    <p>The Notice of Proposed Rulemaking, <em>Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program</em>, appears at 91 FR 73916 (RIN 1205-AC29; DOL Docket No. ETA-2026-0133). It occupies 107 pages of the Federal Register and reorganizes nearly every section of 20 CFR Part 656. Written comments are due on or before January 16, 2027.</p>
-    <p>One point deserves emphasis before anything else. Nothing has changed today. A proposed rule is not law. Every pending case, and every case filed before a final rule takes effect, remains governed by the current regulations.</p>
-    <p>This series will read the proposal section by section. Part 1 maps the territory.</p>
-    <h4>The Department's premise</h4>
-    <p>The Department states its reasons directly. The PERM regulations have not been revised in nearly twenty years. Recruitment has moved online, remote work has spread, and layoffs have become frequent in certain sectors. The Department expresses concern that the current rule permits a labor market test that is neither sufficiently robust nor comparable to the way employers recruit when no foreign worker is involved. The proposal is presented as part of a broader federal effort to enforce the immigration laws as Congress wrote them.</p>
-    <p>The timing is not accidental. Six weeks ago, on October 8, 2026, the Department announced that it would neither accept nor process PERM applications involving several large technology employers, citing allegations of fraud and the displacement of U.S. workers. The proposed rule now converts that posture into regulatory text.</p>
-    <h4>Six changes that define the proposal</h4>
-    <p><strong>1. One recruitment regime for every occupation.</strong> The distinction between professional and nonprofessional positions would disappear, and so would the Sunday newspaper. Every employer would be required to (i) place a job order with the State Workforce Agency; (ii) advertise on the employer's own website, on the page it customarily uses for recruitment; (iii) advertise on at least one outside job search website, and on every job site the employer customarily uses for the same occupation; (iv) advertise on every social media platform the employer customarily uses for that occupation; and (v) recruit through at least one job fair, on-campus recruiting event, or college, university, or trade school placement office while the job order is active. (Proposed § 656.17(b).)</p>
-    <p>The governing principle is comparability. The employer must recruit "in the same manner, through the same channels," and on terms no less favorable than it uses when no labor certification is involved. The proposal names the familiar suspects: PERM-specific web pages, PERM-specific e-mail addresses, fax or paper applications. Recruitment through any channel less accessible to U.S. workers than the employer's ordinary channels would be presumed not to have been conducted in good faith, and would be an independent ground for denial. (Proposed § 656.13(d).)</p>
-    <p><strong>2. Longer and tighter timing.</strong> Advertisements would remain active for at least 90 calendar days, or for the employer's customary posting period over the preceding twelve months, whichever is longer. Recruitment would have to be completed no more than 60 and no fewer than 30 calendar days before filing. (Proposed § 656.17(c)–(d).) Today the window runs from 30 to 180 days.</p>
-    <p>Put simply: 90 + 30 = 120 days, at a minimum, from the first advertisement to the earliest filing date, before a prevailing wage determination is counted and before the Department adjudicates anything.</p>
-    <p><strong>3. Documentation at the front end.</strong> The recruitment report, all recruitment records, and the résumé of every U.S. applicant would be filed with the application, not held in a drawer for a possible audit. The report would identify each advertisement by URL and confirmation number, each applicant by name and contact information, each person who screened or interviewed the applicant, and the lawful, job-related reason for every rejection. (Proposed §§ 656.10(a)(3)–(4), 656.17(f).)</p>
-    <p><strong>4. Schedule A abolished.</strong> Professional nurses and physical therapists (Group I) would undergo the full labor market test. Aliens of exceptional ability in the sciences or arts (Group II) would also be tested, under the "equally qualified" standard the Department applies today to college and university teachers. The Department would not decide whether the alien possesses exceptional ability; that question remains with USCIS under 8 CFR 204.5(k). The Department reasons that the INA gives it no authority to exempt occupations from the labor market test, and that more than 2,000 comments on its 2023 Request for Information produced no reliable method for identifying national shortages.</p>
-    <p><strong>5. Layoffs.</strong> The current six-month look-back, which requires notice to and consideration of laid-off workers, would become a two-year bar. An employer that laid off U.S. workers in the same or a similar occupation in the area of intended employment within two years before filing could not file. After filing, and until the I-140 is approved, any new layoff would have to be reported to the National Processing Center (and to USCIS, if an I-140 is pending) within five business days, and the job would have to be offered to the laid-off workers. Staffing companies could not place the sponsored worker with a client that has laid off workers in the same occupation. (Proposed §§ 656.13(e)–(f), 656.17(f)(2).)</p>
-    <p><strong>6. Integrity and accountability.</strong> The employer would be required to sign the application and every document submitted to the Department, regardless of representation (proposed § 656.4(b)). Attorneys and agents would retain their representation agreements for five years (proposed § 656.5(a)). The notice of filing would be posted within the ten business days before filing and would remain posted until the I-140 is approved or the case is finally denied or withdrawn (proposed § 656.14(f)). Debarment would reach attorneys and agents for their own conduct and would extend to all of the Department's labor certification and labor condition application programs. And a new definition of <em>willful misrepresentation</em> states that intent to deceive is not an element; knowledge of falsity, or reckless disregard for the truth, would suffice.</p>
-    <h4>Two provisions practitioners should read twice</h4>
-    <p><strong>The single-use labor certification.</strong> Proposed § 656.30(a) would provide that a permanent labor certification is "only valid when filed in support of an initial Immigrant Petition" within 180 days of certification. The preamble describes, and rejects, the practice of using an approved certification to support a later I-140 after an earlier petition is denied and an appeal fails. Practitioners have long argued that a certification timely filed with an I-140 remains available to support a subsequent or amended petition. If this language is adopted, that argument would be foreclosed by regulation. Whether the Department may, by rule, govern how a certification is used once it has left the Department and entered USCIS adjudication is a question commenters are likely to raise.</p>
-    <p><strong>Remote work.</strong> Every advertisement would have to state whether the position is remote, fully teleworked, or hybrid. More significantly, the Department states that it is considering whether to exclude fully remote positions from PERM altogether, and it asks for comments on a categorical exclusion, a minimum on-site requirement, and the proper geographic basis for the prevailing wage.</p>
-    <h4>A question of arithmetic</h4>
-    <p>Proposed § 656.17(d) requires that recruitment be completed no fewer than 30 days before filing. Proposed § 656.10(b) requires that the application be filed within 30 days after recruitment is completed. Read together and literally, the two provisions leave a filing window of essentially a single day. The drafters may intend a different reading; the comment period is the place to ask.</p>
-    <h4>Transition</h4>
-    <p>If the rule is finalized as proposed, it would take effect 60 days after publication, with a further 30-day transition. Applications for permanent labor certification and applications for prevailing wage determinations filed on or after the 90th day after publication of the final rule would be governed by the new rule. The filing date, not the date recruitment began, would control.</p>
-    <p>The Department estimates net cost savings of about $164 million over ten years, largely from the end of print advertising. Employers who must review, document, and report on every applicant from a broader online search may calculate the cost differently.</p>
-    <h4>What comes next in this series</h4>
-    <p>Part 2 will examine the new recruitment regime and the comparability principle. Part 3 will address the layoff bar and staffing arrangements. Part 4 will consider the end of Schedule A, for nurses, physical therapists, and individuals of exceptional ability. Part 5 will turn to validity, debarment, and the new definition of willful misrepresentation.</p>
-    <p><em>Is the labor market test about to become more honest, or merely more expensive?</em> The answer will depend on what the Department hears before January 16, 2027.</p>
-    <p>The newspaper is gone. The paper trail is not.</p>
-    <p><em>Source:</em> U.S. Department of Labor, Notice of Proposed Rulemaking, 91 FR 73916 (Nov. 17, 2026), <a href="https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant">Federal Register</a> &middot; <a href="https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf">official PDF</a>.</p>
-    <div class="nextline">Next in Part 2: &ldquo;Recruit As You Always Do&rdquo; &mdash; the comparability principle and the new recruitment regime.</div>
-  </div></div><div class="disclaimer">General information; not legal advice and creates no attorney-client relationship. Always check the official source.</div>
-<div class="foot"><div class="stamp">&copy; 2026 Stewart on Immigration. All rights reserved.</div></div>
+<div class="disclaimer">General information only; not legal advice and does not establish an attorney-client relationship. Always check the official source.</div>
+<div class="social">
+<a href="https://www.joelstewartpa.com/" target="_blank" rel="noopener" aria-label="Website" title="joelstewartpa.com"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.7 2.5 15.3 0 18M12 3c-2.5 2.7-2.5 15.3 0 18"/></svg></a>
+<a href="https://www.linkedin.com/in/joelstewartpa" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.5 8h4V24h-4zM8 8h3.8v2.2h.05c.53-1 1.82-2.2 3.75-2.2 4 0 4.7 2.6 4.7 6V24h-4v-7.1c0-1.7 0-3.9-2.4-3.9s-2.7 1.8-2.7 3.8V24H8z"/></svg></a>
+<a href="https://www.reddit.com/user/JS-FGI" target="_blank" rel="noopener" aria-label="Reddit" title="Reddit u/JS-FGI"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M22 11.8a2.1 2.1 0 0 0-3.6-1.45c-1.3-.86-3-1.4-4.9-1.5l.9-3.9 2.7.6a1.5 1.5 0 1 0 .18-.98l-3.3-.72-1.15 5A9 9 0 0 0 7 10.35 2.1 2.1 0 1 0 3.3 13.7a3.5 3.5 0 0 0-.05.6c0 2.9 3.45 5.25 7.7 5.25s7.7-2.35 7.7-5.25a3.5 3.5 0 0 0-.05-.6A2.1 2.1 0 0 0 22 11.8zM8.1 13.2a1.2 1.2 0 1 1 2.4 0 1.2 1.2 0 0 1-2.4 0zm6.9 3.35a4.3 4.3 0 0 1-3 .95 4.3 4.3 0 0 1-3-.95.4.4 0 1 1 .56-.57 3.5 3.5 0 0 0 2.44.72 3.5 3.5 0 0 0 2.44-.72.4.4 0 0 1 .56.57zm-.22-2.15a1.2 1.2 0 1 1 0-2.4 1.2 1.2 0 0 1 0 2.4z"/></svg></a>
+<a href="https://joelstewartpa.substack.com" target="_blank" rel="noopener" aria-label="Substack" title="Substack"><svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M4 3.5h16V6H4zM4 8.1h16v2.5H4zM4 12.7L12 17l8-4.3V20.5L12 16.2 4 20.5z"/></svg></a>
+<a href="https://www.instagram.com/joel.miami" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram @joel.miami"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1.1" fill="currentColor" stroke="none"/></svg></a>
 </div>
+<div class="contact">Written contact only &middot; <b>js@joelstewartpa.com</b> &middot; WhatsApp +1 954-772-7600</div>
+<div class="foot"><div class="stamp">© 2026 Stewart on Immigration. All rights reserved.</div></div>
+</div>
+</main>
+<script>
+(function(){
+ var root=document.documentElement,tkey='soi-theme2';
+ var SUN='<circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2 12h2.5M19.5 12H22M4.2 19.8l1.8-1.8M18 6l1.8-1.8"/>';
+ var MOON='<path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.6 6.6 0 0 0 9.8 9.8z"/>';
+ function get(){var t=null;try{t=localStorage.getItem(tkey)}catch(e){}; return t||'light';}
+ function apply(t){root.setAttribute('data-theme',t);var ic=document.getElementById('thIcon');if(ic)ic.innerHTML=(t==='dark')?SUN:MOON;}
+ apply(get());
+ var tb=document.getElementById('themeBtn');
+ if(tb)tb.addEventListener('click',function(){var c=root.getAttribute('data-theme')==='dark'?'light':'dark';apply(c);try{localStorage.setItem(tkey,c)}catch(e){}});
+ var bar=document.getElementById('ebar');function sc(){if(window.scrollY>6)bar.classList.add('scrolled');else bar.classList.remove('scrolled');}
+ window.addEventListener('scroll',sc,{passive:true});sc();
+ var rp=document.getElementById('rprog');
+ function prog(){var h=document.documentElement,sc2=h.scrollTop||document.body.scrollTop,mx=(h.scrollHeight-h.clientHeight)||1;rp.style.width=(100*sc2/mx)+'%';}
+ window.addEventListener('scroll',prog,{passive:true});prog();
+ var toast=document.createElement('div');toast.className='toast';document.body.appendChild(toast);var tt;
+ function say(m){toast.textContent=m;toast.classList.add('on');clearTimeout(tt);tt=setTimeout(function(){toast.classList.remove('on')},1800);}
+ var sb=document.getElementById('shareBtn'),menu=document.getElementById('shMenu');
+ function urltitle(){return {u:location.href,t:document.title};}
+ if(sb&&menu){
+   sb.addEventListener('click',function(e){e.stopPropagation();
+     var x=urltitle();
+     menu.querySelector('[data-sh=li]').href='https://www.linkedin.com/sharing/share-offsite/?url='+encodeURIComponent(x.u);
+     menu.querySelector('[data-sh=wa]').href='https://wa.me/?text='+encodeURIComponent(x.t+' '+x.u);
+     menu.classList.toggle('on');});
+   menu.querySelector('[data-sh=copy]').addEventListener('click',function(){var x=urltitle();
+     if(navigator.share){navigator.share({title:x.t,url:x.u}).catch(function(){});}
+     else if(navigator.clipboard){navigator.clipboard.writeText(x.u).then(function(){say('Link copied')},function(){say(x.u)});}
+     else say(x.u); menu.classList.remove('on');});
+   document.addEventListener('click',function(){menu.classList.remove('on');});
+ }
+ try{var date='2026-11-17';var r=JSON.parse(localStorage.getItem('soi-read')||'[]');if(r.indexOf(date)<0){r.push(date);localStorage.setItem('soi-read',JSON.stringify(r));}
+   localStorage.setItem('soi-last',JSON.stringify({d:date,u:location.pathname.split('/').pop(),t:document.title}));}catch(e){}
+})();
+</script>
