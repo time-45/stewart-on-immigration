@@ -156,8 +156,8 @@ def render_home(d, lang, index):
                 f'<button class="iconbtn" data-cardshare data-url="{anchor}" data-title="{e(it["title"])}" title="Share" style="width:32px;height:32px">{SHARE_SVG}</button>'
                 f'</div></article>')
         main_html.append('</div>')
-    # seção de FEATURES (se houver), ao fim da coluna principal
-    feats = [f for f in FEATURES if lang in f]
+    # seção de FEATURES da edição ATUAL (a feature pertence a UMA edição, por data)
+    feats = [f for f in FEATURES if lang in f and f.get("edition")==d["date"]]
     if feats:
         feat_h = "Feature Series" if lang=="en" else "Matérias de Série"
         main_html.append(f'<div class="secrule reveal"><h3>{feat_h}</h3></div>')
@@ -202,23 +202,80 @@ def render_home(d, lang, index):
             + footer(lang) + f'<script>{JS}</script></body></html>')
     return body
 
-# ---------- ARQUIVO ----------
+# ---------- ARQUIVO (interativo: filtro + agrupado por ano + reveal) ----------
 def render_archive(d, lang, index):
+    # agrupa por ano (desc)
+    years = sorted({r["date"][:4] for r in index}, reverse=True)
     rows = []
-    for r in index:
-        meta = r.get(lang, {})
-        rows.append(f'<a class="arcrow reveal" href="edicoes/{r["date"]}-{lang}.html">'
-                    f'<span class="n">{("No." if lang=="en" else "Nº")} {r["issue"]}</span>'
-                    f'<span class="dt">{e(meta.get("date_long",r["date"]))}</span>'
-                    f'<span class="hl">{e(meta.get("headline",""))}</span>'
-                    f'<span class="lk">{("Open" if lang=="en" else "Abrir")} →</span></a>')
+    for yr in years:
+        yrrows = [r for r in index if r["date"][:4]==yr]
+        rows.append(f'<div class="arcyear" data-year="{yr}">{yr}</div>')
+        for r in yrrows:
+            meta = r.get(lang, {})
+            hl = meta.get("headline",""); dl = meta.get("date_long", r["date"])
+            q = f'{r["issue"]} {r["date"]} {dl} {hl}'.lower()
+            rows.append(f'<a class="arcrow reveal" data-year="{yr}" data-q="{e(q)}" href="edicoes/{r["date"]}-{lang}.html">'
+                        f'<span class="n">{("No." if lang=="en" else "Nº")} {r["issue"]}</span>'
+                        f'<span class="dt">{e(dl)}</span>'
+                        f'<span class="hl">{e(hl)}</span>'
+                        f'<span class="lk">{("Open" if lang=="en" else "Abrir")} →</span></a>')
+    chips = "".join(f'<button class="ychip" data-yr="{yr}">{yr}</button>' for yr in years)
+    n = len(index)
     h = "Archive" if lang=="en" else "Arquivo"
-    sub = "Every edition of the bulletin, newest first." if lang=="en" else "Todas as edições do boletim, da mais recente para a mais antiga."
+    sub = (f"All {n} editions, newest first — filter by date, issue or headline." if lang=="en"
+           else f"Todas as {n} edições, da mais recente para a mais antiga — filtre por data, número ou manchete.")
+    ph = "Filter editions…" if lang=="en" else "Filtrar edições…"
+    cnt = (f'<b>{n}</b> editions' if lang=="en" else f'<b>{n}</b> edições')
+    allw = "All" if lang=="en" else "Todas"
+    nores = "No editions match your filter." if lang=="en" else "Nenhuma edição corresponde ao filtro."
+    hint = "Scroll" if lang=="en" else "Role"
     lang_switch = "archive-pt.html" if lang=="en" else "archive.html"
-    body = (head(f"Archive — Stewart on Immigration") + topbar("Archive" if lang=="en" else "Arquivo", lang, lang_switch)
-            + f'<main><div class="panel reveal" style="margin-bottom:18px"><h2>{h}</h2><p class="muted">{sub}</p></div>'
-            + '<div class="arclist">' + "".join(rows) + '</div></main>'
-            + footer(lang) + f'<script>{JS}</script></body></html>')
+    chev = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>'
+    arch_js = """
+    (function(){
+      var inp=document.getElementById('arcq'), cnt=document.getElementById('arccnt'),
+          empty=document.getElementById('arcempty'), hint=document.getElementById('scrollhint'),
+          rows=[].slice.call(document.querySelectorAll('.arcrow')),
+          yhs=[].slice.call(document.querySelectorAll('.arcyear')),
+          chips=[].slice.call(document.querySelectorAll('.ychip')), total=rows.length, curYr='';
+      function apply(){
+        var q=(inp.value||'').trim().toLowerCase(), shown=0;
+        rows.forEach(function(r){
+          var okq=!q||r.getAttribute('data-q').indexOf(q)>-1;
+          var oky=!curYr||r.getAttribute('data-year')===curYr;
+          var ok=okq&&oky; r.style.display=ok?'':'none'; if(ok)shown++;
+        });
+        yhs.forEach(function(y){
+          var yr=y.getAttribute('data-year');
+          var any=rows.some(function(r){return r.getAttribute('data-year')===yr && r.style.display!=='none';});
+          y.style.display=any?'':'none';
+        });
+        cnt.innerHTML = shown===total ? cnt.getAttribute('data-all') : ('<b>'+shown+'</b>'+cnt.getAttribute('data-suffix'));
+        empty.style.display = shown?'none':'';
+      }
+      inp&&inp.addEventListener('input',apply);
+      chips.forEach(function(c){c.addEventListener('click',function(){
+        var yr=c.getAttribute('data-yr'); curYr=(curYr===yr)?'':yr;
+        chips.forEach(function(x){x.classList.toggle('on',x.getAttribute('data-yr')===curYr);});
+        apply();
+      });});
+      // esconde a dica ao rolar
+      if(hint){window.addEventListener('scroll',function(){if(window.scrollY>80)hint.classList.add('hide');},{passive:true});
+        setTimeout(function(){if(window.scrollY>80)hint.classList.add('hide');},50);}
+    })();
+    """
+    sfx = " editions" if lang=="en" else " edições"
+    body = (head(f"Archive — Stewart on Immigration", sub) + topbar(h, lang, lang_switch)
+            + f'<main><div class="panel reveal" style="margin-bottom:16px"><h2>{h}</h2><p class="muted">{sub}</p></div>'
+            + '<div class="arcbar">'
+            + f'<input id="arcq" class="arcsearch" type="search" placeholder="{ph}" aria-label="{ph}">'
+            + f'<span class="arccount" id="arccnt" data-all="{cnt}" data-suffix="{sfx}">{cnt}</span></div>'
+            + f'<div class="yearchips">{chips}</div>'
+            + '<div class="arclist">' + "".join(rows) + '</div>'
+            + f'<div class="arcempty" id="arcempty" style="display:none">{nores}</div>'
+            + '</main>'
+            + f'<div class="scrollhint" id="scrollhint">{hint}{chev}</div>'
+            + footer(lang) + f'<script>{JS}</script><script>{arch_js}</script></body></html>')
     return body
 
 # ---------- SOBRE ----------
@@ -277,8 +334,8 @@ def render_edition(d, lang):
                          f'<h4>{e(it["title"])}</h4>{body}'
                          + (f'<div class="src">{it["src"]}</div>' if it.get("src") else '') + '</div>')
         parts.append('</div>')
-    # FEATURE SERIES dentro da edição (mesma do site), apontando para a página da matéria
-    efeats = [f for f in FEATURES if lang in f]
+    # FEATURE SERIES dentro da edição — só a(s) feature(s) DESTA edição (por data)
+    efeats = [f for f in FEATURES if lang in f and f.get("edition")==d["date"]]
     if efeats:
         parts.append(f'<div class="sechead"><h3>{"Feature Series" if lang=="en" else "Matérias de Série"}</h3></div>')
         for f in efeats:
