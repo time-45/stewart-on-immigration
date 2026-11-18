@@ -139,8 +139,10 @@ def render_home(d, lang, index):
     for sec in L["sections"]:
         main_html.append(f'<div class="secrule reveal"><h3>{e(sec["head"])}</h3></div>')
         main_html.append('<div class="cards">')
-        for it in sec["items"]:
-            span = " span" if it.get("span") else ""
+        its = sec["items"]; n = len(its)
+        for i, it in enumerate(its):
+            lonely = (i == n-1 and n % 2 == 1)   # card sozinho na última linha → ocupa a largura
+            span = " span" if (it.get("span") or lonely) else ""
             srcline = f'<span class="csrc">{it["src"]}</span>' if it.get("src") else '<span></span>'
             anchor = f'{ed_href}#{slug(it["title"])}'
             read_more = "Read in the edition" if lang=="en" else "Ler na edição"
@@ -264,15 +266,31 @@ def render_edition(d, lang):
     parts.append(f'<div class="src">{lead["src"]}</div></div>')
     for sec in L["sections"]:
         parts.append(f'<div class="sechead"><h3>{e(sec["head"])}</h3></div>')
-        one = " one" if len(sec["items"])==1 else ""
+        its = sec["items"]; n = len(its)
+        one = " one" if n==1 else ""
         parts.append(f'<div class="grid{one}">')
-        for it in sec["items"]:
+        for i, it in enumerate(its):
+            wide = " wide" if (n>1 and i==n-1 and n%2==1) else ""
             body = "".join(f'<p>{p}</p>' for p in it.get("body", [f'<p>{e(it["deck"])}</p>']))
             if not it.get("body"): body = f'<p>{e(it["deck"])}</p>'
-            parts.append(f'<div class="item" id="{slug(it["title"])}" style="scroll-margin-top:72px"><span class="tag {tagclass(it.get("tagtype","final"))}">{e(it.get("tag",""))}</span>'
+            parts.append(f'<div class="item{wide}" id="{slug(it["title"])}" style="scroll-margin-top:72px"><span class="tag {tagclass(it.get("tagtype","final"))}">{e(it.get("tag",""))}</span>'
                          f'<h4>{e(it["title"])}</h4>{body}'
                          + (f'<div class="src">{it["src"]}</div>' if it.get("src") else '') + '</div>')
         parts.append('</div>')
+    # FEATURE SERIES dentro da edição (mesma do site), apontando para a página da matéria
+    efeats = [f for f in FEATURES if lang in f]
+    if efeats:
+        parts.append(f'<div class="sechead"><h3>{"Feature Series" if lang=="en" else "Matérias de Série"}</h3></div>')
+        for f in efeats:
+            F = f[lang]; href = f'feature-{f["slug"]}-{lang}.html'; cover = f.get("cover")
+            img = f'<div class="fcimg" style="background-image:url(\'{e(cover)}\')"></div>' if cover else '<div class="fcimg"></div>'
+            more = "Read the full article" if lang=="en" else "Ler a matéria completa"
+            parts.append(
+                f'<article class="featcard" style="margin-top:4px">'
+                f'<a class="cardlink" href="{href}" aria-label="{e(F["title"])}"></a>'
+                f'{img}<div class="fcbody"><div class="fckick">{e(F.get("kicker",""))}</div>'
+                f'<h3>{e(F["title"])}</h3><p class="fcdeck">{e(F.get("deck",""))}</p>'
+                f'<span class="fcmore">{more} {ARROW}</span></div></article>')
     # expediente + disclaimer
     if lang=="en":
         parts.append('<div class="exped"><a href="https://www.joelstewartpa.com/">Joel Stewart, P.A.</a></div>')
@@ -284,9 +302,9 @@ def render_edition(d, lang):
         home_lbl, arch_lbl, about_lbl = "Últimas","Arquivo","Sobre"
     parts.append('</div>')
     # nav da edição aponta para a raiz do site (um nível acima de edicoes/)
-    other = ("../index.html" if lang=="en" else "../index-pt.html")
+    otherlang = "pt" if lang=="en" else "en"
     lang_switch = (f'{d["date"]}-pt.html' if lang=="en" else f'{d["date"]}-en.html')
-    tb = topbar_rel(home_lbl, lang, lang_switch, prefix="../")
+    tb = topbar_rel(home_lbl, lang, lang_switch, prefix="../", lang_ok=(otherlang in d))
     title = f'Stewart on Immigration — {e(L["date_long"])}'
     return (head(title, lead["deck"]) + tb + '<main>' + "".join(parts) + '</main>'
             + footer(lang).replace('class="sitefoot reveal"','class="sitefoot"')
@@ -395,6 +413,19 @@ def main():
         open(os.path.join(outdir,ab),"w",encoding="utf-8").write(render_about(d,lang))
         edp = os.path.join(outdir,"edicoes",f'{d["date"]}-{lang}.html')
         open(edp,"w",encoding="utf-8").write(render_edition(d,lang))
+    # páginas de TODAS as outras edições do índice (arquivo navegável), numa só rodada
+    ddir = os.path.dirname(os.path.abspath(data_path))
+    for fn in os.listdir(ddir):
+        if not fn.endswith(".json") or fn.startswith("_"): continue
+        if fn == os.path.basename(data_path): continue
+        try:
+            jd = json.load(open(os.path.join(ddir, fn), encoding="utf-8"))
+            if "date" not in jd: continue
+        except Exception:
+            continue
+        for lg in ("en","pt"):
+            if lg in jd:
+                open(os.path.join(outdir,"edicoes",f'{jd["date"]}-{lg}.html'),"w",encoding="utf-8").write(render_edition(jd,lg))
     print("gerado:", ", ".join(langs), f"({len(index)} edições no índice) ->", outdir)
 
 if __name__=="__main__":
