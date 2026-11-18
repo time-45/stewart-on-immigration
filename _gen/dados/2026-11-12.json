@@ -1,0 +1,180 @@
+{
+ "date": "2026-11-12",
+ "issue": 75,
+ "en": {
+  "date_long": "Thursday, November 12, 2026",
+  "date_short": "11/12/2026",
+  "lead": {
+   "kicker": "Headline of the day",
+   "headline": "Extensions from scratch: last call to weigh in",
+   "deck": "Comments on ending deference to prior USCIS approvals (FR 2026-20941, docket USCIS-2026-0529) close tomorrow, November 13.",
+   "body": [
+    "Today, when an employer seeks to extend an H-1B, L-1, O-1 or other I-129 classification involving the same parties and the same facts, USCIS starts from the prior approval: it may reach a different conclusion only for a material error, a material change in circumstances, or new adverse information. That rule has been written into 8 CFR 214.1(c)(5) since the H-1B modernization rule published in December 2024. DHS now proposes to delete it. In practice, every extension would again be reviewed as if it were the first filing, with the full burden of proof on the employer — and DHS itself estimates roughly 6,000 additional Requests for Evidence per year. The change hits precisely the cases that seemed \"routine\": a professional who has held the same job for three years, whose specialty was never questioned, may see the same job description challenged at renewal. Comments are accepted on Regulations.gov through tomorrow; DHS will then review them and decide whether to publish a final rule. For employers with extensions coming up in 2027, the prudent course is to build the file as if deference were already gone: a detailed job description, proof of qualifications, and current employer documentation."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a> · <a href=\"https://www.federalregister.gov/d/2024-29354\">Federal Register 2024-29354 (H-1B modernization rule) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Tomorrow, Friday, 11/13:</strong> comments close on ending deference (USCIS-2026-0529) and on the refugee termination notice (USCIS-2026-0397).",
+   "<strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked on or after that date.",
+   "<strong>60-day grace period:</strong> remains in force until any final rule is published in the Federal Register.",
+   "<strong>EAD:</strong> no automatic extension on renewal — file up to 180 days before expiration.",
+   "<strong>Voluntary departure:</strong> the period set by the judge keeps running even if a motion to reopen is filed after it (Matter of Ontiveros-Diaz, 30 I&amp;N Dec. 222)."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Refugees: shorter termination notice also closes tomorrow",
+      "deck": "Comments also close November 13 on the proposal to remove from 8 CFR 207.9 the 30-day notice given to a refugee before status is terminated, cutting the response window to 10 days.",
+      "body": [
+       "Comments also close November 13 on the proposal to remove from 8 CFR 207.9 the 30-day notice given to a refugee before status is terminated, cutting the response window to 10 days. It is a procedural change with very concrete effects: a person who receives the notice will have less time to gather evidence and retain counsel before USCIS decides. Refugees who have not yet adjusted to permanent residence should keep their documents and mailing address current so they do not miss the notice."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 — Removing 30-Day Refugee Termination Notice ↗</a> · <a href=\"https://www.regulations.gov/docket/USCIS-2026-0397\">Regulations.gov USCIS-2026-0397 ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "60-day grace period: still in force while DHS reviews comments",
+      "deck": "The public comment period on eliminating the up-to-60-day grace period for workers who lose H-1B, L-1, O-1, TN, E-1, E-2 or E-3 employment closed on November 10.",
+      "body": [
+       "The public comment period on eliminating the up-to-60-day grace period for workers who lose H-1B, L-1, O-1, TN, E-1, E-2 or E-3 employment closed on November 10. DHS must now respond to the comments before any final rule, which would carry its own effective date. Until then nothing changes: a laid-off worker may still use the period to find a new employer, seek a change of status, or prepare to depart."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "EB-5: 18 days left to file under the old fee schedule",
+      "deck": "The new EB-5 fees apply to petitions postmarked on or after November 30. Form I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee rises to $44,115, and the I-526E Integrity Fund…",
+      "body": [
+       "The new EB-5 fees apply to petitions postmarked on or after November 30. Form I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee rises to $44,115, and the I-526E Integrity Fund contribution goes from $1,000 to $1,100. Investors with documentation ready save by mailing by November 29."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Adjustment of Status",
+    "items": [
+     {
+      "tag": "Alert",
+      "tagtype": "alert",
+      "title": "EAD renewals without automatic extension: the calendar is now on the applicant",
+      "deck": "Under the final rule that ended automatic extensions for EAD renewals (FR 2026-20955), adjustment applicants with a pending I-485 who rely on a work permit can no longer count on extra validity while the renewal is…",
+      "body": [
+       "Under the final rule that ended automatic extensions for EAD renewals (FR 2026-20955), adjustment applicants with a pending I-485 who rely on a work permit can no longer count on extra validity while the renewal is pending. If the card expires before approval, work must stop. The practical rule is to file the renewal as early as allowed — up to 180 days before expiration — and alert the employer to the expiration date."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Deference and its 22-year round trip",
+      "deck": "The fight that ends tomorrow is an old one. On April 23, 2004, a memorandum from then–USCIS Associate Director for Operations William Yates told officers to respect prior approvals when adjudicating extensions with the…",
+      "body": [
+       "The fight that ends tomorrow is an old one. On April 23, 2004, a memorandum from then–USCIS Associate Director for Operations William Yates told officers to respect prior approvals when adjudicating extensions with the same parties and the same facts — after all, if neither the law nor the facts changed, why should the answer? In October 2017, USCIS rescinded that guidance, reasoning that each petition must prove eligibility on its own; years of RFEs followed on extensions that once sailed through. On April 27, 2021, the agency restored deference in its Policy Manual, and in December 2024 it gained the strongest possible footing: it became a regulation, at 8 CFR 214.1(c)(5). The 2026 proposal would now undo exactly that step. The round trip teaches a lesson every employer should keep: a favorable administrative policy is a gain, not a guarantee — and the best insurance is still a case that stands on its own, without relying on the government's memory."
+      ],
+      "src": "Official source: <a href=\"https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20210427-Deference.pdf\">USCIS Policy Alert, 04/27/2021 — Deference to Prior Determinations ↗</a> · <a href=\"https://www.uscis.gov/policy-manual/volume-2-part-a-chapter-4\">USCIS Policy Manual, Vol. 2, Part A, Ch. 4 ↗</a> · <a href=\"https://www.federalregister.gov/d/2024-29354\">Federal Register 2024-29354 ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quinta-feira, 12 de novembro de 2026",
+  "date_short": "12/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Prorrogação “do zero”: última chamada para opinar",
+   "deck": "A consulta sobre o fim da deferência às aprovações anteriores do USCIS (FR 2026-20941, processo USCIS-2026-0529) fecha amanhã, 13 de novembro.",
+   "body": [
+    "Hoje, quando um empregador pede a prorrogação de um H-1B, L-1, O-1 ou de outra categoria do I-129 com as mesmas partes e os mesmos fatos, o USCIS parte da aprovação anterior: só pode chegar a conclusão diferente diante de erro material, mudança relevante de circunstâncias ou informação nova e desfavorável. Essa regra está escrita no 8 CFR 214.1(c)(5) desde a modernização do H-1B publicada em dezembro de 2024. O DHS propõe agora simplesmente apagá-la. Na prática, cada prorrogação voltaria a ser examinada como se fosse o primeiro pedido, com o ônus integral da prova sobre o empregador — e o próprio DHS estima cerca de 6 mil pedidos de prova adicionais (RFEs) por ano a mais. A mudança atinge justamente os casos que pareciam “rotineiros”: o profissional que já está no cargo há três anos, cuja especialidade nunca foi questionada, pode ter a mesma descrição de função contestada na renovação. Os comentários são recebidos pelo Regulations.gov até amanhã; depois disso, o DHS analisa o que recebeu e decide se publica uma regra final. Para empregadores com prorrogações previstas para 2027, a recomendação prudente é montar o dossiê como se a deferência já não existisse: descrição detalhada do cargo, prova da qualificação e documentação atualizada do empregador."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a> · <a href=\"https://www.federalregister.gov/d/2024-29354\">Federal Register 2024-29354 (regra de modernização do H-1B) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Amanhã, sexta-feira, 13/11:</strong> encerram os comentários sobre o fim da deferência (USCIS-2026-0529) e sobre o aviso de término para refugiados (USCIS-2026-0397).",
+   "<strong>Segunda-feira, 30/11:</strong> novas taxas do EB-5 para petições postadas nessa data ou depois.",
+   "<strong>Período de graça de 60 dias:</strong> segue em vigor até eventual regra final publicada no Federal Register.",
+   "<strong>EAD:</strong> sem extensão automática na renovação — protocole até 180 dias antes do vencimento.",
+   "<strong>Partida voluntária:</strong> o prazo fixado pelo juiz corre mesmo com pedido de reabertura protocolado depois dele (Matter of Ontiveros-Diaz, 30 I&amp;N Dec. 222)."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Refugiados: aviso de término com prazo mais curto também fecha amanhã",
+      "deck": "Também termina em 13 de novembro a consulta sobre a proposta que retira do 8 CFR 207.9 o aviso de 30 dias dado ao refugiado antes do término do seu status, reduzindo a 10 dias o prazo para resposta.",
+      "body": [
+       "Também termina em 13 de novembro a consulta sobre a proposta que retira do 8 CFR 207.9 o aviso de 30 dias dado ao refugiado antes do término do seu status, reduzindo a 10 dias o prazo para resposta. É uma mudança de procedimento com efeito muito concreto: quem recebe o aviso terá menos tempo para reunir provas e contratar representação antes de o USCIS decidir. Refugiados que ainda não ajustaram status para residente permanente devem manter documentação e endereço atualizados para não perder o aviso."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 — Removing 30-Day Refugee Termination Notice ↗</a> · <a href=\"https://www.regulations.gov/docket/USCIS-2026-0397\">Regulations.gov USCIS-2026-0397 ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: em vigor enquanto o DHS analisa os comentários",
+      "deck": "A consulta pública sobre a eliminação dos até 60 dias de que dispõe quem perde o emprego em H-1B, L-1, O-1, TN, E-1, E-2 ou E-3 encerrou em 10 de novembro.",
+      "body": [
+       "A consulta pública sobre a eliminação dos até 60 dias de que dispõe quem perde o emprego em H-1B, L-1, O-1, TN, E-1, E-2 ou E-3 encerrou em 10 de novembro. Agora o DHS precisa responder aos comentários antes de eventualmente publicar uma regra final, que terá data de vigência própria. Até lá, nada muda: o trabalhador demitido continua podendo usar o período para buscar novo empregador, pedir mudança de status ou se preparar para sair do país."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "EB-5: 18 dias para protocolar pela tabela antiga",
+      "deck": "As novas taxas do EB-5 valem para petições postadas a partir de 30 de novembro. O I-526 passa de US$ 3.675 para US$ 7.615 (já com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a contribuição do…",
+      "body": [
+       "As novas taxas do EB-5 valem para petições postadas a partir de 30 de novembro. O I-526 passa de US$ 3.675 para US$ 7.615 (já com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a contribuição do Integrity Fund do I-526E vai de US$ 1.000 para US$ 1.100. Quem já tem a documentação pronta economiza ao postar até 29 de novembro."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Ajuste de Status",
+    "items": [
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "Renovação do EAD sem extensão automática: o calendário passou a ser do requerente",
+      "deck": "Com a regra final que eliminou a extensão automática na renovação do EAD (FR 2026-20955), quem aguarda o green card com base no I-485 e depende do cartão de autorização de trabalho não pode mais contar com os dias…",
+      "body": [
+       "Com a regra final que eliminou a extensão automática na renovação do EAD (FR 2026-20955), quem aguarda o green card com base no I-485 e depende do cartão de autorização de trabalho não pode mais contar com os dias adicionais de validade enquanto a renovação tramita. Se o cartão vencer antes da aprovação, o trabalho precisa parar. A regra prática é protocolar a renovação o mais cedo permitido — até 180 dias antes do vencimento — e avisar o empregador sobre a data de expiração."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "A deferência e seu vaivém de 22 anos",
+      "deck": "A briga que se encerra amanhã é antiga. Em 23 de abril de 2004, um memorando do então diretor associado de operações do USCIS, William Yates, orientou os oficiais a respeitar aprovações anteriores ao analisar…",
+      "body": [
+       "A briga que se encerra amanhã é antiga. Em 23 de abril de 2004, um memorando do então diretor associado de operações do USCIS, William Yates, orientou os oficiais a respeitar aprovações anteriores ao analisar prorrogações com as mesmas partes e os mesmos fatos — afinal, se a lei e os fatos não mudaram, por que a resposta mudaria? Em outubro de 2017, o USCIS revogou a orientação, sob o argumento de que cada petição deve provar sua elegibilidade por si; seguiram-se anos de RFEs em prorrogações que antes passavam sem sobressalto. Em 27 de abril de 2021, a agência restaurou a deferência no Policy Manual, e em dezembro de 2024 ela ganhou o status mais forte possível: virou regulamento, no 8 CFR 214.1(c)(5). Agora, a proposta de 2026 quer desfazer exatamente esse passo. O vaivém mostra uma lição que todo empregador deveria guardar: uma política administrativa favorável é um ganho, mas não uma garantia — e o melhor seguro continua sendo um processo que se sustente sozinho, sem depender da memória do governo."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20210427-Deference.pdf\">USCIS Policy Alert, 27/04/2021 — Deference to Prior Determinations ↗</a> · <a href=\"https://www.uscis.gov/policy-manual/volume-2-part-a-chapter-4\">USCIS Policy Manual, Vol. 2, Part A, Ch. 4 ↗</a> · <a href=\"https://www.federalregister.gov/d/2024-29354\">Federal Register 2024-29354 ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

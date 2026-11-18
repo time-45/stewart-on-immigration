@@ -1,0 +1,34 @@
+{
+ "date": "2026-08-28",
+ "issue": 10,
+ "en": {
+  "date_long": "Friday, August 28, 2026",
+  "date_short": "08/28/2026",
+  "lead": {
+   "kicker": "Today's Headline",
+   "headline": "Official FLAG data: PERM analyst review advances to October 2025",
+   "deck": "The DOL's official processing-times page (FLAG), updated 08/27, shows PERM's initial screening (Analyst Review) now processing cases filed in October 2025 — a one-month advance in the queue from last week's reading. Audit Review remains at December 2025.",
+   "body": [
+    "According to the official <strong>flag.dol.gov/processingtimes</strong> page (data as of 08/27), OFLC is adjudicating, in <strong>analyst review</strong>, PERM cases filed in <strong>October 2025</strong>; in <strong>audit review</strong>, cases from <strong>December 2025</strong>; and in <strong>reconsideration requests to the Certifying Officer</strong>, cases from <strong>April 2026</strong>. There is no sign yet of a change in the program's overall pace — but the one-month advance in initial screening is a concrete data point for planning cases already in the queue."
+   ],
+   "src": "Official source: DOL/OFLC — FLAG Processing Times · <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes (data as of 08/27/2026) ↗</a>"
+  },
+  "deadlines": [],
+  "sections": []
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 28 de agosto de 2026",
+  "date_short": "28/08/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "FLAG oficial: revisão do analista no PERM avança para outubro de 2025",
+   "deck": "A página oficial de processamento do DOL (FLAG), atualizada em 27/08, mostra a triagem inicial do PERM (Analyst Review) já processando casos protocolados em outubro de 2025 — um mês de avanço na fila em relação à leitura da semana passada. A auditoria (Audit Review) permanece em dezembro de 2025.",
+   "body": [
+    "De acordo com a página oficial <strong>flag.dol.gov/processingtimes</strong> (dados de 27/08), o OFLC está adjudicando, na <strong>revisão do analista</strong>, casos PERM protocolados em <strong>outubro de 2025</strong>; na <strong>auditoria</strong>, casos de <strong>dezembro de 2025</strong>; e nos pedidos de <strong>reconsideração ao Certifying Officer</strong>, casos de <strong>abril de 2026</strong>. Não há sinal, por ora, de mudança no ritmo geral do programa — mas o avanço de um mês na triagem inicial é um dado concreto para orientar o planejamento de casos em fila."
+   ],
+   "src": "Fonte oficial: DOL/OFLC — FLAG Processing Times · <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes (dados de 27/08/2026) ↗</a>"
+  },
+  "deadlines": [],
+  "sections": []
+ }
+}

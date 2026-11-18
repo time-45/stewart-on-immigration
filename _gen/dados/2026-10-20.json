@@ -1,0 +1,246 @@
+{
+ "date": "2026-10-20",
+ "issue": 52,
+ "en": {
+  "date_long": "Tuesday, October 20, 2026",
+  "date_short": "10/20/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "BIA: judges need not accept affidavit facts as true on motions to reopen",
+   "deck": "Matter of J-E-D-C-, decided Oct. 19, rejects the Ninth Circuit rule; the Board also ruled on advance parole and asylum (M-R-I-) and on attorney discipline for AI-generated citations (Sethi).",
+   "body": [
+    "In Interim Decision #4261 (30 I&amp;N Dec. 162), the Board held that the Ninth Circuit rule requiring adjudicators to accept an affidavit's facts as true on a motion to reopen (unless inherently unbelievable) conflicts with <em>INS v. Abudu</em> and <em>Garland v. Ming Dai</em>. Adjudicators may now assess the reliability of affidavits or declarations supporting a motion to reopen under the same credibility standards used for applications for relief. Here, the respondent's claim that he did not know he had to attend the hearing was contradicted by the record (notice personally served; hearing date explained in Spanish), and the appeal was dismissed.",
+    "In practice: for in absentia and other fact-based motions to reopen, the client's declaration alone will not carry the motion. Attach documentary evidence and independent corroboration from the first filing. Today's sweep found no new DHS, DOL/OFLC or State Department act in the Federal Register."
+   ],
+   "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1466896/dl?inline\">EOIR — Interim Decision #4261 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Nov. 9:</strong> comments close on the proposed OPT fee. <strong>Nov. 13:</strong> comments close on ending deference (I-129) and on the refugee interim rule.",
+   "<strong>Dec. 7:</strong> comments close on the OPT information collection.",
+   "<strong>This week:</strong> publication of the November Visa Bulletin and possible FLAG notices. <em>Official source:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Precedent · BIA",
+      "tagtype": "final",
+      "title": "Matter of J-E-D-C-, 30 I&N Dec. 162 (BIA 2026): affidavits on motions to reopen get a credibility test",
+      "deck": "Decided Oct. 19, 2026 (Interim Decision #4261).",
+      "body": [
+       "Decided Oct. 19, 2026 (Interim Decision #4261). Adjudicators need not presume the affidavit's facts true, even if not inherently unbelievable, and may apply the credibility standards used for relief applications. The Board also declined to reopen sua sponte."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1466896/dl?inline\">EOIR — Interim Decision #4261 ↗</a>"
+     },
+     {
+      "tag": "Precedent · BIA",
+      "tagtype": "final",
+      "title": "Matter of M-R-I-, 30 I&N Dec. 137 (BIA 2026): returning to the persecutor's country on advance parole = abandonment",
+      "deck": "Decided Oct. 7, 2026 (Interim Decision #4258).",
+      "body": [
+       "Decided Oct. 7, 2026 (Interim Decision #4258). A noncitizen who returns to the country of claimed persecution under advance parole is treated as having abandoned the entire pending application (asylum, withholding and CAT) absent compelling reasons for the trip. The Board also held that a mandatory bar depends on the evidentiary record, not counsel's arguments. Counsel clients with pending asylum claims not to travel to the home country without prior analysis."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1464646/dl?inline\">EOIR — Interim Decision #4258 ↗</a>"
+     },
+     {
+      "tag": "Alert",
+      "tagtype": "alert",
+      "title": "Matter of Sethi, 30 I&N Dec. 112 (BIA 2026): attorney suspended over fake AI-generated citations",
+      "deck": "Decided Oct. 1, 2026 (Interim Decision #4254; first issued unpublished Sept.",
+      "body": [
+       "Decided Oct. 1, 2026 (Interim Decision #4254; first issued unpublished Sept. 15). Reciprocal discipline: a 6-month suspension from practice before the Board, the Immigration Courts and DHS, effective June 13, 2026 (the date of the Ninth Circuit suspension), for a brief with AI-generated fake citations and false statements about AI use. A reminder that every AI-assisted citation must be checked by hand before filing."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1463666/dl?inline\">EOIR — Interim Decision #4254 ↗</a>"
+     },
+     {
+      "tag": "No new act",
+      "tagtype": "final",
+      "title": "DHS, DOL and State Department: nothing new in the Federal Register Oct. 16–20",
+      "deck": "The Federal Register query returned no new immigration act from these agencies beyond what we already reported (the EAD final rule, 91 FR 65306, effective since Oct.",
+      "body": [
+       "The Federal Register query returned no new immigration act from these agencies beyond what we already reported (the EAD final rule, 91 FR 65306, effective since Oct. 14)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-129: proposal to end deference to prior approvals remains open",
+      "deck": "Proposal to revoke 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comments due Nov.",
+      "body": [
+       "Proposal to revoke 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comments due Nov. 13. Nothing changes today; for H-1B/L-1, strengthen the documentation of every extension."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "OPT: proposed US$70,000 fee per initial nomination",
+      "deck": "ICE/DHS NPRM (docket ICEB-2026-0100) still in comment period (through Nov. 9 on the rule; Dec.",
+      "body": [
+       "ICE/DHS NPRM (docket ICEB-2026-0100) still in comment period (through Nov. 9 on the rule; Dec. 7 on the information collection). Not in effect until a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new notice; the latest announcement is from Sept. 2",
+      "deck": "The FLAG announcements page still shows the Sept. 2, 2026 notice (H-2A AEWR, issued to comply with an Aug.",
+      "body": [
+       "The FLAG announcements page still shows the Sept. 2, 2026 notice (H-2A AEWR, issued to comply with an Aug. 26 court order) as the latest; nothing new on PERM or prevailing wage. Check processing times before projecting deadlines for clients."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin still “Coming Soon”",
+      "deck": "The State Department page still lists October 2026 as the current bulletin and November as “Coming Soon”.",
+      "body": [
+       "The State Department page still lists October 2026 as the current bulletin and November as &ldquo;Coming Soon&rdquo;."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Terça-feira, 20 de outubro de 2026",
+  "date_short": "20/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "BIA: juízes não precisam aceitar como verdadeiras as declarações em pedidos de reabertura",
+   "deck": "Matter of J-E-D-C-, decidido em 19/10, rejeita a regra do Nono Circuito; também saem decisões sobre advance parole e asilo (M-R-I-) e disciplina de advogado por citações geradas por IA (Sethi).",
+   "body": [
+    "Em Interim Decision #4261 (30 I&amp;N Dec. 162), o Board entendeu que a regra do Nono Circuito, que obrigava a aceitar como verdadeiros os fatos de uma declaração juramentada em pedido de reabertura (salvo se inerentemente inverossímeis), conflita com <em>INS v. Abudu</em> e <em>Garland v. Ming Dai</em>. Agora, ao avaliar declarações que sustentam uma moção de reabertura, o adjudicador pode avaliar a confiabilidade com os mesmos padrões de credibilidade usados em pedidos de alívio. No caso, a alegação de que o respondente não sabia que devia comparecer à audiência foi contrariada pelo registro (notificação entregue pessoalmente; data explicada em espanhol), e o recurso foi negado.",
+    "Na prática: em pedidos de reabertura <em>in absentia</em> ou por outros fundamentos factuais, a declaração do cliente não basta por si só. Junte prova documental e corroboração independente desde a primeira petição. Na varredura de hoje não encontramos ato novo do DHS, do DOL/OFLC ou do Departamento de Estado no Federal Register."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1466896/dl?inline\">EOIR — Interim Decision #4261 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>13/11:</strong> encerram os comentários sobre o fim da deferência (I-129) e a regra interina de refugiados.",
+   "<strong>07/12:</strong> encerram os comentários sobre a coleta de informação do OPT.",
+   "<strong>Esta semana:</strong> publicação do Visa Bulletin de novembro e possíveis avisos do FLAG. <em>Fonte oficial:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Precedente · BIA",
+      "tagtype": "final",
+      "title": "Matter of J-E-D-C-, 30 I&N Dec. 162 (BIA 2026): declarações em reabertura passam por teste de credibilidade",
+      "deck": "Decidido em 19/10/2026 (Interim Decision #4261). Os adjudicadores não precisam presumir verdadeiros os fatos da declaração, ainda que não sejam inverossímeis, e podem aplicar os padrões de credibilidade dos pedidos de…",
+      "body": [
+       "Decidido em 19/10/2026 (Interim Decision #4261). Os adjudicadores não precisam presumir verdadeiros os fatos da declaração, ainda que não sejam inverossímeis, e podem aplicar os padrões de credibilidade dos pedidos de alívio. O Board também não reabriu de ofício."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1466896/dl?inline\">EOIR — Interim Decision #4261 ↗</a>"
+     },
+     {
+      "tag": "Precedente · BIA",
+      "tagtype": "final",
+      "title": "Matter of M-R-I-, 30 I&N Dec. 137 (BIA 2026): voltar ao país da perseguição com advance parole = abandono",
+      "deck": "Decidido em 07/10/2026 (Interim Decision #4258). Quem retorna ao país da alegada perseguição com advance parole é tratado, em regra, como tendo abandonado o pedido pendente inteiro (asilo, withholding e CAT), salvo…",
+      "body": [
+       "Decidido em 07/10/2026 (Interim Decision #4258). Quem retorna ao país da alegada perseguição com advance parole é tratado, em regra, como tendo abandonado o pedido pendente inteiro (asilo, withholding e CAT), salvo razões imperiosas para a viagem. O Board também afirmou que a existência de um impedimento obrigatório depende da prova nos autos, não de argumentos do advogado. Oriente clientes com asilo pendente a não viajar ao país de origem sem análise prévia."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1464646/dl?inline\">EOIR — Interim Decision #4258 ↗</a>"
+     },
+     {
+      "tag": "Alerta",
+      "tagtype": "alert",
+      "title": "Matter of Sethi, 30 I&N Dec. 112 (BIA 2026): suspensão de advogado por citações falsas geradas por IA",
+      "deck": "Decidido em 01/10/2026 (Interim Decision #4254; antes emitido sem publicação em 15/09). Disciplina recíproca: suspensão de 6 meses perante o BIA, as cortes de imigração e o DHS, com efeitos a partir de 13/06/2026 (data…",
+      "body": [
+       "Decidido em 01/10/2026 (Interim Decision #4254; antes emitido sem publicação em 15/09). Disciplina recíproca: suspensão de 6 meses perante o BIA, as cortes de imigração e o DHS, com efeitos a partir de 13/06/2026 (data da suspensão do Nono Circuito), por petição com citações inexistentes geradas por IA e declarações falsas sobre o uso de IA. Lembrete para qualquer escritório: toda citação gerada com auxílio de IA deve ser verificada manualmente antes do protocolo."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1463666/dl?inline\">EOIR — Interim Decision #4254 ↗</a>"
+     },
+     {
+      "tag": "Sem ato novo",
+      "tagtype": "final",
+      "title": "DHS, DOL e Departamento de Estado: nada novo no Federal Register entre 16 e 20/10",
+      "deck": "A consulta ao Federal Register não retornou ato de imigração novo dessas agências além do que já noticiamos (regra final do EAD, 91 FR 65306, vigente desde 14/10).",
+      "body": [
+       "A consulta ao Federal Register não retornou ato de imigração novo dessas agências além do que já noticiamos (regra final do EAD, 91 FR 65306, vigente desde 14/10)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-129: proposta de acabar com a deferência a aprovações anteriores segue aberta",
+      "deck": "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comentários até 13/11.",
+      "body": [
+       "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comentários até 13/11. Nada muda hoje; para H-1B/L-1, reforce a documentação de cada extensão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "OPT: taxa proposta de US$70.000 por indicação inicial",
+      "deck": "NPRM do ICE/DHS (docket ICEB-2026-0100) ainda em período de comentários (até 09/11 sobre a regra; 07/12 sobre a coleta de informação).",
+      "body": [
+       "NPRM do ICE/DHS (docket ICEB-2026-0100) ainda em período de comentários (até 09/11 sobre a regra; 07/12 sobre a coleta de informação). Sem vigência até regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem mudança",
+      "tagtype": "final",
+      "title": "FLAG: nenhum aviso novo; último anúncio é de 02/09",
+      "deck": "A página de anúncios do FLAG segue com o comunicado de 02/09/2026 (AEWR do H-2A, em cumprimento a ordem judicial de 26/08) como o mais recente; nada novo sobre PERM ou prevailing wage.",
+      "body": [
+       "A página de anúncios do FLAG segue com o comunicado de 02/09/2026 (AEWR do H-2A, em cumprimento a ordem judicial de 26/08) como o mais recente; nada novo sobre PERM ou prevailing wage. Confira os tempos de processamento antes de projetar prazos para clientes."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro continua “Coming Soon”",
+      "deck": "A página do Departamento de Estado ainda lista outubro de 2026 como o boletim vigente e novembro como “Coming Soon”.",
+      "body": [
+       "A página do Departamento de Estado ainda lista outubro de 2026 como o boletim vigente e novembro como &ldquo;Coming Soon&rdquo;."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

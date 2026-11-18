@@ -1,0 +1,128 @@
+{
+ "date": "2026-09-12",
+ "issue": 22,
+ "en": {
+  "date_long": "Saturday, September 12, 2026",
+  "date_short": "09/12/2026",
+  "lead": {
+   "kicker": "Week in Review",
+   "headline": "A weekend with no new official actions; the week is defined by the proposal to eliminate the 60-day grace period",
+   "deck": "There was no Federal Register publication this Saturday, and the October Visa Bulletin (the FY2027 reset) has not yet been released — it is expected in the second half of September. We recap, with official sources, the actions that actually moved the week and the deadlines now approaching.",
+   "body": [
+    "The week's most far-reaching action was DHS's proposed rule <em>Eliminating the Discretionary 60-Day Grace Period</em>, published on 09/11, which would rescind 8 CFR § 214.1(l)(2) and end the up-to-60-day grace period currently available to nonimmigrant workers who leave or lose their employment &mdash; H-1B, L-1, O-1, E, and TN &mdash; and their dependents. It remains a proposal: the grace-period rule stays in effect until a final rule issues, and the public comment period runs through 11/10/2026.",
+    "On the litigation front, the challenge to the end of <em>Duration of Status</em> (F/J/I) remains undecided in the District of Massachusetts (Judge F. Dennis Saylor IV): following the 09/03 hearing, the injunction motion is still under advisement, and the rule's effective date is set for 09/15, absent a contrary order. Below, the week's thematic recap and the deadlines to watch."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register, 09/11/2026 (2026-18631) &mdash; NPRM, comments due 11/10/2026 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/15:</strong> effective date of the end of &ldquo;Duration of Status&rdquo; (F/J/I), absent a contrary court order &mdash; the injunction motion remains <strong>undecided</strong> in D. Mass. (Judge Saylor), under advisement since the 09/03 hearing; new editions of Forms I-539 and I-765 (ed. 09/15/26) take effect, with no grace period.",
+   "<strong>09/18:</strong> the new <em>public charge</em> framework (rescission of the 2022 rule) and the revised Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed US$103,265 fee per cap-subject H-1B petition (NPRM of 08/25).",
+   "<strong>09/30:</strong> the DV-2026 program eligibility year ends.",
+   "<strong>Second half of September:</strong> expected release of the October Visa Bulletin (FY2027 reset) &mdash; not yet published; September 2026 remains the most recent.",
+   "<strong>10/05:</strong> public comment closes on the interim final rule on permanent-residence registration for children of foreign-government employees (I-485/G-325R; doc 2026-18345).",
+   "<strong>10/13:</strong> public comment closes on the E-Verify data collection (doc 2026-18465) and on the renewal of Form EOIR-59 (doc 2026-18622).",
+   "<strong>11/10:</strong> public comment closes on the proposal to eliminate the 60-day grace period (doc 2026-18631).",
+   "<strong>H-2A/AEWR &mdash; ongoing:</strong> in <em>United Farm Workers et al. v. DOL</em> (E.D. Cal.), current AEWRs remain in effect with no retroactive-payment obligation for now; DOL's status report and new methodology are awaited. No new order over the weekend."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies (week)",
+    "items": [
+     {
+      "tag": "Proposal — comments due 11/10",
+      "tagtype": "prop",
+      "title": "DHS proposes to eliminate the 60-day grace period for nonimmigrants who leave their employment",
+      "deck": "Published on 09/11, the proposal rescinds 8 CFR § 214.1(l)(2) and restores what DHS describes as its prior policy of not granting the up-to-60-day window after employment ends.",
+      "body": [
+       "Published on 09/11, the proposal rescinds 8 CFR § 214.1(l)(2) and restores what DHS describes as its prior policy of <strong>not granting</strong> the up-to-60-day window after employment ends. Its reach is broad &mdash; H-1B, L-1, O-1, E, TN, and dependents &mdash; and we recommend planning employment transitions well in advance, without relying on the 60 days as a future guarantee. It remains a proposal until a final rule issues."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register, 09/11/2026 (2026-18631) ↗</a>"
+     },
+     {
+      "tag": "Effective 09/04",
+      "tagtype": "final",
+      "title": "Interim final rule lets U.S.-born children of foreign-government employees register permanent residence",
+      "deck": "USCIS's interim final rule, published on 09/09 and effective since 09/04, allows children of “foreign-government employees” (non-citizens) born in the United States to register permanent residence; it amends Form I-485…",
+      "body": [
+       "USCIS's interim final rule, published on 09/09 and effective since 09/04, allows children of &ldquo;foreign-government employees&rdquo; (non-citizens) born in the United States to register permanent residence; it amends Form I-485 and creates Form G-325R (<em>Biographic Information &mdash; Registration</em>). It applies to those born on or after 09/04; the public comment period runs through 10/05."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/09/2026-18345/\">Federal Register, 09/09/2026 (2026-18345) &mdash; I-485/G-325R ↗</a>"
+     },
+     {
+      "tag": "Ended 09/09",
+      "tagtype": "alert",
+      "title": "El Salvador TPS ended; the expanded H-1B/L-1 biometric fee took effect",
+      "deck": "Two markers of the week fell on 09/09: El Salvador's Temporary Protected Status designation ended — EADs in categories A-12/C-19 anchored to that status are valid only through 09/09, with no further extension — and the…",
+      "body": [
+       "Two markers of the week fell on 09/09: El Salvador's <em>Temporary Protected Status</em> designation ended &mdash; EADs in categories A-12/C-19 anchored to that status are valid only through 09/09, with no further extension &mdash; and the &ldquo;9-11 Response and Biometric Entry-Exit&rdquo; fee took effect, at US$4,000 per H-1B petition and US$4,500 per L-1, reaching all extension petitions filed by covered employers (50 or more employees, with more than 50% in H/L status)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/08/10/2026-16231/\">Federal Register, 08/10/2026 (2026-16231) &mdash; biometric fee ↗</a> · USCIS, I-9 Central (notices of 08/12 and 09/03) &mdash; El Salvador TPS."
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sábado, 12 de setembro de 2026",
+  "date_short": "12/09/2026",
+  "lead": {
+   "kicker": "Semana em revista",
+   "headline": "Fim de semana sem atos oficiais novos; a semana fica marcada pela proposta que elimina o período de cortesia de 60 dias",
+   "deck": "Não houve publicação no Federal Register neste sábado, e o Visa Bulletin de outubro (reset do FY2027) ainda não foi divulgado — previsão para a segunda metade de setembro. Recapitulamos, com fonte oficial, os atos que efetivamente moveram a semana e a agenda de prazos que se aproxima.",
+   "body": [
+    "O ato de maior alcance da semana foi a proposta de regra do DHS <em>Eliminating the Discretionary 60-Day Grace Period</em>, publicada em 11/09, que pretende revogar o § 214.1(l)(2) do 8 CFR e acabar com o período de cortesia de até 60 dias hoje disponível a trabalhadores não-imigrantes desligados do emprego &mdash; H-1B, L-1, O-1, E e TN &mdash; e a seus dependentes. Trata-se de proposta: a regra de cortesia permanece em vigor enquanto não houver regra final, e o comentário público segue aberto até 10/11/2026.",
+    "No plano judicial, o litígio sobre o fim do <em>Duration of Status</em> (F/J/I) segue sem despacho no Distrito de Massachusetts (juiz F. Dennis Saylor IV): após a audiência de 03/09, o pedido de liminar continua sob consulta, e a vigência da regra está marcada para 15/09, salvo decisão em contrário. Abaixo, o apanhado temático da semana e a lista de prazos a observar."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register, 11/09/2026 (2026-18631) &mdash; NPRM, comentário até 10/11/2026 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>15/09:</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial em contrário &mdash; o pedido de liminar segue <strong>sem despacho</strong> no D. Mass. (juiz Saylor), sob consulta desde a audiência de 03/09; entram em vigor as novas edições dos Formulários I-539 e I-765 (ed. 09/15/26), sem período de carência.",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> (rescisão da regra de 2022) e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto (NPRM de 25/08).",
+   "<strong>30/09:</strong> encerra o ano de elegibilidade do programa DV-2026.",
+   "<strong>2ª metade de setembro:</strong> publicação prevista do Visa Bulletin de outubro (reset do FY2027) &mdash; ainda não divulgado; setembro/2026 segue como o mais recente.",
+   "<strong>05/10:</strong> encerra o comentário público sobre a regra interina final do registro de residência permanente de filhos de empregados de governos estrangeiros (I-485/G-325R; doc 2026-18345).",
+   "<strong>13/10:</strong> encerra o comentário público sobre a coleta de dados do programa E-Verify (doc 2026-18465) e sobre a renovação do Formulário EOIR-59 (doc 2026-18622).",
+   "<strong>10/11:</strong> encerra o comentário público sobre a proposta que elimina o período de cortesia de 60 dias (doc 2026-18631).",
+   "<strong>H-2A/AEWR &mdash; em acompanhamento:</strong> em <em>United Farm Workers et al. v. DOL</em> (E.D. Cal.), os AEWRs atuais seguem vigentes e sem obrigação de pagamento retroativo por ora; aguarda-se o relatório de status do DOL e a nova metodologia. Sem despacho novo no fim de semana."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências (semana)",
+    "items": [
+     {
+      "tag": "Proposta — comentário até 10/11",
+      "tagtype": "prop",
+      "title": "DHS propõe eliminar o período de cortesia de 60 dias para não-imigrantes desligados do emprego",
+      "deck": "Publicada em 11/09, a proposta revoga o § 214.1(l)(2) do 8 CFR e restaura o que o DHS descreve como política anterior de não conceder o intervalo de até 60 dias após a cessação do vínculo.",
+      "body": [
+       "Publicada em 11/09, a proposta revoga o § 214.1(l)(2) do 8 CFR e restaura o que o DHS descreve como política anterior de <strong>não conceder</strong> o intervalo de até 60 dias após a cessação do vínculo. O alcance é amplo &mdash; H-1B, L-1, O-1, E, TN e dependentes &mdash; e recomendamos tratar transições de emprego com planejamento antecipado, sem contar com os 60 dias como garantia futura. Segue como proposta enquanto não houver regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register, 11/09/2026 (2026-18631) ↗</a>"
+     },
+     {
+      "tag": "Vigente 04/09",
+      "tagtype": "final",
+      "title": "IFR permite registro de residência permanente a filhos de empregados de governos estrangeiros nascidos nos EUA",
+      "deck": "A regra interina final do USCIS, publicada em 09/09 e vigente desde 04/09, permite que filhos de “empregados de governos estrangeiros” (não-cidadãos) nascidos em território norte-americano registrem residência…",
+      "body": [
+       "A regra interina final do USCIS, publicada em 09/09 e vigente desde 04/09, permite que filhos de &ldquo;empregados de governos estrangeiros&rdquo; (não-cidadãos) nascidos em território norte-americano registrem residência permanente; altera o Formulário I-485 e cria o Formulário G-325R (<em>Biographic Information &mdash; Registration</em>). Aplica-se a nascidos em ou após 04/09; o comentário público segue aberto até 05/10."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/09/2026-18345/\">Federal Register, 09/09/2026 (2026-18345) &mdash; I-485/G-325R ↗</a>"
+     },
+     {
+      "tag": "Encerrado 09/09",
+      "tagtype": "alert",
+      "title": "TPS de El Salvador terminou; taxa biométrica ampliada de H-1B/L-1 passou a vigorar",
+      "deck": "Dois marcos da semana em 09/09: encerrou-se a designação de Temporary Protected Status de El Salvador — os EADs das categorias A-12/C-19 ancorados nesse status valem até 09/09, sem nova extensão —, e entrou em vigor a…",
+      "body": [
+       "Dois marcos da semana em 09/09: encerrou-se a designação de <em>Temporary Protected Status</em> de El Salvador &mdash; os EADs das categorias A-12/C-19 ancorados nesse status valem até 09/09, sem nova extensão &mdash;, e entrou em vigor a taxa &ldquo;9-11 Response and Biometric Entry-Exit&rdquo;, de US$4.000 por petição H-1B e US$4.500 por L-1, alcançando todas as prorrogações dos empregadores enquadrados (50 ou mais empregados, com mais de 50% em status H/L)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/08/10/2026-16231/\">Federal Register, 10/08/2026 (2026-16231) &mdash; taxa biométrica ↗</a> · USCIS, I-9 Central (avisos de 12/08 e 03/09) &mdash; TPS El Salvador."
+     }
+    ]
+   }
+  ]
+ }
+}

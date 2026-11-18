@@ -1,0 +1,207 @@
+{
+ "date": "2026-09-14",
+ "issue": 24,
+ "en": {
+  "date_long": "Monday, September 14, 2026",
+  "date_short": "09/14/2026",
+  "lead": {
+   "kicker": "Forms & Agencies",
+   "headline": "USCIS moves a large batch of forms to OMB and proposes revising five collections — among them EB-5 and the inadmissibility waivers",
+   "deck": "In a single day, the Federal Register carries 34 USCIS information-collection notices under the Paperwork Reduction Act. Most renew instruments without change; five propose a revision — a signal of form changes to come.",
+   "body": [
+    "On Monday, September 14, the <em>Federal Register</em> published a block of 34 USCIS information-collection notices under the <em>Paperwork Reduction Act</em> (PRA), covering much of the agency&rsquo;s form inventory &mdash; from naturalization (N-400) to the I-140, and including the I-539, TPS (I-821) and DACA (I-821D). The great majority are &ldquo;extension, without change&rdquo;: routine reauthorization of already-approved collections, with no change to the form. It is the kind of act that usually goes unnoticed &mdash; but, gathered on a single day and in this volume, it points to an orderly sweep of the portfolio.",
+    "Five notices, however, are <strong>revisions</strong> &mdash; and under the PRA a revision means a change to the collection instrument: the form and/or its instructions. The affected collections are staples of daily practice: removal of the conditions on residence (I-751), the EB-5 investor petitions (I-526 and I-526E), the provisional unlawful-presence waiver (I-601A), the general waiver of inadmissibility (I-601), and the petition for an Amerasian, Widow(er), or Special Immigrant (I-360). The comment windows follow the PRA: 60 days (until 11/13) for four of them, and 30 days (until 10/14) for the I-751, already on its way to OMB. We detail each below."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14\">Federal Register &mdash; issue of 09/14/2026 (daily table of contents) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/15 (tomorrow):</strong> effective date of the end of &ldquo;Duration of Status&rdquo; (F/J/I), absent a court order; new editions of Forms I-539 and I-765 (ed. 09/15/26) take effect, with no grace period.",
+   "<strong>10/14:</strong> comment period (30 days) closes on the revision of Form I-751 &mdash; removal of conditions (doc 2026-18736; OMB 1615-0038).",
+   "<strong>11/13:</strong> comment period (60 days) closes on the revisions of the I-526/I-526E (EB-5), I-601A, I-601 and I-360 (docs 2026-18687, 2026-18693, 2026-18692 and 2026-18686).",
+   "<strong>09/18:</strong> the new <em>public charge</em> framework (rescission of the 2022 rule) and the revised edition of Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed US$103,265 fee per cap H-1B petition (NPRM of 08/25).",
+   "<strong>09/30:</strong> the DV-2026 program eligibility year ends.",
+   "<strong>10/05:</strong> comment closes on the interim final rule on permanent-residence registration for U.S.-born children of foreign-government employees (I-485/G-325R; doc 2026-18345).",
+   "<strong>10/13:</strong> comment closes on the E-Verify data collection (doc 2026-18465) and on the renewal of Form EOIR-59 (doc 2026-18622).",
+   "<strong>11/10:</strong> comment closes on the proposal eliminating the 60-day grace period after cessation of employment (doc 2026-18631).",
+   "<strong>October Visa Bulletin (FY2027 reset):</strong> not yet published; September 2026 remains the most recent; publication expected in the second half of September (travel.state.gov).",
+   "<strong>H-2A/AEWR &mdash; monitoring:</strong> in <em>United Farm Workers et al. v. DOL</em> (E.D. Cal.), current AEWRs remain in effect with no retroactive-pay obligation for now; DOL&rsquo;s status report and new methodology are awaited. No new order."
+  ],
+  "sections": [
+   {
+    "head": "Forms & Agencies",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "EB-5: USCIS proposes revising the investor petitions (I-526 and I-526E)",
+      "deck": "The revision reaches the Immigrant Petition by Standalone Investor (I-526) and the Immigrant Petition by Regional Center Investor (I-526E), under OMB Control 1615-0026.",
+      "body": [
+       "The revision reaches the <em>Immigrant Petition by Standalone Investor</em> (I-526) and the <em>Immigrant Petition by Regional Center Investor</em> (I-526E), under OMB Control 1615-0026. It is a 60-day notice, with comments due by 11/13/2026. As with any PRA revision, the change is to the collection instrument &mdash; the form and instructions &mdash; not to the substantive EB-5 law. The text is worth watching to anticipate new fields and evidentiary demands."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18687/agency-information-collection-activities-revision-of-a-currently-approved-collection-immigrant\">Federal Register, 09/14/2026 (2026-18687; 91 FR 58144) ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "Conditional residence: revision of the I-751 (removal of conditions) heads to OMB",
+      "deck": "The Petition to Remove the Conditions on Residence (I-751), OMB Control 1615-0038, appears as a 30-day notice — the final PRA step, with the collection already submitted to OMB for review and clearance.",
+      "body": [
+       "The <em>Petition to Remove the Conditions on Residence</em> (I-751), OMB Control 1615-0038, appears as a 30-day notice &mdash; the final PRA step, with the collection already submitted to OMB for review and clearance. Comments are due by 10/14/2026. It affects conditional residents (by marriage and by investment) who petition to remove the conditions on their green card."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18736/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-to\">Federal Register, 09/14/2026 (2026-18736; 91 FR 58160) ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "Provisional waiver: revision of the I-601A (unlawful presence)",
+      "deck": "The Application for Provisional Unlawful Presence Waiver (I-601A), OMB Control 1615-0123, goes to revision by a 60-day notice; comments due by 11/13/2026.",
+      "body": [
+       "The <em>Application for Provisional Unlawful Presence Waiver</em> (I-601A), OMB Control 1615-0123, goes to revision by a 60-day notice; comments due by 11/13/2026. The I-601A allows an applicant to request, while still in the United States, a waiver of unlawful presence ahead of the consular interview, shortening family separation."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18693/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for\">Federal Register, 09/14/2026 (2026-18693; 91 FR 58150) ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "General waiver of inadmissibility: revision of the I-601",
+      "deck": "The Application for Waiver of Grounds of Inadmissibility (I-601), OMB Control 1615-0029, also goes to revision (60 days; comments due 11/13/2026).",
+      "body": [
+       "The <em>Application for Waiver of Grounds of Inadmissibility</em> (I-601), OMB Control 1615-0029, also goes to revision (60 days; comments due 11/13/2026). It is the broad-reach waiver for various grounds of inadmissibility under INA 212(a) &mdash; from fraud/misrepresentation to certain convictions and to unlawful presence outside the I-601A track."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18692/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for\">Federal Register, 09/14/2026 (2026-18692; 91 FR 58157) ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-360 (Amerasian, Widow(er), and Special Immigrant): collection goes to revision",
+      "deck": "The Petition for Amerasian, Widow(er), or Special Immigrant (I-360), OMB Control 1615-0020, goes to revision by a 60-day notice; comments due by 11/13/2026.",
+      "body": [
+       "The <em>Petition for Amerasian, Widow(er), or Special Immigrant</em> (I-360), OMB Control 1615-0020, goes to revision by a 60-day notice; comments due by 11/13/2026. The I-360 covers distinct categories &mdash; from special immigrants (including religious workers and SIJ) to widow(er)s of citizens and VAWA self-petitions."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18686/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-for\">Federal Register, 09/14/2026 (2026-18686; 91 FR 58164) ↗</a>"
+     },
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "The rest of the batch: reauthorization without change",
+      "deck": "The other collections in the block are “extension, without change” — periodic reauthorizations of already-approved instruments, among them the N-400 (naturalization), I-140 (immigrant worker), I-539 (extension/change of…",
+      "body": [
+       "The other collections in the block are &ldquo;extension, without change&rdquo; &mdash; periodic reauthorizations of already-approved instruments, among them the N-400 (naturalization), I-140 (immigrant worker), I-539 (extension/change of status), I-129F, I-730, I-821 (TPS) and I-821D (DACA). There is no form change: only the periodic reauthorization of the collection under the PRA. We log the set for traceability, without alarm."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/14\">Federal Register &mdash; issue of 09/14/2026 (daily table of contents, USCIS notices) ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Segunda-feira, 14 de setembro de 2026",
+  "date_short": "14/09/2026",
+  "lead": {
+   "kicker": "Formulários & Agências",
+   "headline": "USCIS leva grande lote de formulários ao OMB e propõe revisar cinco coleções — entre elas o EB-5 e os waivers de inadmissibilidade",
+   "deck": "Em um único dia, o Federal Register traz 34 avisos de coleta de informação do USCIS sob o Paperwork Reduction Act. A maioria renova instrumentos sem alteração; cinco propõem revisão — sinal de mudança por vir nos formulários.",
+   "body": [
+    "Nesta segunda-feira, 14/09, o <em>Federal Register</em> publicou um bloco de 34 avisos de <em>information collection</em> do USCIS sob o <em>Paperwork Reduction Act</em> (PRA), cobrindo boa parte do inventário de formulários da agência &mdash; da naturalização (N-400) ao I-140, passando por I-539, TPS (I-821) e DACA (I-821D). A grande maioria é &ldquo;<em>extension, without change</em>&rdquo;: reautorização de rotina de coletas já aprovadas, sem mexer no formulário. É o tipo de ato que passa despercebido, mas que, reunido em um só dia e nesta quantidade, sinaliza uma varredura ordenada do portfólio.",
+    "Cinco avisos, porém, são de <strong>revisão</strong> &mdash; e revisão, no PRA, significa alteração do instrumento de coleta: o formulário e/ou suas instruções. As coleções afetadas são de uso diário na prática: a remoção de condições da residência (I-751), as petições do investidor EB-5 (I-526 e I-526E), o perdão provisório de presença ilegal (I-601A), o waiver geral de inadmissibilidade (I-601) e a petição para Amerasian, viúvo(a) ou imigrante especial (I-360). O prazo de comentário segue o rito do PRA: 60 dias (até 13/11) para quatro delas e 30 dias (até 14/10) para o I-751, já a caminho do OMB. Detalhamos cada uma a seguir."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14\">Federal Register &mdash; edição de 14/09/2026 (índice do dia) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>15/09 (amanhã):</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial em contrário; entram em vigor as novas edições dos Formulários I-539 e I-765 (ed. 09/15/26), sem período de carência.",
+   "<strong>14/10:</strong> encerra o comentário (30 dias) da revisão do Formulário I-751 &mdash; remoção de condições (doc 2026-18736; OMB 1615-0038).",
+   "<strong>13/11:</strong> encerra o comentário (60 dias) das revisões do I-526/I-526E (EB-5), I-601A, I-601 e I-360 (docs 2026-18687, 2026-18693, 2026-18692 e 2026-18686).",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> (rescisão da regra de 2022) e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto (NPRM de 25/08).",
+   "<strong>30/09:</strong> encerra o ano de elegibilidade do programa DV-2026.",
+   "<strong>05/10:</strong> encerra o comentário sobre a regra interina final do registro de residência permanente de filhos de empregados de governos estrangeiros (I-485/G-325R; doc 2026-18345).",
+   "<strong>13/10:</strong> encerra o comentário sobre a coleta de dados do E-Verify (doc 2026-18465) e sobre a renovação do Formulário EOIR-59 (doc 2026-18622).",
+   "<strong>10/11:</strong> encerra o comentário sobre a proposta que elimina o período de cortesia de 60 dias após a cessação do emprego (doc 2026-18631).",
+   "<strong>Visa Bulletin de outubro (reset do FY2027):</strong> ainda não publicado; setembro/2026 segue como o mais recente; publicação esperada na 2ª metade de setembro (travel.state.gov).",
+   "<strong>H-2A/AEWR &mdash; em acompanhamento:</strong> em <em>United Farm Workers et al. v. DOL</em> (E.D. Cal.), os AEWRs atuais seguem vigentes e sem obrigação de pagamento retroativo por ora; aguarda-se o relatório de status e a nova metodologia do DOL. Sem despacho novo."
+  ],
+  "sections": [
+   {
+    "head": "Formulários & Agências",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "EB-5: USCIS propõe revisar as petições do investidor (I-526 e I-526E)",
+      "deck": "A revisão alcança a Immigrant Petition by Standalone Investor (I-526) e a Immigrant Petition by Regional Center Investor (I-526E), sob o OMB Control 1615-0026.",
+      "body": [
+       "A revisão alcança a <em>Immigrant Petition by Standalone Investor</em> (I-526) e a <em>Immigrant Petition by Regional Center Investor</em> (I-526E), sob o OMB Control 1615-0026. É aviso de 60 dias, com comentário até 13/11/2026. Como toda revisão sob o PRA, a mudança recai sobre o instrumento de coleta &mdash; formulário e instruções &mdash; e não sobre a lei substantiva do EB-5. Vale acompanhar o texto para antecipar novos campos e exigências de evidência."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18687/agency-information-collection-activities-revision-of-a-currently-approved-collection-immigrant\">Federal Register, 14/09/2026 (2026-18687; 91 FR 58144) ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "Residência condicional: revisão do I-751 (remoção de condições) segue para o OMB",
+      "deck": "A Petition to Remove the Conditions on Residence (I-751), OMB Control 1615-0038, aparece em aviso de 30 dias — etapa final do PRA, com a coleta já submetida ao OMB para revisão e clearance.",
+      "body": [
+       "A <em>Petition to Remove the Conditions on Residence</em> (I-751), OMB Control 1615-0038, aparece em aviso de 30 dias &mdash; etapa final do PRA, com a coleta já submetida ao OMB para revisão e <em>clearance</em>. Comentário até 14/10/2026. Atinge os residentes condicionais (por casamento e por investimento) que peticionam a remoção das condições da <em>green card</em>."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18736/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-to\">Federal Register, 14/09/2026 (2026-18736; 91 FR 58160) ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "Perdão provisório: revisão do I-601A (unlawful presence)",
+      "deck": "O Application for Provisional Unlawful Presence Waiver (I-601A), OMB Control 1615-0123, entra em revisão por aviso de 60 dias; comentário até 13/11/2026.",
+      "body": [
+       "O <em>Application for Provisional Unlawful Presence Waiver</em> (I-601A), OMB Control 1615-0123, entra em revisão por aviso de 60 dias; comentário até 13/11/2026. O I-601A permite requerer, ainda nos Estados Unidos, o perdão da presença ilegal antes da entrevista consular, reduzindo o tempo de separação familiar."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18693/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for\">Federal Register, 14/09/2026 (2026-18693; 91 FR 58150) ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "Waiver geral de inadmissibilidade: revisão do I-601",
+      "deck": "O Application for Waiver of Grounds of Inadmissibility (I-601), OMB Control 1615-0029, também vai a revisão (60 dias; comentário até 13/11/2026).",
+      "body": [
+       "O <em>Application for Waiver of Grounds of Inadmissibility</em> (I-601), OMB Control 1615-0029, também vai a revisão (60 dias; comentário até 13/11/2026). É o perdão de amplo alcance para diversas causas de inadmissibilidade da INA 212(a) &mdash; do fraude/deturpação a certas condenações e à presença ilegal fora do rito do I-601A."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18692/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for\">Federal Register, 14/09/2026 (2026-18692; 91 FR 58157) ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-360 (Amerasian, viúvo(a) e imigrante especial): coleta vai a revisão",
+      "deck": "A Petition for Amerasian, Widow(er), or Special Immigrant (I-360), OMB Control 1615-0020, entra em revisão por aviso de 60 dias; comentário até 13/11/2026.",
+      "body": [
+       "A <em>Petition for Amerasian, Widow(er), or Special Immigrant</em> (I-360), OMB Control 1615-0020, entra em revisão por aviso de 60 dias; comentário até 13/11/2026. O I-360 cobre categorias distintas &mdash; de imigrantes especiais (incluindo trabalhadores religiosos e SIJ) a viúvos(as) de cidadãos e autopetições sob a VAWA."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14/2026-18686/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-for\">Federal Register, 14/09/2026 (2026-18686; 91 FR 58164) ↗</a>"
+     },
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Os demais avisos do lote: renovação sem alteração",
+      "deck": "As outras coleções do bloco são “extension, without change” — renovações periódicas de instrumentos já aprovados, entre eles N-400 (naturalização), I-140 (trabalhador imigrante), I-539 (extensão/mudança de status),…",
+      "body": [
+       "As outras coleções do bloco são &ldquo;<em>extension, without change</em>&rdquo; &mdash; renovações periódicas de instrumentos já aprovados, entre eles N-400 (naturalização), I-140 (trabalhador imigrante), I-539 (extensão/mudança de status), I-129F, I-730, I-821 (TPS) e I-821D (DACA). Não há mudança de formulário: apenas a reautorização da coleta sob o PRA. Registramos o conjunto para rastreabilidade, sem alarde."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/14\">Federal Register &mdash; edição de 14/09/2026 (índice do dia, avisos do USCIS) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em acompanhamento",
+    "items": [
+     {
+      "tag": "Sem despacho",
+      "tagtype": "alert",
+      "title": "Fim do Duration of Status (F/J/I): liminar sem despacho na véspera da vigência (15/09)",
+      "deck": "Onze dias após a audiência de 03/09, o pedido de preliminary injunction da coalizão de entidades de ensino e sindicatos (NAFSA, Presidents’ Alliance, AICUM, AFT, GLO, UAW/Local 2322 e NewsGuild-CWA) segue sem decisão no…",
+      "body": [
+       "Onze dias após a audiência de 03/09, o pedido de <em>preliminary injunction</em> da coalizão de entidades de ensino e sindicatos (NAFSA, Presidents&rsquo; Alliance, AICUM, AFT, GLO, UAW/Local 2322 e NewsGuild-CWA) segue sem decisão no Distrito de Massachusetts (juiz F. Dennis Saylor IV). O portal oficial do litígio, atualizado por último em 10/09, não registra nova ordem. Sem liminar ou TRO até amanhã, a regra final do <em>Federal Register</em> de 17/07 (doc 2026-14439) entra em vigor em 15/09, substituindo o <em>Duration of Status</em> por prazos fixos de admissão para estudantes F, intercambistas J e representantes de mídia I. Acompanhamos e reportaremos qualquer despacho assim que publicado."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.presidentsalliance.org/duration-of-status-litigation/\">Presidents&rsquo; Alliance &mdash; Duration of Status Litigation (peças do processo e transcrição da audiência de 03/09) ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

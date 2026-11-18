@@ -1,0 +1,234 @@
+{
+ "date": "2026-10-23",
+ "issue": 55,
+ "en": {
+  "date_long": "Friday, October 23, 2026",
+  "date_short": "10/23/2026",
+  "lead": {
+   "kicker": "Top story",
+   "headline": "BIA: mail returned as undeliverable ends the duty to give notice",
+   "deck": "Matter of Chamorro Castillo (#4262, Oct. 22): if the only address in the record returns mail as undeliverable, neither the Board nor the Immigration Court has any further feasible step to notify the respondent.",
+   "body": [
+    "In a precedent decision issued October 22, 2026 (30 I&amp;N Dec. 170), the BIA held that when the only address in the record returns mail as undeliverable, the Board and Immigration Courts have no further feasible steps available to give the respondent notice. It is the Board's most recent precedent; the prior one was #4261 (Oct. 19).",
+    "In practice: the burden of keeping the address current (Form EOIR-33) rests on the client. Confirm with clients in removal proceedings that the address on file with the court is correct and that no notices have been returned, since this supports in absentia orders and makes reopening for lack of notice harder."
+   ],
+   "src": "Official source: <a href=\"https://justice.gov/eoir/media/1467521/dl?inline=\">BIA Interim Decision #4262 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> OPT fee comments close. <strong>13/11:</strong> comments close on ending I-129 deference.",
+   "<strong>Coming:</strong> November Visa Bulletin and details of the AOS notice. <em>Official source:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "BIA decision",
+      "tagtype": "alert",
+      "title": "BIA Matter of Chamorro Castillo (#4262, Oct. 22): notice to a sole returned address",
+      "deck": "See top story. The Board need not try other means of notice when the only address in the record is returned as undeliverable.",
+      "body": [
+       "See top story. The Board need not try other means of notice when the only address in the record is returned as undeliverable."
+      ],
+      "src": "Official source: <a href=\"https://justice.gov/eoir/media/1467521/dl?inline=\">BIA Interim Decision #4262 ↗</a>"
+     },
+     {
+      "tag": "No new action",
+      "tagtype": "final",
+      "title": "Federal Register: no new DHS, DOL, DOS or EOIR immigration action since yesterday",
+      "deck": "The latest listed action remains October 14, 2026 (civil penalties, DHS/EOIR, 2026-21024). Nothing later appears under the immigration topic.",
+      "body": [
+       "The latest listed action remains October 14, 2026 (civil penalties, DHS/EOIR, 2026-21024). Nothing later appears under the immigration topic."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/topics/immigration\">Federal Register — Immigration ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations\">2026-21024 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-129: proposal to end deference to prior approvals remains open",
+      "deck": "Proposal to remove 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comments due Nov.",
+      "body": [
+       "Proposal to remove 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comments due Nov. 13. For H-1B/L-1, strengthen the documentation of every extension."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "OPT: proposed US$70,000 fee per initial designation",
+      "deck": "DHS/ICE NPRM in comment period; no effect until a final rule.",
+      "body": [
+       "DHS/ICE NPRM in comment period; no effect until a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a> · <a href=\"https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs\">DHS ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new announcement; the latest remains Sept. 2",
+      "deck": "Nothing new on PERM or prevailing wage. The page listed scheduled FLAG maintenance from 9 PM ET Oct.",
+      "body": [
+       "Nothing new on PERM or prevailing wage. The page listed scheduled FLAG maintenance from 9 PM ET Oct. 22 to midnight Oct. 23; if a submission failed in that window, refile and check the status."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Adjustment of Status",
+    "items": [
+     {
+      "tag": "Attention",
+      "tagtype": "alert",
+      "title": "Notice on revised visa-availability procedure for those waiting to file I-485",
+      "deck": "The Visa Bulletin page states that USCIS, in coordination with DOS, is revising the procedures for determining visa availability, aligning them more closely with consular practice.",
+      "body": [
+       "The Visa Bulletin page states that USCIS, in coordination with DOS, is revising the procedures for determining visa availability, aligning them more closely with consular practice. Still no effective date, and we could not open the USCIS announcement text today. No additional official source yet; check the USCIS charts page on the day of filing."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin still “Coming Soon”",
+      "deck": "October 2026 remains the current bulletin.",
+      "body": [
+       "October 2026 remains the current bulletin."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 23 de outubro de 2026",
+  "date_short": "23/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "BIA: correio devolvido como não entregue encerra a obrigação de notificar",
+   "deck": "Matter of Chamorro Castillo (#4262, 22/10): se o único endereço nos autos devolve a correspondência, nem o Board nem a Corte têm outro passo viável para dar ciência ao réu.",
+   "body": [
+    "Em decisão precedente de 22/10/2026 (30 I&amp;N Dec. 170), o BIA fixou que, quando o único endereço constante do registro devolve a correspondência como não entregável, o Board e as Cortes de Imigração não dispõem de nenhuma outra medida viável para notificar o respondente. É a decisão precedente mais recente do Board; a anterior era a #4261 (19/10).",
+    "Na prática: o ônus de manter o endereço atualizado (formulário EOIR-33) recai sobre o cliente. Revise com clientes em procedimento de remoção se o endereço registrado na corte está correto e se há notificações devolvidas, pois isso sustenta ordens in absentia e dificulta reabertura por falta de notificação."
+   ],
+   "src": "Fonte oficial: <a href=\"https://justice.gov/eoir/media/1467521/dl?inline=\">BIA Interim Decision #4262 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>13/11:</strong> encerram os comentários sobre o fim da deferência (I-129).",
+   "<strong>Em breve:</strong> Visa Bulletin de novembro e detalhes do aviso de AOS. <em>Fonte oficial:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Decisão BIA",
+      "tagtype": "alert",
+      "title": "BIA Matter of Chamorro Castillo (#4262, 22/10): notificação por endereço único devolvido",
+      "deck": "Ver manchete. O Board não precisa tentar outras formas de notificação quando o único endereço dos autos retorna como não entregável.",
+      "body": [
+       "Ver manchete. O Board não precisa tentar outras formas de notificação quando o único endereço dos autos retorna como não entregável."
+      ],
+      "src": "Fonte oficial: <a href=\"https://justice.gov/eoir/media/1467521/dl?inline=\">BIA Interim Decision #4262 ↗</a>"
+     },
+     {
+      "tag": "Sem ato novo",
+      "tagtype": "final",
+      "title": "Federal Register: nenhum ato novo de DHS, DOL, DOS ou EOIR sobre imigração desde ontem",
+      "deck": "O último ato listado segue sendo de 14/10/2026 (multas civis, DHS/EOIR, 2026-21024). Na lista de tópicos de imigração não há publicação posterior.",
+      "body": [
+       "O último ato listado segue sendo de 14/10/2026 (multas civis, DHS/EOIR, 2026-21024). Na lista de tópicos de imigração não há publicação posterior."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/topics/immigration\">Federal Register — Immigration ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations\">2026-21024 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-129: proposta de acabar com a deferência a aprovações anteriores segue aberta",
+      "deck": "Proposta de revogar o 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comentários até 13/11.",
+      "body": [
+       "Proposta de revogar o 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comentários até 13/11. Para H-1B/L-1, reforce a documentação de cada extensão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "OPT: taxa proposta de US$70.000 por indicação inicial",
+      "deck": "NPRM do DHS/ICE em período de comentários; sem vigência até a regra final.",
+      "body": [
+       "NPRM do DHS/ICE em período de comentários; sem vigência até a regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a> · <a href=\"https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs\">DHS ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem mudança",
+      "tagtype": "final",
+      "title": "FLAG: nenhum aviso novo; o último anúncio segue sendo de 02/09",
+      "deck": "Sem novidade sobre PERM ou prevailing wage. A página registrou manutenção programada do FLAG de 21h ET de 22/10 a 0h de 23/10; se algum envio falhou nesse intervalo, reenvie e confira o status.",
+      "body": [
+       "Sem novidade sobre PERM ou prevailing wage. A página registrou manutenção programada do FLAG de 21h ET de 22/10 a 0h de 23/10; se algum envio falhou nesse intervalo, reenvie e confira o status."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Ajuste de Status",
+    "items": [
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "Aviso sobre revisão do procedimento de disponibilidade de visto para quem espera para protocolar I-485",
+      "deck": "A página do Visa Bulletin informa que o USCIS, em coordenação com o DOS, está revisando os procedimentos para determinar disponibilidade de visto, aproximando-os dos usados nos consulados.",
+      "body": [
+       "A página do Visa Bulletin informa que o USCIS, em coordenação com o DOS, está revisando os procedimentos para determinar disponibilidade de visto, aproximando-os dos usados nos consulados. Continua sem data de vigência e não conseguimos abrir hoje o texto do anúncio do USCIS. Sem fonte oficial adicional ainda; confira a página de gráficos do USCIS no dia do protocolo."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro continua “Coming Soon”",
+      "deck": "Outubro de 2026 segue como o boletim vigente.",
+      "body": [
+       "Outubro de 2026 segue como o boletim vigente."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

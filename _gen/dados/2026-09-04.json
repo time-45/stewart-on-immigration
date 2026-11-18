@@ -1,0 +1,106 @@
+{
+ "date": "2026-09-04",
+ "issue": 17,
+ "en": {
+  "date_long": "Friday, September 4, 2026",
+  "date_short": "09/04/2026",
+  "lead": {
+   "kicker": "Top Story",
+   "headline": "End of “Duration of Status”: yesterday’s hearing ends without a decision — 11 days to the Sept 15 effective date",
+   "deck": "The hearing on the preliminary injunction motion against the DHS final rule — which replaces “duration of status” admission (F/J/I) with fixed periods — took place yesterday, Thursday Sept 3, at 11 a.m. in Courtroom 1, before Judge F. Dennis Saylor IV (D. Mass.), as scheduled. As of this morning, no decision has been entered on the docket — the matter remains under advisement, with no fixed deadline for a ruling.",
+   "body": [
+    "The case &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, No. 1:26-cv-13799 (D. Mass.) &mdash; does not require a same-day ruling; courts commonly take such motions under advisement and issue a written order days later. With the rule set to take effect <strong>Sept 15</strong>, a decision &mdash; either way &mdash; is likely in the coming days, before the deadline.",
+    "For advising purposes, nothing changes until there is an order: the rule stands to take effect Sept 15, replacing &ldquo;D/S&rdquo; with fixed admission periods (up to four years for F and J; a fixed period for I media representatives) and requiring an extension-of-stay (EOS) request with USCIS before the admission period expires. We are monitoring the docket daily and will alert as soon as the order issues."
+   ],
+   "src": "Official source: case docket, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, No. 1:26-cv-13799 (D. Mass.) &middot; <a href=\"https://clearinghouse.net/case/48393/\">case page (Civil Rights Litigation Clearinghouse) &#8599;</a> &middot; final rule: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 07/17/2026 (2026-14439) &#8599;</a>"
+  },
+  "deadlines": [
+   "<strong>~09/09 (internal deadline):</strong> DOL must file a status report with the California court on reworking the H-2A AEWR methodology (two weeks from 08/26).",
+   "<strong>09/09:</strong> El Salvador TPS ends (loss of protection and of EADs anchored solely in that status); and the expanded biometric fee (H-1B $4,000 / L-1 $4,500) begins to reach all extensions by covered employers.",
+   "<strong>09/15:</strong> end of &ldquo;Duration of Status&rdquo; (F/J/I) takes effect, absent a court ruling to the contrary &mdash; still pending; the new editions of Forms I-539 and I-765 (ed. 09/15/26) take effect, <strong>with no grace period</strong>.",
+   "<strong>09/18:</strong> the new public charge and the revised edition of Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed $103,265 fee per cap-subject H-1B petition (NPRM of 08/25).",
+   "<strong>Second half of September:</strong> expected publication of the October Visa Bulletin (FY2027 reset) &mdash; not yet released as of this morning.",
+   "<strong>10/05:</strong> public comment closes on the (no-change) renewal of the e-Request tool data collection (G-1592), docket USCIS-2022-0001."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Regulations",
+    "items": [
+     {
+      "tag": "Alert — Court (H-2A)",
+      "tagtype": "alert",
+      "title": "Court invalidates the H-2A Adverse Effect Wage Rate (AEWR) methodology for non-range occupations; OFLC guides employers while DOL reworks the rule",
+      "deck": "A federal court in California held, on 08/26, in United Farm Workers, et al. v.",
+      "body": [
+       "A federal court in California held, on 08/26, in <em>United Farm Workers, et al. v. DOL</em>, that the Department of Labor&rsquo;s <em>interim final rule</em> creating a new <em>Adverse Effect Wage Rate</em> (AEWR) methodology for non-range H-2A occupations is unlawful &mdash; finding the tier system, the housing adjustment, the use of the OEWS survey, and the &ldquo;more-than-50%&rdquo; rule arbitrary and capricious. The court did not vacate the rule immediately: the rates currently in effect remain valid for now, while DOL prepares a new version of the methodology &mdash; the fourth in twelve months &mdash; and must file a status report with the court within two weeks.",
+       "In response, OFLC issued an official announcement on 09/02 clarifying that, <strong>for now, no employer is required to pay retroactive wages</strong>. The agency recommends, however, that employers of H-2A workers and of workers in <em>corresponding employment</em> keep organized pay records from 09/02/2026, covering the period potentially subject to retroactive adjustment until the new methodology is published. Although the case concerns H-2A and not PERM, the precedent matters for the firm because it directly affects how OFLC conducts wage-rate rulemaking &mdash; a recurring theme in PERM Prevailing Wage Determinations (PWD)."
+      ],
+      "src": "Official source: DOL/OFLC &mdash; Announcements (09/02/2026) &middot; <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">dol.gov/agencies/eta/foreign-labor/news &#8599;</a>"
+     },
+     {
+      "tag": "In effect — routine notice",
+      "tagtype": "final",
+      "title": "USCIS reopens public comment on the “e-Request” tool information collection (Form G-1592)",
+      "deck": "USCIS published today, 09/04, in the Federal Register, a 30-day public-comment notice to renew — without changes — OMB approval for the data collection of the e-Request tool (Form G-1592), used by applicants to report…",
+      "body": [
+       "USCIS published today, 09/04, in the <em>Federal Register</em>, a 30-day public-comment notice to renew &mdash; without changes &mdash; OMB approval for the data collection of the <strong>e-Request</strong> tool (Form G-1592), used by applicants to report cases outside normal processing times, missing notices or documents, interview accommodation requests, and typographic errors, among others. It is a routine notice &mdash; no change in content or use of the tool &mdash; but we track it because it directly affects the channel the firm&rsquo;s cases use to escalate USCIS delays. Comments may be submitted through <strong>10/05/2026</strong> via the Federal eRulemaking Portal (regulations.gov), docket <strong>USCIS-2022-0001</strong>."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/04/2026-18099/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection\">Federal Register, 09/04/2026 (2026-18099) &#8599;</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 4 de setembro de 2026",
+  "date_short": "04/09/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Fim do “Duration of Status”: a audiência de ontem termina sem decisão — faltam 11 dias para a vigência de 15/09",
+   "deck": "A audiência do pedido de preliminary injunction contra a regra final do DHS que substitui a admissão por “tempo de status” (F/J/I) por prazos fixos ocorreu ontem, quinta-feira 03/09, às 11h, na Sala 1, perante o juiz F. Dennis Saylor IV (D. Mass.), como programado. Até esta manhã, nenhuma decisão foi publicada nos autos — o caso segue sob análise do juízo, sem prazo fixo para despacho.",
+   "body": [
+    "O processo &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, nº 1:26-cv-13799 (D. Mass.) &mdash; não exige decisão no mesmo dia da audiência; é comum que o juízo leve o pedido &ldquo;sob consulta&rdquo; e publique a ordem por escrito dias depois. Com a vigência da regra marcada para <strong>15/09</strong>, uma decisão &mdash; em qualquer sentido &mdash; tende a sair nos próximos dias, antes da data-limite.",
+    "Para fins de aconselhamento, nada muda enquanto não houver ordem: a regra segue de pé para entrar em vigor em 15/09, substituindo o &ldquo;D/S&rdquo; por períodos de admissão fixos (até quatro anos para F e J; prazo fixo para representantes de imprensa em status I) e passando a exigir pedido de prorrogação de estada (EOS) junto ao USCIS antes do vencimento do prazo de admissão. Estamos acompanhando o andamento do processo diariamente e avisaremos assim que sair o despacho."
+   ],
+   "src": "Fonte oficial: autos do processo, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, nº 1:26-cv-13799 (D. Mass.) &middot; <a href=\"https://clearinghouse.net/case/48393/\">ficha do processo (Civil Rights Litigation Clearinghouse) ↗</a> &middot; regra final: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 17/07/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>~09/09 (prazo interno):</strong> o DOL deve apresentar ao juízo da Califórnia um relatório de status sobre a reformulação da metodologia AEWR do H-2A (duas semanas a partir de 26/08).",
+   "<strong>09/09:</strong> termina o TPS de El Salvador (fim da proteção e dos EADs ancorados exclusivamente nesse status); e a taxa biométrica ampliada (H-1B US$4.000 / L-1 US$4.500) passa a alcançar todas as prorrogações dos empregadores enquadrados.",
+   "<strong>15/09:</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial em contrário &mdash; ainda pendente; entram em vigor as novas edições dos Formulários I-539 e I-765 (ed. 09/15/26), <strong>sem período de carência</strong>.",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto (NPRM de 25/08).",
+   "<strong>2ª metade de setembro:</strong> publicação prevista do Visa Bulletin de outubro (reset do FY2027) &mdash; ainda não divulgado até esta manhã.",
+   "<strong>05/10:</strong> encerra o comentário público sobre a renovação (sem mudanças) da coleta de dados da ferramenta e-Request (G-1592), docket USCIS-2022-0001."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Regulamentos",
+    "items": [
+     {
+      "tag": "Alerta — Justiça (H-2A)",
+      "tagtype": "alert",
+      "title": "Justiça invalida a metodologia do salário-referência (AEWR) do H-2A para ocupações non-range; OFLC orienta empregadores enquanto o DOL reformula a regra",
+      "deck": "Uma corte federal da Califórnia decidiu, em 26/08, no caso United Farm Workers, et al. v.",
+      "body": [
+       "Uma corte federal da Califórnia decidiu, em 26/08, no caso <em>United Farm Workers, et al. v. DOL</em>, que a <em>interim final rule</em> do Departamento do Trabalho que criou uma nova metodologia de <em>Adverse Effect Wage Rate</em> (AEWR) para ocupações non-range no programa H-2A é ilegal &mdash; considerando arbitrários e caprichosos o sistema de níveis (<em>tiers</em>), o ajuste de moradia, o uso da pesquisa OEWS e a chamada regra dos &ldquo;mais de 50%&rdquo;. A corte não anulou (não fez <em>vacatur</em>) a regra de imediato: as taxas atualmente em vigor permanecem válidas por ora, enquanto o DOL prepara uma nova versão da metodologia &mdash; a quarta em doze meses &mdash; e deve apresentar relatório de status ao juízo em até duas semanas.",
+       "Em resposta, a OFLC publicou, em 02/09, aviso oficial esclarecendo que, <strong>por enquanto, nenhum empregador é obrigado a pagar salários retroativos</strong>. A agência recomenda, no entanto, que empregadores de trabalhadores H-2A e de trabalhadores em <em>corresponding employment</em> mantenham registros de remuneração organizados a partir de 02/09/2026, cobrindo o período potencialmente sujeito a ajuste retroativo até que a nova metodologia seja publicada. Embora o caso trate do programa H-2A e não do PERM, o precedente é relevante para o escritório por afetar diretamente a forma como a OFLC conduz rulemaking em salário-referência &mdash; um tema recorrente também em Prevailing Wage Determinations (PWD) do PERM."
+      ],
+      "src": "Fonte oficial: DOL/OFLC &mdash; Announcements (02/09/2026) &middot; <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">dol.gov/agencies/eta/foreign-labor/news ↗</a>"
+     },
+     {
+      "tag": "Vigente/Final — aviso de rotina",
+      "tagtype": "final",
+      "title": "USCIS reabre comentário público sobre a coleta de informações da ferramenta “e-Request” (Formulário G-1592)",
+      "deck": "O USCIS publicou hoje, 04/09, no Federal Register, aviso de 30 dias de comentário público para renovar — sem alterações — a aprovação da OMB para a coleta de dados da ferramenta e-Request (Formulário G-1592), usada por…",
+      "body": [
+       "O USCIS publicou hoje, 04/09, no <em>Federal Register</em>, aviso de 30 dias de comentário público para renovar &mdash; sem alterações &mdash; a aprovação da OMB para a coleta de dados da ferramenta <strong>e-Request</strong> (Formulário G-1592), usada por requerentes para reportar casos fora do prazo normal de processamento, avisos ou documentos extraviados, pedidos de acomodação para entrevista e erros de digitação, entre outros. É um aviso de rotina &mdash; sem mudança de conteúdo ou de uso da ferramenta &mdash; mas mantemos o registro por afetar diretamente a via que os casos do escritório usam para escalar atrasos de USCIS. Comentários podem ser enviados até <strong>05/10/2026</strong> pelo Federal eRulemaking Portal (regulations.gov), docket <strong>USCIS-2022-0001</strong>."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/04/2026-18099/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection\">Federal Register, 04/09/2026 (2026-18099) ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

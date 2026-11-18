@@ -1,0 +1,228 @@
+{
+ "date": "2026-11-18",
+ "issue": 81,
+ "en": {
+  "date_long": "Wednesday, November 18, 2026",
+  "date_short": "",
+  "lead": {
+   "kicker": "Top Story · Rules & Agencies",
+   "headline": "Summary dismissal becomes the default on immigration appeals",
+   "deck": "The Justice Department finalizes the rule that reshapes the Board of Immigration Appeals — the administrative court above the immigration judges — making dismissal without opinion, by a single member, the default outcome of an appeal. It takes effect December 17 and revives, now by final rule, three provisions a federal court struck down in March.",
+   "body": [
+    "The Executive Office for Immigration Review (EOIR), part of the Department of Justice, published on Monday, November 17, in the Federal Register the final rule “Appellate Procedures for the Board of Immigration Appeals” (RIN 1125-AB37; amending 8 CFR Parts 1003, 1208, and 1240). It takes effect on December 17, 2026, and finalizes the February 6 interim rule that redesigned how the Board — the body that hears appeals from immigration judges’ decisions — processes those appeals. The core change fits in one sentence: summary dismissal — rejecting an appeal without a written opinion and by a single Board member — becomes the default outcome.",
+    "The Department frames the rule as a response to a caseload crisis: the Board’s pending appeals rose from roughly 35,800 in fiscal year 2017 to about 325,800 in fiscal year 2026. To meet that, the design tightens the appeal on several fronts already in effect since March: the deadline to appeal was cut from 30 to 10 days (except certain asylum-merits appeals); briefing is now simultaneous and due within 20 days after the Board sets the schedule, with no reply briefs and extensions only in exceptional circumstances; any argument not raised in the Notice of Appeal itself is waived; immigration judges no longer must review transcripts of their oral decisions before appeal; and the chief appellate judge loses the power to extend deadlines or hold cases.",
+    "There is a litigation chapter this rule confronts head-on. On March 8, 2026, the U.S. District Court for the District of Columbia (Amica Center for Immigrant Rights v. EOIR) partly vacated the interim rule, striking three of its provisions — the 10-day deadline (apart from certain asylum-merits appeals), the waiver of arguments missing from the Notice of Appeal, and the 15-day single-member summary dismissal — for having been adopted without notice-and-comment. The final rule contends that defect is now cured: having gone through public comment, every provision is presumed operative on the effective date. In practice, the final rule reinstates by regulation what the court had suspended.",
+    "For practitioners, the takeaway is direct. The new scheme applies to appeals of decisions issued on or after December 17 — it does not reach appeals already pending. From then on, the window to appeal and to lay out every argument shrinks sharply: each ground must appear in the Notice of Appeal or it is waived; the brief is due fast and simultaneous; and a single Board member can end the appeal without writing a word of reasoning. The lesson is to build the case and nail down every issue while still before the immigration judge — the appeal is no longer the place to develop the theory. Note, too, the new dismissal-order language: without opinion, it states that “<em>The decision below is, therefore, the final agency determination</em>” — the judge’s decision below becomes the agency’s last word, the one that goes on to judicial review."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (final rule, 91 FR 73876, effective 12/17/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked that date or later (the I-526 rises from $3,675 to $7,615).",
+   "<strong>Early December:</strong> DOL updates PERM and prevailing-wage processing times.",
+   "<strong>Tuesday, 12/09:</strong> mandatory electronic filing at DOL’s OALJ (FR 2026-22761).",
+   "<strong>Thursday, 12/17:</strong> the Board of Immigration Appeals final rule (FR 2026-23320) takes effect — applies to decisions issued on or after that date.",
+   "<strong>Mid-January 2027:</strong> the 60-day comment period for the PERM modernization proposal closes (docket ETA-2026-0133).",
+   "<strong>The 60-day grace period and deference to prior approvals:</strong> remain in force while DHS has not published a final rule."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "What the final version changed from the interim rule — and why it matters",
+      "deck": "The final rule is not a mere rubber stamp on the interim one: it rewrites the summary-dismissal order. Instead of the earlier formula, which spoke of “adopting” the judge’s decision, the text now states that the Board…",
+      "body": [
+       "The final rule is not a mere rubber stamp on the interim one: it rewrites the summary-dismissal order. Instead of the earlier formula, which spoke of “adopting” the judge’s decision, the text now states that the Board dismisses the appeal without opinion and that the decision below becomes the agency’s final determination. And it equates that dismissal with the classic “affirmance without opinion”: it is understood to reflect that the result was correct, that not all of the decision’s reasoning is necessarily endorsed, that any errors were harmless, and that the matter is controlled by precedent or not substantial enough to warrant a written opinion. The final version also sets that even temporary appellate immigration judges (TAIJs) may sign these dismissal orders, and that appeals in attorney-discipline cases now carry a 10-calendar-day deadline, for either party."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: still in effect, while DHS decides",
+      "deck": "DHS’s proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) remains under review of the comments, which closed November 10, with no final rule published.",
+      "body": [
+       "DHS’s proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) remains under review of the comments, which closed November 10, with no final rule published. Until the Federal Register carries the final act, the benefit stands: a worker who loses a job in H-1B, L-1, O-1, E-1/E-2/E-3, or TN may remain up to 60 days (or until the status’s validity ends, if shorter) to change employers or categories. It is the window that buys time to file a new petition — and while there is a risk of it vanishing, anyone in these categories should keep a plan B ready before any layoff."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference to prior approvals: comments closed, decision pending",
+      "deck": "Also awaiting a DHS decision is the proposal (FR 2026-20941) to rescind 8 CFR 214.1(c)(5) — the rule that today directs USCIS to respect a prior approval when adjudicating extensions of H-1B, L-1, O-1, and other I-129…",
+      "body": [
+       "Also awaiting a DHS decision is the proposal (FR 2026-20941) to rescind 8 CFR 214.1(c)(5) — the rule that today directs USCIS to respect a prior approval when adjudicating extensions of H-1B, L-1, O-1, and other I-129 categories where the parties and facts are the same; comments closed November 13. While deference remains in force, each extension still starts from the approval already granted; if the rule is finalized, USCIS could re-examine each petition from scratch. The recommended conduct does not change: building extension petitions with the same evidentiary strength as a first filing is the hedge against both scenarios."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The new PERM’s comment window is open — and the layoff bar is what most needs attention",
+      "deck": "Published Tuesday, the PERM modernization proposal (FR 2026-23370, RIN 1205-AC29) opened a 60-day comment period running through mid-January 2027 at regulations.gov, under docket ETA-2026-0133.",
+      "body": [
+       "Published Tuesday, the PERM modernization proposal (FR 2026-23370, RIN 1205-AC29) opened a 60-day comment period running through mid-January 2027 at regulations.gov, under docket ETA-2026-0133. Nothing changes today — 20 CFR Part 656 stays in force — but now is when employers and counsel have a formal voice to tell DOL what works and what would make sponsorship unworkable. The point that most deserves a reasoned comment is the two-year bar: under the proposal, an employer that laid off U.S. workers in the same occupation (or a similar one) at the worksite within the prior two years would be barred from filing, with a duty to consider the laid-off worker through I-140 approval. Anyone planning green cards for 2027 should map the company’s layoff history now and use the comment window."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM) ↗</a> · Comments: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "DOL’s OALJ: mandatory electronic filing from December 9",
+      "deck": "While the great PERM overhaul is only beginning to be debated, a change already certain is near: on December 9 the DOL final rule (FR 2026-22761) takes effect, making electronic filing mandatory in proceedings before…",
+      "body": [
+       "While the great PERM overhaul is only beginning to be debated, a change already certain is near: on December 9 the DOL final rule (FR 2026-22761) takes effect, making electronic filing mandatory in proceedings before the Office of Administrative Law Judges (OALJ), with good-cause exceptions and for self-represented parties. It is at the OALJ that H-1B and H-2A/H-2B enforcement disputes are heard; an employer with a case underway, or at risk of one, needs electronic-system access set up before the date, on pain of missing defense deadlines."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing ↗</a>"
+     },
+     {
+      "tag": "Watch",
+      "tagtype": "alert",
+      "title": "Today’s clock: PERM still around ten months, and it is the basis for planning 2027",
+      "deck": "Until the overhaul becomes a final rule, the current system governs the calendar — and DOL’s data through October 31 keep the average around 300 days for PERM cases decided in the last month, with prevailing wage (PWD)…",
+      "body": [
+       "Until the overhaul becomes a final rule, the current system governs the calendar — and DOL’s data through October 31 keep the average around 300 days for PERM cases decided in the last month, with prevailing wage (PWD) processing August requests. Adding the wage-determination, recruitment, and review steps, an employer should count a bit over a year between the PWD request and certification. And there is the deadline that does not forgive: to support H-1B extensions beyond the sixth year, the PERM must be filed at least 365 days before the beneficiary exhausts status — a count that a longer recruitment proposal only makes tighter."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "We have seen this film: the 2002 “streamlining” and the price of the opinion-less appeal",
+      "deck": "The idea of shrinking the appeal to relieve the Board is not new — and its last great version left scars worth recalling as one reads today’s rule.",
+      "body": [
+       "The idea of shrinking the appeal to relieve the Board is not new — and its last great version left scars worth recalling as one reads today’s rule. On August 26, 2002, then-Attorney General John Ashcroft published in the Federal Register the “Procedural Reforms to Improve Case Management” (67 FR 54878), which made single-member decisions and “affirmance without opinion” — upholding the judge’s decision with no reasoning of its own — the norm, and cut the Board from 23 to 11 members. The promise was the same as now: end the backlog. What followed was a famous side effect: with so many opinion-less decisions leaving the Board, a flood of appeals migrated to the federal courts of appeals, which began receiving thousands of petitions for review a year and, in loud cases, openly criticized the quality of the adjudication. The lesson across two decades is simple: compressing the administrative appeal does not make the litigation vanish — it relocates. That is why the summary dismissal now becoming the Board’s default deserves to be read also for what it tends to provoke downstream, in the federal courts that review final removal orders."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/citation/67-FR-54878\">Federal Register, 67 FR 54878 (August 26, 2002) — BIA: Procedural Reforms to Improve Case Management ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quarta-feira, 18 de novembro de 2026",
+  "date_short": "18/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · Regras & Agências",
+   "headline": "A dispensa sumária vira o padrão nos recursos de imigração",
+   "deck": "O Departamento de Justiça torna final a regra que remodela o Board of Immigration Appeals — a corte administrativa acima dos juízes de imigração — e faz da dispensa sem opinião, por um único membro, o desfecho padrão de um recurso. Vigora em 17 de dezembro e revive, agora por regra definitiva, três pontos que um tribunal federal havia derrubado em março.",
+   "body": [
+    "O Executive Office for Immigration Review (EOIR), do Departamento de Justiça, publicou na segunda-feira, 17 de novembro, no Federal Register a regra final “Appellate Procedures for the Board of Immigration Appeals” (RIN 1125-AB37; altera os 8 CFR Partes 1003, 1208 e 1240). Ela entra em vigor em 17 de dezembro de 2026 e consolida a regra provisória de 6 de fevereiro deste ano, que redesenhou a forma como o Board — a instância que julga os recursos contra as decisões dos juízes de imigração — processa esses recursos. A mudança de fundo cabe numa frase: a dispensa sumária, isto é, a rejeição do recurso sem opinião escrita e por um único membro do Board, passa a ser o desfecho padrão.",
+    "O próprio Departamento apresenta a regra como resposta a um colapso de volume: o estoque de recursos pendentes no Board saltou de cerca de 35,8 mil no ano fiscal de 2017 para cerca de 325,8 mil no ano fiscal de 2026. Para dar conta disso, o desenho aperta o recurso em várias frentes que já valiam desde março: o prazo para recorrer caiu de 30 para 10 dias (salvo certos recursos de mérito em asilo); as sustentações passam a ser simultâneas e devem entrar em até 20 dias depois de o Board marcar o calendário, sem réplica e com prorrogação só em circunstâncias excepcionais; o argumento que não constar da própria petição de recurso (Notice of Appeal) é considerado renunciado; os juízes deixam de precisar revisar a transcrição de suas decisões orais antes do recurso; e o juiz-chefe de apelação perde a prerrogativa de esticar prazos ou segurar casos.",
+    "Há um capítulo judicial que a regra de hoje enfrenta de frente. Em 8 de março de 2026, o tribunal federal do Distrito de Columbia (Amica Center for Immigrant Rights v. EOIR) anulou em parte a regra provisória, derrubando três de seus pontos — o prazo de 10 dias (fora os recursos de mérito em asilo), a renúncia dos argumentos ausentes da petição de recurso e a dispensa sumária em 15 dias por um único membro — por terem sido adotados sem o rito de notice-and-comment. A regra final sustenta que esse vício agora está sanado: depois de passar por consulta pública, todos os dispositivos são tidos como operantes na data de vigência. Na prática, a regra definitiva recoloca por via normativa aquilo que o tribunal havia suspendido.",
+    "Para quem advoga, a leitura prática é direta. A nova sistemática vale para os recursos de decisões proferidas de 17 de dezembro em diante — não alcança os recursos já pendentes. A partir daí, a janela para recorrer e para expor cada argumento encolhe de forma drástica: todo fundamento precisa estar na petição de recurso, sob pena de renúncia; a sustentação vence rápido e é simultânea; e um único membro do Board pode encerrar o recurso sem escrever uma linha de fundamentação. A lição é construir o caso e cravar cada questão ainda perante o juiz de imigração — o recurso deixa de ser o lugar para desenvolver a tese. Vale também registrar a nova redação da ordem de dispensa: ela declara que, sem opinião, “<em>The decision below is, therefore, the final agency determination</em>” — ou seja, a decisão do juiz abaixo vira a palavra final da agência, aquela que segue para a revisão judicial."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (regra final, 91 FR 73876, vigente 17/12/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Segunda-feira, 30/11:</strong> novas taxas do EB-5 para petições postadas nessa data ou depois (o I-526 sobe de US$ 3.675 para US$ 7.615).",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente.",
+   "<strong>Terça-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL (FR 2026-22761).",
+   "<strong>Quinta-feira, 17/12:</strong> entra em vigor a regra final dos recursos no Board of Immigration Appeals (FR 2026-23320) — vale para decisões proferidas dessa data em diante.",
+   "<strong>Meados de janeiro de 2027:</strong> encerra-se o prazo de 60 dias para comentar a proposta de modernização do PERM (processo ETA-2026-0133).",
+   "<strong>Período de graça de 60 dias e deferência às aprovações anteriores:</strong> seguem em vigor enquanto o DHS não publica regra final."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "O que a versão definitiva mudou na regra provisória — e por que isso importa",
+      "deck": "A regra final não é um simples carimbo na provisória: ela reescreve a ordem de dispensa sumária. Em vez da fórmula anterior, que dizia “adotar” a decisão do juiz, o texto passa a afirmar que o Board rejeita o recurso…",
+      "body": [
+       "A regra final não é um simples carimbo na provisória: ela reescreve a ordem de dispensa sumária. Em vez da fórmula anterior, que dizia “adotar” a decisão do juiz, o texto passa a afirmar que o Board rejeita o recurso sem opinião e que a decisão de baixo se torna a determinação final da agência. E equipara essa dispensa à clássica “affirmance without opinion”: ela se entende como reflexo de que o resultado estava correto, que nem todo o raciocínio da decisão é necessariamente endossado, que eventuais erros foram inofensivos e que a matéria é controlada por precedente ou não é relevante o bastante para merecer opinião escrita. A versão final também fixa que até os juízes de apelação temporários (TAIJs) podem assinar essas ordens de dispensa, e que o recurso em processos de disciplina de advogados passa a ter prazo de 10 dias corridos, para qualquer das partes."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: ainda em vigor, enquanto o DHS não decide",
+      "deck": "A proposta do DHS para eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) segue na análise dos comentários, encerrados em 10 de novembro, sem regra final publicada.",
+      "body": [
+       "A proposta do DHS para eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) segue na análise dos comentários, encerrados em 10 de novembro, sem regra final publicada. Enquanto o Federal Register não trouxer o ato definitivo, o benefício continua valendo: quem perde o emprego em H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer até 60 dias (ou até o fim da validade do status, se for menor) para trocar de empregador ou mudar de categoria. É a janela que dá tempo de protocolar uma nova petição — e, enquanto houver risco de ela desaparecer, quem está nessas categorias deve manter um plano B pronto antes de qualquer demissão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência às aprovações anteriores: comentários fechados, decisão à espera",
+      "deck": "Também aguarda definição do DHS a proposta (FR 2026-20941) de revogar o 8 CFR 214.1(c)(5) — a norma que hoje manda o USCIS respeitar a aprovação anterior ao julgar prorrogações de H-1B, L-1, O-1 e outras categorias do…",
+      "body": [
+       "Também aguarda definição do DHS a proposta (FR 2026-20941) de revogar o 8 CFR 214.1(c)(5) — a norma que hoje manda o USCIS respeitar a aprovação anterior ao julgar prorrogações de H-1B, L-1, O-1 e outras categorias do I-129, quando as partes e os fatos são os mesmos; os comentários fecharam em 13 de novembro. Enquanto a deferência segue em vigor, cada prorrogação ainda parte da aprovação já concedida; se a regra virar final, o USCIS poderá reexaminar cada pedido do zero. A conduta recomendada não muda: montar os pedidos de prorrogação com a mesma força probatória de uma primeira petição é o seguro contra os dois cenários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "A janela de comentários do novo PERM está aberta — e a trava de demissões é o que mais pede atenção",
+      "deck": "Publicada na terça-feira, a proposta de modernização do PERM (FR 2026-23370, RIN 1205-AC29) abriu um período de comentários de 60 dias, que corre até meados de janeiro de 2027 pelo regulations.gov, no processo…",
+      "body": [
+       "Publicada na terça-feira, a proposta de modernização do PERM (FR 2026-23370, RIN 1205-AC29) abriu um período de comentários de 60 dias, que corre até meados de janeiro de 2027 pelo regulations.gov, no processo ETA-2026-0133. Nada muda hoje — o 20 CFR Parte 656 continua em vigor —, mas é agora que empregadores e advogados têm voz formal para apontar ao DOL o que funciona e o que inviabiliza o patrocínio. O ponto que mais merece um comentário fundamentado é a trava de dois anos: pela proposta, o empregador que tenha demitido trabalhadores americanos na mesma ocupação (ou em ocupação semelhante) no local de trabalho nos dois anos anteriores fica impedido de protocolar, com dever de considerar o demitido até a aprovação do I-140. Quem planeja green cards para 2027 deve desde já mapear o histórico de demissões da empresa e usar a janela de comentários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM) ↗</a> · Comentários: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, processo ETA-2026-0133 ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "OALJ do DOL: protocolo eletrônico obrigatório a partir de 9 de dezembro",
+      "deck": "Enquanto a grande reforma do PERM apenas começa a ser debatida, uma mudança já certa se aproxima: em 9 de dezembro entra em vigor a regra final do DOL (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos…",
+      "body": [
+       "Enquanto a grande reforma do PERM apenas começa a ser debatida, uma mudança já certa se aproxima: em 9 de dezembro entra em vigor a regra final do DOL (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ), com exceções por justa causa e para partes sem advogado. É na OALJ que tramitam as disputas de fiscalização de H-1B e de H-2A/H-2B; o empregador com caso em andamento, ou sob risco de abertura, precisa ter o acesso ao sistema eletrônico configurado antes da data, sob pena de perder prazos de defesa."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing ↗</a>"
+     },
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "O relógio de hoje: PERM ainda em torno de dez meses, e é por ele que se planeja 2027",
+      "deck": "Até a reforma virar regra final, é o sistema atual que governa o calendário — e os dados do DOL até 31 de outubro mantêm a média em torno de 300 dias para os PERM decididos no último mês, com o salário prevalecente…",
+      "body": [
+       "Até a reforma virar regra final, é o sistema atual que governa o calendário — e os dados do DOL até 31 de outubro mantêm a média em torno de 300 dias para os PERM decididos no último mês, com o salário prevalecente (PWD) processando pedidos de agosto. Somadas as etapas de determinação de salário, recrutamento e análise, o empregador deve contar pouco mais de um ano entre o pedido de PWD e a certificação. E há o prazo que não perdoa: para sustentar as prorrogações de H-1B além do sexto ano, o PERM precisa estar protocolado ao menos 365 dias antes de o beneficiário esgotar o status — contagem que a proposta de recrutamento mais longo só torna mais apertada."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Já vimos este filme: a “racionalização” de 2002 e o preço do recurso sem opinião",
+      "deck": "A ideia de encolher o recurso para desafogar o Board não é nova — e sua última grande versão deixou cicatrizes que vale lembrar ao ler a regra de hoje.",
+      "body": [
+       "A ideia de encolher o recurso para desafogar o Board não é nova — e sua última grande versão deixou cicatrizes que vale lembrar ao ler a regra de hoje. Em 26 de agosto de 2002, o então procurador-geral John Ashcroft publicou no Federal Register as “Procedural Reforms to Improve Case Management” (67 FR 54878), que generalizaram a decisão por um único membro e a “affirmance without opinion” — a confirmação da decisão do juiz sem fundamentação própria — e reduziram o Board de 23 para 11 membros. A promessa era a mesma de agora: acabar com o atraso. O que veio depois foi um efeito colateral célebre: com tantas decisões sem opinião saindo do Board, uma enxurrada de recursos migrou para os tribunais federais de apelação, que passaram a receber milhares de petições de revisão por ano e, em casos ruidosos, criticaram abertamente a qualidade da adjudicação. A lição que atravessa as duas décadas é simples: comprimir o recurso administrativo não faz o litígio desaparecer — ele se desloca. Por isso a dispensa sumária que hoje vira padrão no Board merece ser lida também pelo que tende a provocar rio abaixo, nas cortes federais que revisam as ordens finais de remoção."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/citation/67-FR-54878\">Federal Register, 67 FR 54878 (26 de agosto de 2002) — BIA: Procedural Reforms to Improve Case Management ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

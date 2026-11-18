@@ -1,0 +1,252 @@
+{
+ "date": "2026-11-15",
+ "issue": 78,
+ "en": {
+  "date_long": "Sunday, November 15, 2026",
+  "date_short": "11/15/2026",
+  "lead": {
+   "kicker": "Lead story · Weekend edition",
+   "headline": "Subsidized housing: now the whole family must prove status",
+   "deck": "A final HUD rule (FR 2026-23003) requires citizenship or eligible-immigration-status verification for every household member, of any age — and makes prorated aid for mixed-status families temporary.",
+   "body": [
+    "On Thursday, November 12, the Department of Housing and Urban Development (HUD) published a final rule rewriting its Section 214 regulations under the Housing and Community Development Act of 1980 — the law that limits federal housing assistance to citizens and noncitizens with eligible status. Under the new text, verification of citizenship or eligible immigration status is required of all applicants for and recipients of covered assistance, regardless of age. The second change goes straight to so-called mixed-status families, in which some members are eligible and others are not: prorated assistance (a benefit reduced to the share of eligible members) is no longer a lasting arrangement but a temporary condition while verification of every member is completed, to the extent the statute allows. The rule also provides for sharing verification evidence with DHS. In practice, households with members who lack eligible status — or whose status still has to be documented — should gather each resident's papers now and watch closely for notices from their local housing authority, because the rule turns a long-term accommodation into a window with an end date."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23003\">Federal Register 2026-23003 — Housing and Community Development Act of 1980: Verification of Eligible Status ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Monday, 11/16:</strong> the online passport pilot (DS-11) begins, and the Los Lorenzanas FTO designation is published in the Federal Register.",
+   "<strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked on or after that date.",
+   "<strong>Early December:</strong> DOL updates PERM and prevailing wage processing times.",
+   "<strong>Wednesday, 12/09:</strong> mandatory e-filing at DOL's OALJ.",
+   "<strong>Subsidized housing:</strong> mixed-status families should gather every resident's documents and watch for housing-authority notices.",
+   "<strong>60-day grace period and deference:</strong> remain in effect pending any final rule."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Alert",
+      "tagtype": "alert",
+      "title": "Los Lorenzanas added to the terrorist organization list",
+      "deck": "The State Department has designated the Guatemalan group Los Lorenzanas a Foreign Terrorist Organization (FTO) under section 219 of the Immigration and Nationality Act (8 U.S.C.",
+      "body": [
+       "The State Department has designated the Guatemalan group Los Lorenzanas a Foreign Terrorist Organization (FTO) under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189), after consulting the Attorney General and the Treasury Secretary; the notice is scheduled for Federal Register publication on Monday, November 16. The designation has direct immigration consequences: members of an FTO and anyone who provides it “material support” become inadmissible and removable under the terrorism bars, which also block asylum and other relief. For asylum and adjustment practitioners with Guatemalan clients, the date now matters: any contact with the group — including payments made under duress — calls for extra-careful analysis (see “In Perspective”)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23246\">Federal Register 2026-23246 — Foreign Terrorist Organization Designation of Los Lorenzanas ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: the final rule everyone is waiting for",
+      "deck": "The proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) is now at the comment-review stage; comments closed November 10.",
+      "body": [
+       "The proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) is now at the comment-review stage; comments closed November 10. Today, workers who lose their jobs in H-1B, L-1, O-1, E-1/E-2/E-3 or TN status may remain up to 60 days (or until their validity ends, if sooner) to change employers or status. Until a final rule appears in the Federal Register, the benefit remains available — and anyone in these categories should keep a backup plan ready before any layoff."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference to prior approvals: what changes if it goes",
+      "deck": "Also awaiting DHS action is the proposal (FR 2026-20941) to remove 8 CFR 214.1(c)(5), which directs USCIS to defer to a prior approval when extending H-1B, L-1, O-1 and other I-129 classifications involving the same…",
+      "body": [
+       "Also awaiting DHS action is the proposal (FR 2026-20941) to remove 8 CFR 214.1(c)(5), which directs USCIS to defer to a prior approval when extending H-1B, L-1, O-1 and other I-129 classifications involving the same parties and facts; comments closed November 13. If finalized, every extension could be reviewed from scratch. Until then deference applies — but employers would be wise to build their 2027 filings as if they were first-time petitions."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "EB-5: fifteen days left at the old fees",
+      "deck": "The new EB-5 fees apply to petitions postmarked on or after Monday, November 30: Form I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee rises to $44,115, and the I-526E Integrity…",
+      "body": [
+       "The new EB-5 fees apply to petitions postmarked on or after Monday, November 30: Form I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee rises to $44,115, and the I-526E Integrity Fund contribution goes from $1,000 to $1,100. Investors with a ready file save more than $3,900 on the I-526 alone by filing by November 29."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "DOL's OALJ: mandatory e-filing on December 9",
+      "deck": "Just over three weeks remain before the Labor Department's final rule (FR 2026-22761) makes electronic filing mandatory in proceedings before the Office of Administrative Law Judges, with exceptions for good cause and…",
+      "body": [
+       "Just over three weeks remain before the Labor Department's final rule (FR 2026-22761) makes electronic filing mandatory in proceedings before the Office of Administrative Law Judges, with exceptions for good cause and for unrepresented parties. The OALJ hears H-1B enforcement cases (LCA conditions) and H-2A/H-2B matters; employers with pending cases need their e-filing access set up before the date."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 ↗</a>"
+     },
+     {
+      "tag": "Alert",
+      "tagtype": "alert",
+      "title": "PERM in about 10 months: the employer's calendar",
+      "deck": "DOL data through October 31 show an average of 300 days for PERM cases decided in the last 30 days, with prevailing wage determinations working on August requests.",
+      "body": [
+       "DOL data through October 31 show an average of 300 days for PERM cases decided in the last 30 days, with prevailing wage determinations working on August requests. Adding the steps together, employers should plan for a little over a year from PWD request to certification — and for an H-1B worker in the sixth year, the PERM must be filed at least 365 days before the cap to allow extensions beyond it."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Passports",
+    "items": [
+     {
+      "tag": "In effect",
+      "tagtype": "final",
+      "title": "Tomorrow: a first U.S. passport online",
+      "deck": "On Monday, November 16, the State Department launches a pilot accepting certain Form DS-11 applications online — the form used for a first passport.",
+      "body": [
+       "On Monday, November 16, the State Department launches a pilot accepting certain Form DS-11 applications online — the form used for a first passport. Eligibility is checked on America.gov, the eligible group is expected to grow as testing proceeds, and the pilot runs through November 20, 2027. For newly naturalized citizens, it may be the fastest route to a first trip as Americans."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23317\">Federal Register 2026-23317 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Matter of S-K-: the refugee who “supported terrorists” with donations",
+      "deck": "The Los Lorenzanas designation revisits one of the harshest corners of American immigration law: the “material support” bar. In 2006 the BIA decided the case of an ethnic Chin Christian, persecuted in Burma, who had…",
+      "body": [
+       "The Los Lorenzanas designation revisits one of the harshest corners of American immigration law: the “material support” bar. In 2006 the BIA decided the case of an ethnic Chin Christian, persecuted in Burma, who had made modest cash donations to the Chin National Front — a group that fought the military junta and never targeted the United States. The immigration judge thought she deserved protection; the Board, in Matter of S-K-, held that the statute made no exception for small sums or for groups resisting oppressive regimes, and that she was barred. The decision itself acknowledged the bitter result, and Congress responded: the 2008 appropriations act broadened the Executive's exemption authority and expressly removed the Chin National Front from the bar's reach, sending the case back to the BIA and opening the way for her claim. The lesson holds today: the bar does not ask why or how much — and only an express exemption undoes it."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/volume-23\">Matter of S-K-, 23 I&amp;N Dec. 936 (BIA 2006) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-24\">Matter of S-K-, 24 I&amp;N Dec. 475 (BIA 2008) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Domingo, 15 de novembro de 2026",
+  "date_short": "15/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · Edição de fim de semana",
+   "headline": "Moradia subsidiada: agora a família inteira prova o status",
+   "deck": "Regra final do HUD (FR 2026-23003) exige verificação de cidadania ou status imigratório elegível de todos os membros, de qualquer idade — e torna provisória a ajuda proporcional às famílias de status misto.",
+   "body": [
+    "O Departamento de Habitação e Desenvolvimento Urbano (HUD) publicou, na quinta-feira, 12 de novembro, uma regra final que reescreve suas normas da Seção 214 do Housing and Community Development Act de 1980 — a lei que reserva a assistência habitacional federal a cidadãos e a estrangeiros com status elegível. Pela nova redação, a verificação de cidadania ou de status imigratório elegível passa a ser exigida de todos os candidatos e beneficiários dos programas cobertos, independentemente da idade. A segunda mudança atinge diretamente as chamadas famílias de status misto, em que parte dos moradores é elegível e parte não: a assistência proporcional (o benefício reduzido na fração dos membros elegíveis) deixa de ser uma solução permanente e passa a ser condição temporária, enquanto se conclui a verificação de todos os integrantes, na medida em que a lei permite. A regra prevê ainda o compartilhamento de documentos de verificação com o DHS. Na prática, famílias com membros sem status elegível — ou com status ainda pendente de comprovação — devem reunir desde já os documentos de cada morador e acompanhar de perto os avisos da autoridade de habitação local, porque a regra transforma uma acomodação de longo prazo em uma janela com prazo."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23003\">Federal Register 2026-23003 — Housing and Community Development Act of 1980: Verification of Eligible Status ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Segunda-feira, 16/11:</strong> começa o piloto do passaporte online (DS-11) e sai no Federal Register a designação de Los Lorenzanas como FTO.",
+   "<strong>Segunda-feira, 30/11:</strong> novas taxas do EB-5 para petições postadas nessa data ou depois.",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente.",
+   "<strong>Quarta-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL.",
+   "<strong>Moradia subsidiada:</strong> famílias de status misto devem reunir os documentos de todos os moradores e acompanhar os avisos da autoridade de habitação.",
+   "<strong>Período de graça de 60 dias e deferência:</strong> seguem em vigor até eventual regra final."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "Los Lorenzanas entra na lista de organizações terroristas",
+      "deck": "O Departamento de Estado designou o grupo guatemalteco Los Lorenzanas como Organização Terrorista Estrangeira (FTO), com base na seção 219 da Lei de Imigração (8 U.S.C.",
+      "body": [
+       "O Departamento de Estado designou o grupo guatemalteco Los Lorenzanas como Organização Terrorista Estrangeira (FTO), com base na seção 219 da Lei de Imigração (8 U.S.C. 1189), após consulta ao procurador-geral e ao secretário do Tesouro; o aviso consta do Federal Register com publicação marcada para segunda-feira, 16 de novembro. A designação tem efeitos imigratórios diretos: integrantes e quem presta “apoio material” a uma FTO ficam inadmissíveis e removíveis pelas barras de terrorismo da lei, e essas barras também impedem asilo e outros benefícios. Para advogados de asilo e de ajuste com clientes da Guatemala, a data passa a importar: qualquer contato com o grupo — inclusive pagamentos feitos sob coação — precisa ser analisado com cuidado redobrado (ver “Em Perspectiva”)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23246\">Federal Register 2026-23246 — Foreign Terrorist Organization Designation of Los Lorenzanas ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: a regra final que todos aguardam",
+      "deck": "A proposta de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) está na fase de análise dos comentários, encerrados em 10 de novembro.",
+      "body": [
+       "A proposta de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) está na fase de análise dos comentários, encerrados em 10 de novembro. Hoje, quem perde o emprego em H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer até 60 dias (ou até o fim da validade, se menor) para mudar de empregador ou de status. Enquanto não sair regra final no Federal Register, o benefício continua valendo — e quem está nessas categorias deve manter um plano B pronto antes de qualquer demissão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência às aprovações anteriores: o que muda se cair",
+      "deck": "Também aguarda decisão do DHS a proposta (FR 2026-20941) de eliminar o 8 CFR 214.1(c)(5), que manda o USCIS respeitar a aprovação anterior na prorrogação de H-1B, L-1, O-1 e outras categorias do I-129 quando partes e…",
+      "body": [
+       "Também aguarda decisão do DHS a proposta (FR 2026-20941) de eliminar o 8 CFR 214.1(c)(5), que manda o USCIS respeitar a aprovação anterior na prorrogação de H-1B, L-1, O-1 e outras categorias do I-129 quando partes e fatos são os mesmos; os comentários fecharam em 13 de novembro. Se a regra virar final, cada prorrogação poderá ser reexaminada do zero. Até lá, a deferência vale — mas empregadores fazem bem em montar os pedidos de 2027 como se fossem os primeiros."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "EB-5: quinze dias para a tabela antiga",
+      "deck": "As novas taxas do EB-5 valem para petições postadas a partir de segunda-feira, 30 de novembro: o I-526 vai de US$ 3.675 para US$ 7.615 (com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a…",
+      "body": [
+       "As novas taxas do EB-5 valem para petições postadas a partir de segunda-feira, 30 de novembro: o I-526 vai de US$ 3.675 para US$ 7.615 (com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a contribuição do Integrity Fund do I-526E passa de US$ 1.000 para US$ 1.100. Quem tem o dossiê pronto economiza mais de US$ 3.900 só no I-526 postando até 29 de novembro."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "OALJ do DOL: protocolo eletrônico obrigatório em 9 de dezembro",
+      "deck": "Faltam pouco mais de três semanas para valer a regra final do Departamento do Trabalho (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges, com…",
+      "body": [
+       "Faltam pouco mais de três semanas para valer a regra final do Departamento do Trabalho (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges, com exceções por justa causa e para partes sem advogado. É na OALJ que correm os processos de fiscalização de H-1B (condições da LCA) e de H-2A/H-2B; empregadores com casos em andamento precisam ter o acesso ao sistema eletrônico configurado antes da data."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 ↗</a>"
+     },
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "PERM em cerca de 10 meses: o calendário do empregador",
+      "deck": "Os dados do DOL até 31 de outubro mostram média de 300 dias para os PERM decididos nos últimos 30 dias, com o salário prevalecente processando pedidos de agosto.",
+      "body": [
+       "Os dados do DOL até 31 de outubro mostram média de 300 dias para os PERM decididos nos últimos 30 dias, com o salário prevalecente processando pedidos de agosto. Somadas as etapas, o empregador deve planejar pouco mais de um ano entre o pedido de PWD e a certificação — e, para o H-1B no sexto ano, o PERM precisa estar protocolado ao menos 365 dias antes do limite para permitir prorrogações além dele."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Passaportes",
+    "items": [
+     {
+      "tag": "Vigente",
+      "tagtype": "final",
+      "title": "Amanhã: primeiro passaporte americano pela internet",
+      "deck": "Começa nesta segunda-feira, 16 de novembro, o projeto-piloto do Departamento de Estado que aceita online certos pedidos no formulário DS-11 — o usado por quem tira o primeiro passaporte.",
+      "body": [
+       "Começa nesta segunda-feira, 16 de novembro, o projeto-piloto do Departamento de Estado que aceita online certos pedidos no formulário DS-11 — o usado por quem tira o primeiro passaporte. A elegibilidade é verificada no America.gov, o grupo admitido deve crescer ao longo dos testes e o piloto vai até 20 de novembro de 2027. Para recém-naturalizados, pode ser o caminho mais rápido até a primeira viagem como cidadão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23317\">Federal Register 2026-23317 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Matter of S-K-: a refugiada que “apoiou terroristas” com doações",
+      "deck": "A designação de Los Lorenzanas reabre uma das passagens mais duras da lei americana: a barra do “apoio material”. Em 2006, o BIA julgou o caso de uma cristã de etnia chin, perseguida em Mianmar, que havia feito doações…",
+      "body": [
+       "A designação de Los Lorenzanas reabre uma das passagens mais duras da lei americana: a barra do “apoio material”. Em 2006, o BIA julgou o caso de uma cristã de etnia chin, perseguida em Mianmar, que havia feito doações modestas em dinheiro à Chin National Front — um grupo que combatia a junta militar e nunca mirou os Estados Unidos. O juiz de imigração achou que ela merecia proteção; o Board, em Matter of S-K-, concluiu que a lei não fazia exceção nem para pequenas quantias, nem para grupos que lutam contra regimes opressores, e que a mulher estava barrada. A própria decisão admitiu o resultado amargo, e o Congresso reagiu: a lei de dotações de 2008 ampliou o poder de isenção do Executivo e retirou expressamente a Chin National Front do alcance da barra, o que levou o caso de volta ao BIA e abriu caminho para o pedido dela. A lição vale até hoje: a barra não pergunta por que nem quanto — e só uma isenção expressa a desfaz."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/volume-23\">Matter of S-K-, 23 I&amp;N Dec. 936 (BIA 2006) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-24\">Matter of S-K-, 24 I&amp;N Dec. 475 (BIA 2008) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

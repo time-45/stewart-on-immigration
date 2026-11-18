@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-07",
+ "issue": 39,
+ "en": {
+  "date_long": "Wednesday, October 7, 2026",
+  "date_short": "10/07/2026",
+  "lead": {
+   "kicker": "Headline of the day",
+   "headline": "Nine days left before the H.R. 1 fee increases; November Visa Bulletin still pending",
+   "deck": "DHS inflation adjustments apply to filings from 10/16; the State Department still lists October as the current bulletin.",
+   "body": [
+    "Filings made on or after 10/16 use the FY2027 amounts: I-131 (parole) $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300. For cases already ready, consider filing before that date.",
+    "On the consular side, the official Visa Bulletin page still shows the November bulletin as &ldquo;coming soon.&rdquo; The October/FY2027 bulletin remains in force (EB-2 worldwide 01JAN25; EB-3 worldwide 15MAY24)."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+  },
+  "deadlines": [
+   "<strong>10/13:</strong> comments close on mandatory e-filing (doc. 2026-16313), E-Verify (doc. 2026-18465) and Form EOIR-59 (doc. 2026-18622).",
+   "<strong>10/14:</strong> comments close on the Form I-751 revision (doc. 2026-18736).",
+   "<strong>10/16:</strong> DHS H.R. 1 inflation fee adjustments take effect.",
+   "<strong>10/23:</strong> USCIS guidance on the meaning of &ldquo;day&rdquo; in filing deadlines takes effect (1 USCIS-PM B.6).",
+   "<strong>11/10:</strong> comments on ending the 60-day grace period (doc. 2026-18631). <strong>11/27:</strong> Form G-325R (doc. 2026-19756). <strong>11/30:</strong> EB-5 final fee rule takes effect. <strong>12/07:</strong> I-90 comments (doc. 2026-20422).",
+   "<em>Gap:</em> uscis.gov blocks automated access; no new EOIR/BIA or DOL acts today. Confirm on the official sites."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Effective 10/16",
+      "tagtype": "final",
+      "title": "DHS: FY2027 H.R. 1 fee adjustment applies from 10/16",
+      "deck": "Includes I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300.",
+      "body": [
+       "Includes I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Comment open",
+      "tagtype": "prop",
+      "title": "USCIS: extension without change of the Form I-90 collection (green card renewal)",
+      "deck": "Notice published 10/06 opens a 60-day comment period, through 12/07 (OMB 1615-0082). The form does not change.",
+      "body": [
+       "Notice published 10/06 opens a 60-day comment period, through 12/07 (OMB 1615-0082). The form does not change."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     },
+     {
+      "tag": "In force",
+      "tagtype": "final",
+      "title": "H-1B: Proclamation 11069 keeps the $100,000 fee for beneficiaries abroad",
+      "deck": "In force 09/21/2026 to 09/21/2027; does not apply to extensions, changes of status or portability, with a national-interest exception at DHS discretion.",
+      "body": [
+       "In force 09/21/2026 to 09/21/2027; does not apply to extensions, changes of status or portability, with a national-interest exception at DHS discretion. The 9-11 fee ($4,000 H-1B / $4,500 L-1) applies to extensions since 09/09."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-19554\">Federal Register 2026-19554 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-16231\">2026-16231 ↗</a>"
+     },
+     {
+      "tag": "In force",
+      "tagtype": "final",
+      "title": "EOIR: FY2027 OBBBA fees in force since 10/01",
+      "deck": "Inflation adjustment to EOIR fees (for example, I-485 at $1,590), per the 09/29 Federal Register.",
+      "body": [
+       "Inflation adjustment to EOIR fees (for example, I-485 at $1,590), per the 09/29 Federal Register."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-19841\">Federal Register 2026-19841 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "In force · October/FY2027",
+      "tagtype": "final",
+      "title": "November Visa Bulletin not yet published",
+      "deck": "The State Department page shows October as current and November as “coming soon.” USCIS said it is reviewing, with DOS, the visa-availability procedure for adjustment of status; the USCIS announcement could not be…",
+      "body": [
+       "The State Department page shows October as current and November as &ldquo;coming soon.&rdquo; USCIS said it is reviewing, with DOS, the visa-availability procedure for adjustment of status; the USCIS announcement could not be consulted today."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new PERM communications",
+      "deck": "The latest FLAG Announcements entry remains 09/02/2026 (H-2A, outside PERM scope). DOL’s proposal to revise the prevailing wage methodology for H-1B and PERM (FR 03/27/2026) remains pending.",
+      "body": [
+       "The latest FLAG Announcements entry remains 09/02/2026 (H-2A, outside PERM scope). DOL&rsquo;s proposal to revise the prevailing wage methodology for H-1B and PERM (FR 03/27/2026) remains pending."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">DOL &mdash; Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quarta-feira, 7 de outubro de 2026",
+  "date_short": "07/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Faltam 9 dias para as taxas reajustadas da H.R. 1; Visa Bulletin de novembro segue pendente",
+   "deck": "Reajustes de inflação do DHS valem para protocolos a partir de 16/10; o Departamento de Estado ainda lista outubro como o boletim vigente.",
+   "body": [
+    "Os protocolos feitos a partir de 16/10 usam os valores do FY2027: I-131 (parole) US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Para pedidos já prontos, vale avaliar o protocolo antes dessa data.",
+    "Na frente consular, a página oficial do Visa Bulletin ainda marca o boletim de novembro como &ldquo;em breve&rdquo;. Segue valendo o de outubro/FY2027 (EB-2 mundial 01JAN25; EB-3 mundial 15MAI24)."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+  },
+  "deadlines": [
+   "<strong>13/10:</strong> encerram os comentários sobre e-filing obrigatório (doc. 2026-16313), E-Verify (doc. 2026-18465) e Formulário EOIR-59 (doc. 2026-18622).",
+   "<strong>14/10:</strong> encerra o comentário sobre a revisão do Formulário I-751 (doc. 2026-18736).",
+   "<strong>16/10:</strong> vigência dos reajustes de inflação das taxas da H.R. 1 do DHS.",
+   "<strong>23/10:</strong> vigência da orientação do USCIS sobre a definição de &ldquo;dia&rdquo; nos prazos de protocolo (1 USCIS-PM B.6).",
+   "<strong>10/11:</strong> comentário sobre o fim do período de 60 dias (doc. 2026-18631). <strong>27/11:</strong> Formulário G-325R (doc. 2026-19756). <strong>30/11:</strong> vigência da regra final de taxas do EB-5. <strong>07/12:</strong> comentário sobre o I-90 (doc. 2026-20422).",
+   "<em>Lacuna:</em> uscis.gov bloqueia acesso automatizado; hoje não houve atos novos do EOIR/BIA nem do DOL. Confirme nos sites oficiais."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Vigência 16/10",
+      "tagtype": "final",
+      "title": "DHS: reajuste FY2027 das taxas da H.R. 1 vale a partir de 16/10",
+      "deck": "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300.",
+      "body": [
+       "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Comentário aberto",
+      "tagtype": "prop",
+      "title": "USCIS: extensão sem mudança da coleta do Formulário I-90 (renovação do green card)",
+      "deck": "Aviso publicado em 06/10 abre 60 dias de comentários, até 07/12 (OMB 1615-0082). O formulário não muda.",
+      "body": [
+       "Aviso publicado em 06/10 abre 60 dias de comentários, até 07/12 (OMB 1615-0082). O formulário não muda."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     },
+     {
+      "tag": "Vigente",
+      "tagtype": "final",
+      "title": "H-1B: Proclamação 11069 mantém a taxa de US$100.000 para beneficiários vindos do exterior",
+      "deck": "Vigente de 21/09/2026 a 21/09/2027; não se aplica a extensão, mudança de status ou portabilidade, e há exceção de interesse nacional a critério do DHS.",
+      "body": [
+       "Vigente de 21/09/2026 a 21/09/2027; não se aplica a extensão, mudança de status ou portabilidade, e há exceção de interesse nacional a critério do DHS. A taxa 9-11 (US$4.000 H-1B / US$4.500 L-1) vale para prorrogações desde 09/09."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-19554\">Federal Register 2026-19554 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-16231\">2026-16231 ↗</a>"
+     },
+     {
+      "tag": "Vigente",
+      "tagtype": "final",
+      "title": "EOIR: taxas da OBBBA do FY2027 em vigor desde 01/10",
+      "deck": "Reajuste de inflação das taxas do EOIR (por exemplo, I-485 em US$1.590), conforme o Federal Register de 29/09.",
+      "body": [
+       "Reajuste de inflação das taxas do EOIR (por exemplo, I-485 em US$1.590), conforme o Federal Register de 29/09."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-19841\">Federal Register 2026-19841 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Vigente · outubro/FY2027",
+      "tagtype": "final",
+      "title": "Visa Bulletin de novembro ainda não publicado",
+      "deck": "A página do Departamento de Estado mostra outubro como o boletim atual e novembro como “em breve”. O USCIS informou que revisa, com o DOS, o procedimento de disponibilidade de visto para ajuste de status; o comunicado…",
+      "body": [
+       "A página do Departamento de Estado mostra outubro como o boletim atual e novembro como &ldquo;em breve&rdquo;. O USCIS informou que revisa, com o DOS, o procedimento de disponibilidade de visto para ajuste de status; o comunicado do USCIS não pôde ser consultado hoje."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem alteração",
+      "tagtype": "final",
+      "title": "FLAG: nenhuma comunicação nova sobre PERM",
+      "deck": "A comunicação mais recente em FLAG Announcements segue sendo de 02/09/2026 (H-2A, fora do escopo do PERM). Continua em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente para H-1B e PERM (FR…",
+      "body": [
+       "A comunicação mais recente em FLAG Announcements segue sendo de 02/09/2026 (H-2A, fora do escopo do PERM). Continua em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente para H-1B e PERM (FR 27/03/2026)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">DOL &mdash; Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

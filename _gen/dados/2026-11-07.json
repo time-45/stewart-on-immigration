@@ -1,0 +1,156 @@
+{
+ "date": "2026-11-07",
+ "issue": 70,
+ "en": {
+  "date_long": "Saturday, November 7, 2026",
+  "date_short": "11/07/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "Countdown: three DHS deadlines that reshape life for H-1B, L-1 and EB-5 filers",
+   "deck": "End of the 60-day grace period, end of deference to prior approvals, and EB-5 fees up to 70% higher: what is open, when it closes, and what to do first.",
+   "body": [
+    "The 60-day grace period lets a worker in E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 or TN status &mdash; and dependents &mdash; remain in the United States for up to 60 days after employment ends, or until the petition expires if sooner, without being treated as out of status (8 CFR 214.1(l)(2)). A Department of Homeland Security proposed rule would eliminate that cushion: the worker would have to leave as soon as the job ends unless authorized to stay on another basis. DHS argues the period conflicts with laws tying each status to a specific employer and reports that more than 1.9 million petitions since fiscal year 2018 required grace-period analysis. The proposal would also make H-1B and O-1 petitioners responsible for return transportation costs of a dismissed worker. Comments are due Tuesday, November 10, 2026, through Regulations.gov (docket USCIS-2026-0364). Workers, employers and associations can still be heard, and comments grounded in concrete data are the ones an agency must answer in a final rule."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register 2026-18631 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Tuesday, 11/10:</strong> comments close on the proposal to eliminate the 60-day grace period (Regulations.gov, docket USCIS-2026-0364).",
+   "<strong>Friday, 11/13:</strong> comments close, around this date, on the proposal to remove deference to prior USCIS determinations (docket USCIS-2026-0529).",
+   "<strong>Monday, 11/30:</strong> new EB-5 fees take effect for petitions filed on or after that date."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "USCIS would stop deferring to its own prior approvals",
+      "deck": "Another DHS proposal would end the deference policy — codified at 8 CFR 214.1(c)(5) by the December 2024 H-1B modernization rule — under which an officer reviewing an extension starts from the earlier approval and…",
+      "body": [
+       "Another DHS proposal would end the deference policy &mdash; codified at 8 CFR 214.1(c)(5) by the December 2024 H-1B modernization rule &mdash; under which an officer reviewing an extension starts from the earlier approval and departs only for material error, changed circumstances or new information. Under the proposal, officers would examine each Form I-129 extension from scratch without presuming the earlier approval was correct. It reaches extensions in E, H-1B, H-1B1, H-2, H-3, L-1, O, P, Q, R and TN classifications. DHS projects about 6,000 additional RFEs a year and slower processing; routine extensions will likely draw fresh scrutiny, so employers should build each one with full documentation, as if it were a first filing. Comments close around November 13, 2026 (docket USCIS-2026-0529)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "EB-5 fees rise about 70% on November 30",
+      "deck": "A USCIS final rule raises EB-5 (fifth preference) fees for petitions filed on or after November 30, 2026. On a weighted average, form fees rise about 70.7% — roughly $2,900 more per petition — and the Form I-526E…",
+      "body": [
+       "A USCIS final rule raises EB-5 (fifth preference) fees for petitions filed on or after November 30, 2026. On a weighted average, form fees rise about 70.7% &mdash; roughly $2,900 more per petition &mdash; and the Form I-526E Integrity Fund fee goes from $1,000 to $1,100, with regional center integrity fees rising in step. The baseline reflects Moody v. Noem (November 2025), which set aside earlier increases and returned USCIS to pre-March 2024 fees. For investors the practical point is timing: a petition filed by November 29 pays the current schedule; from November 30, the new one."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Enforcement",
+      "tagtype": "alert",
+      "title": "Project Firewall keeps H-1B and PERM employers under scrutiny",
+      "deck": "The Department of Labor's Project Firewall — the H-1B enforcement initiative under which, for the first time in the Department's history, the Secretary of Labor personally certifies the opening of an investigation —…",
+      "body": [
+       "The Department of Labor's Project Firewall &mdash; the H-1B enforcement initiative under which, for the first time in the Department's history, the Secretary of Labor personally certifies the opening of an investigation &mdash; continues the coordinated review of sponsoring employers. The Wage and Hour Division, the Employment and Training Administration and the Office of Immigration Policy work with the Department of Justice, the EEOC and USCIS; tools include Secretary-certified investigations on reasonable cause, back-wage recovery, civil penalties and H-1B debarment. Employers with H-1B and PERM filings should confirm that labor condition applications, public access files and prevailing wage determinations are in order, since an adverse finding now reaches debarment, not just back pay."
+      ],
+      "src": "Official source: <a href=\"https://www.dol.gov/newsroom/releases/osec/osec20250919\">U.S. Department of Labor &mdash; News Release 25-1476-NAT ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "The case that rewrote the “national interest” rule",
+      "deck": "For nearly two decades, applicants seeking a waiver of the job offer and labor certification in the national interest faced a test many found murky: Matter of New York State Department of Transportation (1998) required…",
+      "body": [
+       "For nearly two decades, applicants seeking a waiver of the job offer and labor certification in the national interest faced a test many found murky: Matter of New York State Department of Transportation (1998) required national scope and a showing of something substantially better than a qualified peer would offer. On December 27, 2016, USCIS's Administrative Appeals Office published Matter of Dhanasar (26 I&amp;N Dec. 884) and replaced it with three questions: does the proposed endeavor have substantial merit and national importance; is the applicant well positioned to advance it; and, on balance, would it benefit the United States to waive the job-offer and labor-certification requirements. The change opened the door to entrepreneurs, researchers and independent professionals, and still organizes how NIW petitions are built and judged."
+      ],
+      "src": "Official source: USCIS &mdash; Administrative Appeals Office, precedent Matter of Dhanasar, 26 I&amp;N Dec. 884 (AAO 2016).",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sábado, 7 de novembro de 2026",
+  "date_short": "07/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Contagem regressiva: três prazos do DHS mudam a vida de quem tem H-1B, L-1 e EB-5",
+   "deck": "Fim do período de 60 dias, fim da deferência às aprovações anteriores e taxas do EB-5 até 70% mais altas: o que está aberto, quando fecha e o que fazer antes.",
+   "body": [
+    "O período de 60 dias é a margem que permite ao trabalhador em status E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 ou TN — e a seus dependentes — permanecer nos Estados Unidos por até 60 dias após o fim do emprego, ou até o fim da validade da petição, se este vier antes, sem ser tratado como tendo violado o status (8 CFR 214.1(l)(2)). Uma regra proposta pelo Department of Homeland Security eliminaria essa margem: o trabalhador teria de deixar o país assim que o emprego terminasse, salvo se autorizado a permanecer por outra via. O DHS argumenta que o período é incompatível com as leis que vinculam cada status a um emprego específico e informa que mais de 1,9 milhão de petições desde o ano fiscal de 2018 exigiram a análise do período de graça. A proposta também passaria a responsabilizar o peticionário de H-1B e O-1 pelos custos de transporte de retorno do trabalhador dispensado. Os comentários vão até terça-feira, 10 de novembro de 2026, pelo Regulations.gov (processo USCIS-2026-0364). Quem tem interesse — trabalhadores, empregadores, associações — ainda pode registrar sua posição, e comentários fundamentados em dados concretos costumam ser os que o governo é obrigado a responder na regra final."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register 2026-18631 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Terça-feira, 10/11:</strong> encerram os comentários sobre a proposta de eliminar o período de 60 dias (Regulations.gov, processo USCIS-2026-0364).",
+   "<strong>Sexta-feira, 13/11:</strong> encerram, por volta dessa data, os comentários sobre a proposta de remover a deferência às determinações anteriores do USCIS (processo USCIS-2026-0529).",
+   "<strong>Segunda-feira, 30/11:</strong> entram em vigor as novas taxas do EB-5, para petições postadas nessa data ou depois."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "USCIS deixaria de deferir às próprias aprovações anteriores",
+      "deck": "Outra proposta do DHS encerraria a política de deferência — a prática, codificada em 8 CFR 214.1(c)(5) pela regra de modernização do H-1B de dezembro de 2024, pela qual o oficial que analisa uma prorrogação parte da…",
+      "body": [
+       "Outra proposta do DHS encerraria a política de deferência — a prática, codificada em 8 CFR 214.1(c)(5) pela regra de modernização do H-1B de dezembro de 2024, pela qual o oficial que analisa uma prorrogação parte da aprovação anterior e dela se afasta apenas por erro material, mudança de circunstâncias ou informação nova. Pela proposta, o oficial examinaria cada prorrogação do Formulário I-129 do zero, sem presumir que a aprovação anterior estava correta. Alcança prorrogações nas classificações E, H-1B, H-1B1, H-2, H-3, L-1, O, P, Q, R e TN. O DHS projeta cerca de 6 mil pedidos de prova (RFE) adicionais por ano e processamento mais lento; na prática, prorrogações há muito tratadas como rotina devem passar a sofrer escrutínio renovado, e o empregador faz bem em montar cada prorrogação com a documentação completa, como se fosse a primeira. Os comentários encerram por volta de 13 de novembro de 2026 (processo USCIS-2026-0529)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Taxas do EB-5 sobem cerca de 70% em 30 de novembro",
+      "deck": "Uma regra final do USCIS eleva as taxas do EB-5 (quinta preferência) para petições postadas em 30 de novembro de 2026 ou depois. Em média ponderada, as taxas de formulário sobem cerca de 70,7% — algo como US$ 2.900 a…",
+      "body": [
+       "Uma regra final do USCIS eleva as taxas do EB-5 (quinta preferência) para petições postadas em 30 de novembro de 2026 ou depois. Em média ponderada, as taxas de formulário sobem cerca de 70,7% — algo como US$ 2.900 a mais por petição — e a taxa do Integrity Fund do Formulário I-526E passa de US$ 1.000 para US$ 1.100, com as taxas de integridade do regional center subindo na mesma linha. A base reflete a decisão Moody v. Noem, de novembro de 2025, que suspendeu os aumentos anteriores e devolveu o USCIS às taxas anteriores a março de 2024. Para o investidor, a consequência prática é de calendário: petição postada até 29 de novembro paga a tabela atual; a partir de 30 de novembro, a nova."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Fiscalização",
+      "tagtype": "alert",
+      "title": "Project Firewall mantém empregadores de H-1B e PERM sob escrutínio",
+      "deck": "O Project Firewall, do Department of Labor — a iniciativa de fiscalização do H-1B pela qual, pela primeira vez na história do Departamento, a Secretária do Trabalho certifica pessoalmente a abertura de uma investigação…",
+      "body": [
+       "O Project Firewall, do Department of Labor — a iniciativa de fiscalização do H-1B pela qual, pela primeira vez na história do Departamento, a Secretária do Trabalho certifica pessoalmente a abertura de uma investigação — move a revisão coordenada dos empregadores patrocinadores. A Wage and Hour Division, a Employment and Training Administration e o Office of Immigration Policy atuam com o Department of Justice, a EEOC e o USCIS; o arsenal inclui investigações certificadas pela Secretária mediante causa razoável, recuperação de salários atrasados, multas civis e exclusão (debarment) do programa H-1B. O empregador com petições de H-1B e PERM faria bem em confirmar que suas labor condition applications, os public-access files e as determinações de salário prevalecente estão em ordem, pois uma conclusão desfavorável hoje alcança o debarment, não apenas o pagamento de salários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.dol.gov/newsroom/releases/osec/osec20250919\">U.S. Department of Labor — News Release 25-1476-NAT ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "O caso que reescreveu a regra do “interesse nacional”",
+      "deck": "Durante quase duas décadas, quem pedia a dispensa da oferta de emprego e da certificação trabalhista por “interesse nacional” (national interest waiver) enfrentava um teste que muitos consideravam nebuloso: a decisão…",
+      "body": [
+       "Durante quase duas décadas, quem pedia a dispensa da oferta de emprego e da certificação trabalhista por &ldquo;interesse nacional&rdquo; (national interest waiver) enfrentava um teste que muitos consideravam nebuloso: a decisão Matter of New York State Department of Transportation, de 1998, exigia que o benefício fosse de alcance &ldquo;nacional&rdquo; e que o candidato oferecesse algo substancialmente superior ao que um profissional qualificado comum ofereceria. Em 27 de dezembro de 2016, o Administrative Appeals Office do USCIS publicou Matter of Dhanasar (26 I&amp;N Dec. 884) e substituiu aquele teste por três perguntas: se o empreendimento proposto tem mérito substancial e importância nacional; se o candidato está bem posicionado para avançá-lo; e se, em equilíbrio, seria benéfico para os Estados Unidos dispensar a exigência de oferta de emprego e de certificação trabalhista. A mudança abriu a porta a empreendedores, pesquisadores e profissionais independentes — e até hoje organiza como as petições de NIW são montadas e avaliadas."
+      ],
+      "src": "Fonte oficial: USCIS — Administrative Appeals Office, precedente Matter of Dhanasar, 26 I&amp;N Dec. 884 (AAO 2016).",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

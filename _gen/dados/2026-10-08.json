@@ -1,0 +1,192 @@
+{
+ "date": "2026-10-08",
+ "issue": 40,
+ "en": {
+  "date_long": "Thursday, October 8, 2026",
+  "date_short": "10/08/2026",
+  "lead": {
+   "kicker": "PERM · Enforcement",
+   "headline": "Labor Department suspends Microsoft, Adobe and major IT firms from PERM",
+   "deck": "The Department of Labor says it will not accept new or pending permanent labor certification applications involving the affected companies, citing alleged fraud and worker-displacement concerns. Announced October 8.",
+   "body": [
+    "At an October 8 news conference, the U.S. Department of Labor announced that it will not accept new or pending permanent labor certification (PERM) applications involving Microsoft, Adobe and several major information-technology companies. PERM certification is ordinarily the first step in an employment-based green-card case, so a suspension reaches the sponsored workers of the named employers, not only the companies.",
+    "The Secretary of Labor, Keith Sonderling, framed the step as enforcement tied to allegations of fraud and to concerns that foreign workers are being used in ways that disadvantage U.S. workers; the written scope, the effective date and any duration were not detailed at the conference. At the same event, the Vice President said the administration would investigate nine universities over alleged abuse of a program for international students. Affected employers and workers should confirm the terms, and any individual effect, against the Department&rsquo;s own notice before acting."
+   ],
+   "src": "Official source: <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/programs/permanent\">U.S. Department of Labor &mdash; OFLC, Permanent Labor Certification ↗</a> &middot; <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">DOL ETA &mdash; Foreign Labor Certification news ↗</a> (confirm the written release on dol.gov)"
+  },
+  "deadlines": [
+   "<strong>10/13:</strong> comments close on mandatory e-filing (doc. 2026-16313), E-Verify (doc. 2026-18465) and Form EOIR-59 (doc. 2026-18622).",
+   "<strong>10/14:</strong> comment period closes on the Form I-751 revision (doc. 2026-18736).",
+   "<strong>10/16:</strong> DHS H.R. 1 inflation fee adjustments take effect.",
+   "<strong>10/23:</strong> USCIS guidance on the definition of &ldquo;day&rdquo; in filing deadlines takes effect.",
+   "<strong>11/09:</strong> comments on OPT fees (2026-20660). <strong>11/10:</strong> end of the 60-day period (2026-18631). <strong>11/27:</strong> G-325R (2026-19756). <strong>11/30:</strong> EB-5 fee final rule takes effect. <strong>12/07:</strong> I-90 (2026-20422) and OPT PRA collection.",
+   "<em>Gap:</em> uscis.gov blocks automated access; no new EOIR/BIA or DOL actions identified today. Please confirm on the official sites."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "ICE/DHS: Optional Practical Training fees (8 CFR 214)",
+      "deck": "$70,000 (initial OPT, pre- or post-completion) and $30,000 (subsequent OPT). Proceeds would go to the Treasury as miscellaneous receipts.",
+      "body": [
+       "$70,000 (initial OPT, pre- or post-completion) and $30,000 (subsequent OPT). Proceeds would go to the Treasury as miscellaneous receipts. The proposal cites the Homeland Security Act and INA §214(a); the text reviewed does not mention H.R. 1."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Effective 10/16",
+      "tagtype": "final",
+      "title": "DHS: FY2027 H.R. 1 fee adjustments apply from 10/16",
+      "deck": "Includes I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees of $5,300.",
+      "body": [
+       "Includes I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees of $5,300."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Open for comment",
+      "tagtype": "prop",
+      "title": "USCIS: Form I-90 information collection extended without change",
+      "deck": "Comments due 12/07 (OMB 1615-0082). The form does not change.",
+      "body": [
+       "Comments due 12/07 (OMB 1615-0082). The form does not change."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     },
+     {
+      "tag": "Proposed · comments closed",
+      "tagtype": "prop",
+      "title": "Biometrics and continuous vetting: the proposed rule behind the FBI privacy notices applicants are receiving",
+      "deck": "DHS/USCIS has proposed to broaden the collection and use of biometrics (RIN 1615-AC99; DHS Docket USCIS-2025-0205), moving toward continuous immigration vetting, under which biometrics may be checked against FBI…",
+      "body": [
+       "DHS/USCIS has proposed to broaden the collection and use of biometrics (RIN 1615-AC99; DHS Docket USCIS-2025-0205), moving toward continuous immigration vetting, under which biometrics may be checked against FBI criminal-history records on an ongoing basis while a matter is pending. Separately, applicants whose fingerprints are submitted for a non-criminal-justice purpose receive the FBI Privacy Act and Non-Criminal Justice Applicant&rsquo;s Privacy Rights notice required by 28 U.S.C. 534 and 28 C.F.R. &sect; 50.12; the notice requires no action and explains how criminal-history records are collected, used, and shared. The rulemaking is a proposal; comments closed January 2, 2026."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2025/11/03/2025-19747/collection-and-use-of-biometrics-by-us-citizenship-and-immigration-services\">Federal Register 2025-19747 (90 FR 49062) ↗</a> &middot; <a href=\"https://www.ecfr.gov/current/title-28/chapter-I/part-50/section-50.12\">28 C.F.R. &sect; 50.12 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "In effect · October/FY2027",
+      "tagtype": "final",
+      "title": "November Visa Bulletin not yet published",
+      "deck": "The State Department page shows October as the current bulletin and November as “coming soon.”",
+      "body": [
+       "The State Department page shows October as the current bulletin and November as &ldquo;coming soon.&rdquo;"
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new PERM announcements",
+      "deck": "The latest announcement is still from 09/02/2026 (H-2A, outside PERM). The DOL proposal to revise the prevailing wage methodology for H-1B and PERM remains pending.",
+      "body": [
+       "The latest announcement is still from 09/02/2026 (H-2A, outside PERM). The DOL proposal to revise the prevailing wage methodology for H-1B and PERM remains pending."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quinta-feira, 8 de outubro de 2026",
+  "date_short": "08/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "DHS propõe taxa de US$70.000 para o OPT de estudantes F-1",
+   "deck": "Proposta publicada hoje prevê US$30.000 para OPT subsequente, como a extensão STEM; comentários até 09/11.",
+   "body": [
+    "A proposta do ICE/DHS (RIN 1653-AB01) fixa US$70.000 por estudante F-1 no OPT inicial e US$30.000 em qualquer OPT subsequente, incluindo a extensão STEM. A escola (DSO) teria de pagar a taxa antes de registrar a recomendação de OPT no SEVIS, e o USCIS não concederia a autorização de trabalho (I-765) sem o pagamento. A regra permite que a escola repasse o custo a estudantes ou empregadores.",
+    "É apenas uma proposta: entraria em vigor 60 dias após a publicação de uma regra final. O texto indica comentários até 09/11/2026 (a coleta de informações do PRA, até 07/12); o registro eletrônico do Federal Register mostra datas divergentes, então confirme no PDF oficial."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees\">Federal Register 2026-20660 (91 FR 64566) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>13/10:</strong> encerram os comentários sobre e-filing obrigatório (doc. 2026-16313), E-Verify (doc. 2026-18465) e Formulário EOIR-59 (doc. 2026-18622).",
+   "<strong>14/10:</strong> encerra o comentário sobre a revisão do Formulário I-751 (doc. 2026-18736).",
+   "<strong>16/10:</strong> vigência dos reajustes de inflação das taxas da H.R. 1 do DHS.",
+   "<strong>23/10:</strong> vigência da orientação do USCIS sobre a definição de &ldquo;dia&rdquo; nos prazos de protocolo.",
+   "<strong>09/11:</strong> comentários sobre as taxas de OPT (2026-20660). <strong>10/11:</strong> fim do período de 60 dias (2026-18631). <strong>27/11:</strong> G-325R (2026-19756). <strong>30/11:</strong> regra final de taxas do EB-5. <strong>07/12:</strong> I-90 (2026-20422) e coleta PRA do OPT.",
+   "<em>Lacuna:</em> uscis.gov bloqueia acesso automatizado; sem atos novos do EOIR/BIA ou do DOL identificados hoje. Confirme nos sites oficiais."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "ICE/DHS: taxas do Optional Practical Training (8 CFR 214)",
+      "deck": "US$70.000 (OPT inicial, antes ou depois da conclusão do curso) e US$30.000 (OPT subsequente). Os recursos iriam ao Tesouro como receita diversa.",
+      "body": [
+       "US$70.000 (OPT inicial, antes ou depois da conclusão do curso) e US$30.000 (OPT subsequente). Os recursos iriam ao Tesouro como receita diversa. A proposta cita o Homeland Security Act e o INA §214(a); o texto lido não menciona a H.R. 1."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Vigência 16/10",
+      "tagtype": "final",
+      "title": "DHS: reajuste FY2027 das taxas da H.R. 1 vale a partir de 16/10",
+      "deck": "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300.",
+      "body": [
+       "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Comentário aberto",
+      "tagtype": "prop",
+      "title": "USCIS: extensão sem mudança da coleta do Formulário I-90",
+      "deck": "Comentários até 07/12 (OMB 1615-0082). O formulário não muda.",
+      "body": [
+       "Comentários até 07/12 (OMB 1615-0082). O formulário não muda."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Vigente · outubro/FY2027",
+      "tagtype": "final",
+      "title": "Visa Bulletin de novembro ainda não publicado",
+      "deck": "A página do Departamento de Estado mostra outubro como o boletim atual e novembro como “em breve”.",
+      "body": [
+       "A página do Departamento de Estado mostra outubro como o boletim atual e novembro como &ldquo;em breve&rdquo;."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem alteração",
+      "tagtype": "final",
+      "title": "FLAG: nenhuma comunicação nova sobre PERM",
+      "deck": "A comunicação mais recente segue sendo de 02/09/2026 (H-2A, fora do escopo do PERM). Continua em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente para H-1B e PERM.",
+      "body": [
+       "A comunicação mais recente segue sendo de 02/09/2026 (H-2A, fora do escopo do PERM). Continua em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente para H-1B e PERM."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

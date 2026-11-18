@@ -1,0 +1,232 @@
+{
+ "date": "2026-11-14",
+ "issue": 77,
+ "en": {
+  "date_long": "Saturday, November 14, 2026",
+  "date_short": "11/14/2026",
+  "lead": {
+   "kicker": "Today's lead · Weekend edition",
+   "headline": "Asylum, bond and voluntary departure: the BIA tightens the screws",
+   "deck": "Ontiveros-Diaz (ID 4272), G-M-T- (ID 4273) and A-C-V-M- (ID 4274): voluntary departure, bond and gender-based asylum — what the new precedents change for people in removal proceedings.",
+   "body": [
+    "The Board of Immigration Appeals has issued three precedent decisions in recent days, binding on immigration judges nationwide. In <strong>Matter of Ontiveros-Diaz</strong>, 30 I&amp;N Dec. 222, the Board held that violating a voluntary departure agreement makes the person ineligible for certain immigration benefits for 10 years, and that filing a motion to reopen to submit new evidence on a prior cancellation-of-removal application does not lift that consequence. <strong>Matter of G-M-T-</strong>, 30 I&amp;N Dec. 228, is procedural and helps the defense: when a party offers an alternative account of a fact material to bond, or challenges the government's proffer as uncorroborated, the judge must address it and explain in the bond memorandum the weight given to each account. In <strong>Matter of A-C-V-M-</strong>, 30 I&amp;N Dec. 236, the Board rejected “Guatemalan women without partners” as a particular social group for lack of particularity and social distinction, adding that an imputed opinion about social conventions, unrelated to the government, is not an imputed political opinion. Taken together, the three decisions point the same way: removal proceedings are less forgiving of missed deadlines and loosely drawn theories — but more demanding of the judge's reasoning when the defense brings evidence. If you were granted voluntary departure, leave on time or seek the appropriate relief before the deadline runs; if you are seeking asylum, the social group must be carefully defined and proven, ideally alongside alternative grounds."
+   ],
+   "src": "Official source: <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Precedent Decisions, Volume 30 (IDs 4272, 4273 and 4274) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Monday, 11/16:</strong> online passport (DS-11) pilot begins.",
+   "<strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked on or after this date.",
+   "<strong>Early December:</strong> DOL updates PERM and prevailing wage processing times.",
+   "<strong>Wednesday, 12/09:</strong> mandatory e-filing at DOL's OALJ.",
+   "<strong>60-day grace period and deference:</strong> remain in force until any final rule in the Federal Register.",
+   "<strong>EAD:</strong> no automatic extension on renewal — file up to 180 days before expiration."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference and refugees: comments closed, the ball is in DHS's court",
+      "deck": "Comment periods on two DHS proposals closed on Friday, November 13. The first (FR 2026-20941) would delete the 8 CFR 214.1(c)(5) rule requiring USCIS to defer to a prior approval when extending H-1B, L-1, O-1 and other…",
+      "body": [
+       "Comment periods on two DHS proposals closed on Friday, November 13. The first (FR 2026-20941) would delete the 8 CFR 214.1(c)(5) rule requiring USCIS to defer to a prior approval when extending H-1B, L-1, O-1 and other I-129 classifications involving the same parties and facts. The second (FR 2026-20956) removes the 30-day notice to refugees before termination of status and cuts the response time to 10 days. Next comes review of the comments and, possibly, a final rule; until then, current rules remain in force — and employers with extensions due in 2027 should build each filing as if it were the first."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: the decision still to come",
+      "deck": "The proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) is past its comment phase, which closed November 10.",
+      "body": [
+       "The proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) is past its comment phase, which closed November 10. Today, someone who loses an H-1B, L-1, O-1, E-1/E-2/E-3 or TN job may remain up to 60 days (or until the end of validity, if shorter) to change employers or status; without it, the window to react disappears. Until a final rule appears in the Federal Register, the grace period remains available — and workers in these categories should have a plan B ready before any layoff."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "EB-5: two weeks left on the old fee schedule",
+      "deck": "New EB-5 fees apply to petitions postmarked on or after Monday, November 30: the I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee climbs to $44,115, and the I-526E Integrity Fund…",
+      "body": [
+       "New EB-5 fees apply to petitions postmarked on or after Monday, November 30: the I-526 rises from $3,675 to $7,615 (including the technology fee), the initial I-956 fee climbs to $44,115, and the I-526E Integrity Fund contribution goes from $1,000 to $1,100. Investors with a ready file save more than $3,900 on the I-526 alone by mailing by November 29."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "DOL's administrative law judges move to mandatory e-filing",
+      "deck": "The Department of Labor finalized (FR 2026-22761, published November 9) its 2021 proposal making electronic filing mandatory in proceedings before the Office of Administrative Law Judges (OALJ), with exceptions for good…",
+      "body": [
+       "The Department of Labor finalized (FR 2026-22761, published November 9) its 2021 proposal making electronic filing mandatory in proceedings before the Office of Administrative Law Judges (OALJ), with exceptions for good cause and for self-represented parties. The change takes effect December 9, 2026, and amends the rules of practice at 29 CFR part 18. The OALJ hears, among other matters, H-1B enforcement cases (LCA conditions) and H-2A/H-2B cases; employers and counsel with matters there should have e-filing access set up before that date."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — Rules of Practice and Procedure for Administrative Hearings Before the OALJ ↗</a>"
+     },
+     {
+      "tag": "Alert",
+      "tagtype": "alert",
+      "title": "PERM in about 10 months; PWD working on August",
+      "deck": "DOL data through October 31 show an average of 300 days for PERM cases decided in the last 30 days (315 over 90 days; 360 over 180 days), with the National Prevailing Wage Center processing PERM requests received in…",
+      "body": [
+       "DOL data through October 31 show an average of 300 days for PERM cases decided in the last 30 days (315 over 90 days; 360 over 180 days), with the National Prevailing Wage Center processing PERM requests received in August 2026 (OEWS). Together, employers should plan for a little over a year from PWD request to certification — and for an H-1B worker nearing year six, PERM must be filed at least 365 days ahead to support extensions beyond the cap."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times (data through 10/31/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Passports",
+    "items": [
+     {
+      "tag": "In effect",
+      "tagtype": "final",
+      "title": "A U.S. passport online — even the first one",
+      "deck": "On Monday, November 16, the State Department launches a pilot accepting certain Form DS-11 passport applications online — the form used for first passports and by those who cannot renew by mail.",
+      "body": [
+       "On Monday, November 16, the State Department launches a pilot accepting certain Form DS-11 passport applications online — the form used for first passports and by those who cannot renew by mail. Eligibility is checked at America.gov, and the pool of eligible applicants is expected to grow as testing progresses; the pilot runs through November 20, 2027, unless extended. For newly naturalized citizens, who need a first passport to travel as Americans, this may be the fastest route — check eligibility before booking an in-person appointment."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23317\">Federal Register 2026-23317 — Pilot for Online Version of Application for a U.S. Passport (Form DS-11) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Matter of Lozada: when the lawyer is to blame",
+      "deck": "Ontiveros-Diaz reminded us a few days ago that reopening a case does not erase everything that came before. But for nearly four decades the BIA has recognized one specific door for reopening cases lost through someone…",
+      "body": [
+       "Ontiveros-Diaz reminded us a few days ago that reopening a case does not erase everything that came before. But for nearly four decades the BIA has recognized one specific door for reopening cases lost through someone else's fault: ineffective assistance of counsel. In Matter of Lozada (1988), the Board set three requirements that became ritual in every such motion — an affidavit from the noncitizen detailing the agreement with counsel, proof that counsel was informed of the allegations and given a chance to respond, and proof of a bar complaint (or an explanation of why none was filed). In January 2009, the Attorney General in Matter of Compean replaced that test with a stricter one and declared there was no constitutional right to effective counsel in removal proceedings; months later, the new Attorney General vacated the decision entirely and restored Lozada (Compean II). The episode teaches that reopening is a narrow tool, heavy with formal requirements — and that in immigration, even the rules about lawyers' mistakes can change with a new Attorney General."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/volume-19\">Matter of Lozada, 19 I&amp;N Dec. 637 (BIA 1988) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-24\">Matter of Compean, 24 I&amp;N Dec. 710 (A.G. 2009) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-25\">Matter of Compean, Bangaly &amp; J-E-C-, 25 I&amp;N Dec. 1 (A.G. 2009) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sábado, 14 de novembro de 2026",
+  "date_short": "14/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · Edição de fim de semana",
+   "headline": "Asilo, fiança e partida voluntária: o BIA aperta o cerco",
+   "deck": "Ontiveros-Diaz (ID 4272), G-M-T- (ID 4273) e A-C-V-M- (ID 4274): partida voluntária, fiança e asilo por gênero — o que os novos precedentes mudam para quem está em processo de remoção.",
+   "body": [
+    "O Board of Immigration Appeals publicou, nos últimos dias, três decisões precedentes, de leitura obrigatória para juízes de imigração em todo o país. Em <strong>Matter of Ontiveros-Diaz</strong>, 30 I&amp;N Dec. 222, o Board decidiu que quem descumpre a partida voluntária (não sai no prazo concedido) fica sujeito à barra de 10 anos para diversos benefícios, e que pedir a reabertura do processo para apresentar prova nova sobre o cancelamento de remoção não afasta essa consequência. Em <strong>Matter of G-M-T-</strong>, 30 I&amp;N Dec. 228, a lição é processual e favorece a defesa: quando uma parte apresenta versão alternativa sobre fato relevante para a fiança, ou contesta a versão do governo por falta de corroboração, o juiz precisa enfrentar o ponto e explicar, no memorando de fiança, o peso dado a cada relato. Em <strong>Matter of A-C-V-M-</strong>, 30 I&amp;N Dec. 236, o Board rejeitou o grupo de “mulheres guatemaltecas sem parceiro” por falta de particularidade e de distinção social, e acrescentou que uma opinião imputada sobre convenções sociais, sem relação com o governo, não configura opinião política imputada. Somadas, as três decisões apontam para o mesmo lado: o processo de remoção ficou menos tolerante com prazos perdidos e com teses mal delimitadas — mas mais exigente com a fundamentação do juiz quando a defesa traz prova. Para quem tem partida voluntária concedida, a regra prática é sair no prazo ou pedir a medida cabível antes que ele vença; para quem pede asilo, o grupo social precisa ser desenhado e provado com cuidado, de preferência ao lado de fundamentos alternativos."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Decisões precedentes, Volume 30 (IDs 4272, 4273 e 4274) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Segunda-feira, 16/11:</strong> começa o piloto do passaporte online (DS-11).",
+   "<strong>Segunda-feira, 30/11:</strong> novas taxas do EB-5 para petições postadas nessa data ou depois.",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente.",
+   "<strong>Quarta-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL.",
+   "<strong>Período de graça de 60 dias e deferência:</strong> seguem em vigor até eventual regra final no Federal Register.",
+   "<strong>EAD:</strong> sem extensão automática na renovação — protocole até 180 dias antes do vencimento."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência e refugiados: consultas encerradas, bola com o DHS",
+      "deck": "Fecharam-se na sexta-feira, 13 de novembro, os comentários sobre duas propostas do DHS. A primeira (FR 2026-20941) eliminaria a regra do 8 CFR 214.1(c)(5) que manda o USCIS respeitar a aprovação anterior na prorrogação…",
+      "body": [
+       "Fecharam-se na sexta-feira, 13 de novembro, os comentários sobre duas propostas do DHS. A primeira (FR 2026-20941) eliminaria a regra do 8 CFR 214.1(c)(5) que manda o USCIS respeitar a aprovação anterior na prorrogação de H-1B, L-1, O-1 e outras categorias do I-129 quando as partes e os fatos são os mesmos. A segunda (FR 2026-20956) retira o aviso de 30 dias ao refugiado antes do término do status e reduz a 10 dias o prazo de resposta. A próxima etapa é a análise dos comentários e, eventualmente, a regra final; até sua publicação, as regras atuais seguem valendo — e empregadores com prorrogações previstas para 2027 devem montar cada pedido como se fosse o primeiro."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: a decisão que ainda falta",
+      "deck": "A proposta de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) já passou da fase de comentários, encerrada em 10 de novembro.",
+      "body": [
+       "A proposta de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) já passou da fase de comentários, encerrada em 10 de novembro. Hoje, quem perde o emprego em H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer até 60 dias (ou até o fim da validade, se menor) para mudar de empregador ou de status; sem esse benefício, o tempo de reação desaparece. Enquanto não houver regra final no Federal Register, o período continua disponível — e quem está nessas categorias deve ter um plano B pronto antes de qualquer demissão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "EB-5: duas semanas para a tabela antiga",
+      "deck": "As novas taxas do EB-5 valem para petições postadas a partir de segunda-feira, 30 de novembro: o I-526 vai de US$ 3.675 para US$ 7.615 (com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a…",
+      "body": [
+       "As novas taxas do EB-5 valem para petições postadas a partir de segunda-feira, 30 de novembro: o I-526 vai de US$ 3.675 para US$ 7.615 (com a taxa de tecnologia), a taxa inicial do I-956 sobe para US$ 44.115 e a contribuição do Integrity Fund do I-526E passa de US$ 1.000 para US$ 1.100. Quem tem o dossiê pronto economiza mais de US$ 3.900 só no I-526 postando até 29 de novembro."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Juízes administrativos do DOL passam a exigir protocolo eletrônico",
+      "deck": "O Departamento do Trabalho converteu em regra final (FR 2026-22761, publicada em 9 de novembro) a proposta de 2021 que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges…",
+      "body": [
+       "O Departamento do Trabalho converteu em regra final (FR 2026-22761, publicada em 9 de novembro) a proposta de 2021 que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ), com exceções por justa causa e para partes sem advogado. A mudança vale a partir de 9 de dezembro de 2026 e alcança as regras de procedimento do 29 CFR parte 18. É na OALJ que correm, entre outros, os processos de fiscalização de H-1B (condições da LCA) e de H-2A/H-2B; empregadores e seus advogados com casos ali precisam ter o acesso ao sistema eletrônico configurado antes da data."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — Rules of Practice and Procedure for Administrative Hearings Before the OALJ ↗</a>"
+     },
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "PERM em cerca de 10 meses; PWD em agosto",
+      "deck": "Os dados do DOL até 31 de outubro mostram média de 300 dias para os PERM decididos nos últimos 30 dias (315 em 90 dias; 360 em 180 dias), e o Centro Nacional de Salários Prevalecentes processando pedidos de PERM…",
+      "body": [
+       "Os dados do DOL até 31 de outubro mostram média de 300 dias para os PERM decididos nos últimos 30 dias (315 em 90 dias; 360 em 180 dias), e o Centro Nacional de Salários Prevalecentes processando pedidos de PERM recebidos em agosto de 2026 (com OEWS). Somadas as etapas, o empregador deve planejar pouco mais de um ano entre o pedido de PWD e a certificação — e, para o H-1B no sexto ano, o PERM precisa ser protocolado com pelo menos 365 dias de antecedência para permitir prorrogações além do limite."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times (dados até 31/10/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Passaportes",
+    "items": [
+     {
+      "tag": "Vigente",
+      "tagtype": "final",
+      "title": "Passaporte americano pela internet — inclusive o primeiro",
+      "deck": "O Departamento de Estado lança na segunda-feira, 16 de novembro, um projeto-piloto que aceita online certos pedidos de passaporte feitos no formulário DS-11 — o usado por quem tira o primeiro passaporte e por quem não…",
+      "body": [
+       "O Departamento de Estado lança na segunda-feira, 16 de novembro, um projeto-piloto que aceita online certos pedidos de passaporte feitos no formulário DS-11 — o usado por quem tira o primeiro passaporte e por quem não pode renovar pelo correio. A elegibilidade é verificada no site America.gov, e o grupo de candidatos admitidos deve crescer à medida que os testes avançarem; o piloto vai até 20 de novembro de 2027, salvo prorrogação. Para recém-naturalizados, que precisam do primeiro passaporte para viajar como cidadãos, pode ser o caminho mais rápido — vale conferir a elegibilidade antes de agendar atendimento presencial."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23317\">Federal Register 2026-23317 — Pilot for Online Version of Application for a U.S. Passport (Form DS-11) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Matter of Lozada: quando a culpa é do advogado",
+      "deck": "A decisão Ontiveros-Diaz lembrou, há poucos dias, que reabrir um processo não apaga tudo o que veio antes. Mas há quase quatro décadas o BIA reconhece uma porta específica para reabrir casos perdidos por culpa alheia: a…",
+      "body": [
+       "A decisão Ontiveros-Diaz lembrou, há poucos dias, que reabrir um processo não apaga tudo o que veio antes. Mas há quase quatro décadas o BIA reconhece uma porta específica para reabrir casos perdidos por culpa alheia: a assistência jurídica ineficaz. Em Matter of Lozada (1988), o Board fixou três exigências que se tornaram ritual em todo pedido do gênero — declaração do estrangeiro detalhando o que foi combinado com o advogado, prova de que o advogado foi informado da acusação e teve chance de responder, e comprovação de queixa à ordem dos advogados (ou explicação de por que não foi feita). Em janeiro de 2009, o procurador-geral, em Matter of Compean, substituiu esse teste por um mais rígido e declarou que não havia direito constitucional a um advogado eficaz em processo de remoção; meses depois, o novo procurador-geral anulou a decisão inteira e restaurou Lozada (Compean II). O episódio ensina que a reabertura é uma ferramenta estreita, cheia de requisitos formais — e que, na imigração, até as regras sobre os erros dos advogados podem mudar com a troca de procurador-geral."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/volume-19\">Matter of Lozada, 19 I&amp;N Dec. 637 (BIA 1988) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-24\">Matter of Compean, 24 I&amp;N Dec. 710 (A.G. 2009) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-25\">Matter of Compean, Bangaly &amp; J-E-C-, 25 I&amp;N Dec. 1 (A.G. 2009) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "date": "2026-11-11",
+ "issue": 74,
+ "en": {
+  "date_long": "Wednesday, November 11, 2026",
+  "date_short": "11/11/2026",
+  "lead": {
+   "kicker": "Headline",
+   "headline": "Missed the departure deadline? The BIA shuts the door for 10 years",
+   "deck": "In Matter of Ontiveros-Diaz (30 I&N Dec. 222), the Board holds that a motion to reopen with new evidence does not erase a voluntary departure violation.",
+   "body": [
+    "Voluntary departure is a bargain: the noncitizen avoids a formal removal order and, in exchange, promises to leave the United States within the period set by the judge. Breaking that promise is costly — INA 240B(d)(1) makes the person ineligible for 10 years for cancellation of removal, adjustment of status, change of status and other benefits. In the case decided on November 5, 2026, the respondent did not depart on time and later sought to reopen to present new evidence on a cancellation application that had already been denied, including records about his children's special needs. The Board denied the motion: the statute bars \"any further relief\" after the violation, and a motion filed after the departure period does not affect the time allowed for departure (8 CFR 1240.26(e)(2)). In the alternative, the Board found the new evidence merely supplemental and unlikely to change the outcome. The practical lesson is about the calendar: anyone who intends to challenge the decision must act within the voluntary departure period — and anyone who will not leave must understand the consequences of staying before the deadline passes."
+   ],
+   "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1470361/dl?inline\">Matter of Ontiveros-Diaz, 30 I&amp;N Dec. 222 (BIA 2026), Interim Decision #4272 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Today, 11/11:</strong> Veterans Day — federal holiday; federal offices closed, including most USCIS offices and the immigration courts.",
+   "<strong>Friday, 11/13:</strong> comments close on ending deference (USCIS-2026-0529) and on the 10-day deadline for refugees to respond to a termination notice (USCIS-2026-0397).",
+   "<strong>Monday, 11/30:</strong> new EB-5 fees for petitions postmarked on or after that date.",
+   "<strong>Voluntary departure:</strong> the period set by the judge keeps running even if a motion to reopen is filed after it (Ontiveros-Diaz).",
+   "<strong>EAD:</strong> there is no longer an automatic extension on renewal (FR 2026-20955) — file early."
+  ],
+  "sections": [
+   {
+    "head": "Immigration Courts",
+    "items": [
+     {
+      "tag": "BIA precedent",
+      "tagtype": "final",
+      "title": "Bond: the judge must explain which version of the facts he credited",
+      "deck": "In Matter of G-M-T-, 30 I&N Dec. 228 (Interim Decision #4273), the Board holds that when a party offers an alternative proffer on a fact material to bond — or challenges a proffer as uncorroborated — the immigration…",
+      "body": [
+       "In Matter of G-M-T-, 30 I&amp;N Dec. 228 (Interim Decision #4273), the Board holds that when a party offers an alternative proffer on a fact material to bond — or challenges a proffer as uncorroborated — the immigration judge must address the dispute and give a reasoned explanation in the bond memorandum for the weight given to each account. For detained clients this is a concrete procedural safeguard: uncorroborated assertions, from either side, cannot simply be adopted without analysis, and a missing explanation opens the door to appeal."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1471311/dl?inline\">Matter of G-M-T-, 30 I&amp;N Dec. 228 (BIA 2026) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Volume 30 ↗</a>"
+     },
+     {
+      "tag": "BIA precedent",
+      "tagtype": "final",
+      "title": "When no bond is enough: Matter of Cruz Aijiaco",
+      "deck": "In the preceding decision in the series, Matter of Cruz Aijiaco, 30 I&N Dec. 218 (Interim Decision #4271), the Board concluded that no amount of bond suffices given multiple motor vehicle violations, no fixed address…",
+      "body": [
+       "In the preceding decision in the series, Matter of Cruz Aijiaco, 30 I&amp;N Dec. 218 (Interim Decision #4271), the Board concluded that no amount of bond suffices given multiple motor vehicle violations, no fixed address and an apparent lack of eligibility for any relief. Read together with G-M-T-, the two decisions sketch today's custody hearings: the Board will accept a denial of release based on history and lack of ties, but requires the judge to show the reasoning behind it. For the defense, the priority is documenting address, family ties and the relief actually available."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/media/1469771/dl?inline\">Matter of Cruz Aijiaco, 30 I&amp;N Dec. 218 (BIA 2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Friday closes comments on ending deference to prior approvals",
+      "deck": "DHS proposes to remove 8 CFR 214.1(c)(5), the rule adopted in the December 2024 H-1B modernization under which an I-129 extension involving the same parties and facts starts from the prior approval, absent material…",
+      "body": [
+       "DHS proposes to remove 8 CFR 214.1(c)(5), the rule adopted in the December 2024 H-1B modernization under which an I-129 extension involving the same parties and facts starts from the prior approval, absent material error, a material change or new information. Without it, every H-1B, L-1, O-1 and similar extension would be reviewed from scratch, with the full burden of proof on the employer — DHS itself estimates about 6,000 additional requests for evidence per year. Comments may be submitted on Regulations.gov (docket USCIS-2026-0529) through November 13, 2026. Employers with extensions due in 2027 should plan their documentation as if deference no longer exists."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: comments closed, now it is DHS's move",
+      "deck": "Yesterday, November 10, the comment window closed on the proposal that would eliminate the up-to-60 days that workers who lose their jobs in H-1B, L-1, O-1, TN, E-1, E-2 or E-3 status have to change employers, change…",
+      "body": [
+       "Yesterday, November 10, the comment window closed on the proposal that would eliminate the up-to-60 days that workers who lose their jobs in H-1B, L-1, O-1, TN, E-1, E-2 or E-3 status have to change employers, change status or depart (8 CFR 214.1(l)(2)). Next comes DHS's review of the comments and, if it proceeds, a final rule in the Federal Register with its own effective date. Until then, the grace period remains fully in force."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "EB-5: 19 days until the new fee schedule",
+      "deck": "USCIS's final rule raises EB-5 fees as of November 30: Form I-526, for example, goes from $3,675 to $7,615 including the technology fee, the initial I-956 fee rises to $44,115, and the I-526E Integrity Fund fee goes…",
+      "body": [
+       "USCIS's final rule raises EB-5 fees as of November 30: Form I-526, for example, goes from $3,675 to $7,615 including the technology fee, the initial I-956 fee rises to $44,115, and the I-526E Integrity Fund fee goes from $1,000 to $1,100. Petitions postmarked by November 29 pay the current schedule; for investors whose documents are ready, filing early means direct savings."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Veterans Day: the citizenship fast track for those who wore the uniform",
+      "deck": "Today the United States honors its veterans — and few remember that immigration law reserves for them one of the most generous paths to citizenship.",
+      "body": [
+       "Today the United States honors its veterans — and few remember that immigration law reserves for them one of the most generous paths to citizenship. Under INA 328, a person who served honorably for at least one year in the Armed Forces may naturalize without meeting the usual residence and physical presence periods, provided he or she is a permanent resident. INA 329 goes further: for service during periods of hostilities designated by presidential order, even the green card is not required in certain cases, and there is no minimum length of service — honorable service for any period may suffice. The naturalization filing fee is waived in these cases, and INA 329A even allows posthumous citizenship for those who died as a result of their service. The lesson for this moment is that, even amid increasingly restrictive rules, Congress has preserved an old principle: those who risk their lives for the country should not wait in line to be called citizens."
+      ],
+      "src": "Official source: <a href=\"https://www.uscis.gov/military/citizenship-for-military-personnel-family-members\">USCIS — Citizenship for Military Personnel &amp; Family Members ↗</a> · INA 328, 329 and 329A (8 U.S.C. 1439, 1440, 1440-1).",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quarta-feira, 11 de novembro de 2026",
+  "date_short": "11/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Não saiu no prazo? O BIA fecha a porta por 10 anos",
+   "deck": "Em Matter of Ontiveros-Diaz (30 I&N Dec. 222), o Board decide que pedir reabertura com provas novas não apaga a violação da partida voluntária.",
+   "body": [
+    "A partida voluntária é um acordo: o estrangeiro evita a ordem formal de remoção e, em troca, se compromete a deixar os EUA dentro do prazo fixado pelo juiz. Quem descumpre paga caro — o INA 240B(d)(1) torna a pessoa inelegível, por 10 anos, a cancelamento de remoção, ajuste de status, mudança de status e outros benefícios. No caso decidido em 5 de novembro de 2026, o requerente não saiu no prazo e depois tentou reabrir o processo para apresentar novas provas sobre o pedido de cancelamento de remoção que já havia sido negado, incluindo documentos sobre as necessidades especiais dos filhos. O Board negou: a lei barra \"any further relief\" depois da violação, e um pedido de reabertura protocolado após o fim do prazo não altera em nada o período concedido para a saída (8 CFR 1240.26(e)(2)). Em caráter alternativo, o Board ainda considerou que as provas novas apenas complementavam o que já estava nos autos e dificilmente mudariam o resultado. A lição prática é de calendário: quem pretende contestar a decisão precisa agir dentro do prazo da partida voluntária — e, se não for sair, entender antes as consequências de ficar."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1470361/dl?inline\">Matter of Ontiveros-Diaz, 30 I&amp;N Dec. 222 (BIA 2026), Interim Decision #4272 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Hoje, 11/11:</strong> Veterans Day — feriado federal; repartições federais fechadas, inclusive a maioria dos escritórios do USCIS e os tribunais de imigração.",
+   "<strong>Sexta-feira, 13/11:</strong> encerram os comentários sobre o fim da deferência (USCIS-2026-0529) e sobre o prazo de 10 dias para refugiados responderem a aviso de término (USCIS-2026-0397).",
+   "<strong>Segunda-feira, 30/11:</strong> novas taxas do EB-5 para petições postadas nessa data ou depois.",
+   "<strong>Partida voluntária:</strong> o prazo concedido pelo juiz corre mesmo com recurso ou pedido de reabertura protocolado depois dele (Ontiveros-Diaz).",
+   "<strong>EAD:</strong> não há mais extensão automática na renovação (FR 2026-20955) — protocole cedo."
+  ],
+  "sections": [
+   {
+    "head": "Cortes de Imigração",
+    "items": [
+     {
+      "tag": "Precedente BIA",
+      "tagtype": "final",
+      "title": "Fiança: o juiz precisa explicar em qual versão dos fatos acreditou",
+      "deck": "Em Matter of G-M-T-, 30 I&N Dec. 228 (Interim Decision #4273), o Board firma que, quando uma das partes oferece uma versão alternativa sobre um fato relevante para a fiança — ou contesta uma alegação por falta de…",
+      "body": [
+       "Em Matter of G-M-T-, 30 I&amp;N Dec. 228 (Interim Decision #4273), o Board firma que, quando uma das partes oferece uma versão alternativa sobre um fato relevante para a fiança — ou contesta uma alegação por falta de comprovação —, o juiz de imigração deve enfrentar essa divergência e explicar, de forma fundamentada no memorando da decisão de fiança, o peso dado a cada versão. Para quem está detido, é uma garantia processual concreta: alegações não comprovadas do governo (ou do próprio detido) não podem simplesmente ser adotadas sem análise, e a falta de explicação abre caminho para o recurso."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1471311/dl?inline\">Matter of G-M-T-, 30 I&amp;N Dec. 228 (BIA 2026) ↗</a> · <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Volume 30 ↗</a>"
+     },
+     {
+      "tag": "Precedente BIA",
+      "tagtype": "final",
+      "title": "Quando nenhuma fiança basta: Matter of Cruz Aijiaco",
+      "deck": "Na decisão imediatamente anterior da série, Matter of Cruz Aijiaco, 30 I&N Dec. 218 (Interim Decision #4271), o Board concluiu que nenhum valor de fiança é suficiente diante de várias infrações de trânsito, ausência de…",
+      "body": [
+       "Na decisão imediatamente anterior da série, Matter of Cruz Aijiaco, 30 I&amp;N Dec. 218 (Interim Decision #4271), o Board concluiu que nenhum valor de fiança é suficiente diante de várias infrações de trânsito, ausência de endereço fixo e aparente falta de elegibilidade a qualquer forma de alívio. Lidas em conjunto com G-M-T-, as duas decisões mostram o desenho atual das audiências de custódia: o Board aceita negar a soltura com base no histórico e na falta de vínculos, mas exige que o juiz fundamente o caminho até essa conclusão. Para a defesa, a prioridade é documentar endereço, vínculos familiares e o pedido de alívio disponível."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/media/1469771/dl?inline\">Matter of Cruz Aijiaco, 30 I&amp;N Dec. 218 (BIA 2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Sexta-feira fecha a consulta sobre o fim da deferência às aprovações anteriores",
+      "deck": "O DHS propõe remover o 8 CFR 214.1(c)(5), a regra criada na modernização do H-1B de dezembro de 2024 segundo a qual a prorrogação de um I-129 com as mesmas partes e os mesmos fatos parte da aprovação anterior, salvo…",
+      "body": [
+       "O DHS propõe remover o 8 CFR 214.1(c)(5), a regra criada na modernização do H-1B de dezembro de 2024 segundo a qual a prorrogação de um I-129 com as mesmas partes e os mesmos fatos parte da aprovação anterior, salvo erro material, mudança relevante ou informação nova. Sem ela, cada prorrogação de H-1B, L-1, O-1 e categorias afins seria examinada do zero, com o ônus integral da prova sobre o empregador — o próprio DHS estima cerca de 6 mil pedidos de prova adicionais por ano. Os comentários podem ser enviados pelo Regulations.gov (processo USCIS-2026-0529) até 13 de novembro de 2026. Para empregadores com prorrogações previstas para 2027, vale planejar a documentação como se a deferência já não existisse."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: consulta encerrada, agora é a vez do DHS",
+      "deck": "Fechou ontem, 10 de novembro, a janela de comentários sobre a proposta que eliminaria os até 60 dias de que dispõe quem perde o emprego em H-1B, L-1, O-1, TN, E-1, E-2 ou E-3 para trocar de empregador, mudar de status…",
+      "body": [
+       "Fechou ontem, 10 de novembro, a janela de comentários sobre a proposta que eliminaria os até 60 dias de que dispõe quem perde o emprego em H-1B, L-1, O-1, TN, E-1, E-2 ou E-3 para trocar de empregador, mudar de status ou sair do país (8 CFR 214.1(l)(2)). O próximo passo é a análise dos comentários e, se o DHS mantiver a ideia, a publicação de uma regra final no Federal Register, com data de vigência própria. Até lá, o período de graça continua plenamente em vigor."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "EB-5: faltam 19 dias para a nova tabela de taxas",
+      "deck": "A regra final do USCIS reajusta as taxas do EB-5 a partir de 30 de novembro: o I-526, por exemplo, passa de US$ 3.675 para US$ 7.615 com a taxa de tecnologia, a taxa inicial do I-956 sobe para US$ 44.115 e a…",
+      "body": [
+       "A regra final do USCIS reajusta as taxas do EB-5 a partir de 30 de novembro: o I-526, por exemplo, passa de US$ 3.675 para US$ 7.615 com a taxa de tecnologia, a taxa inicial do I-956 sobe para US$ 44.115 e a contribuição do Integrity Fund do I-526E vai de US$ 1.000 para US$ 1.100. Petição postada até 29 de novembro paga a tabela atual; para investidores com documentação pronta, antecipar o protocolo representa economia direta."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Veterans Day: o atalho da cidadania para quem vestiu a farda",
+      "deck": "Hoje os Estados Unidos homenageiam seus veteranos — e poucos lembram que a lei de imigração reserva a eles um dos caminhos mais generosos para a cidadania.",
+      "body": [
+       "Hoje os Estados Unidos homenageiam seus veteranos — e poucos lembram que a lei de imigração reserva a eles um dos caminhos mais generosos para a cidadania. Pelo INA 328, quem serviu honrosamente por pelo menos um ano nas Forças Armadas pode se naturalizar sem cumprir os prazos usuais de residência e presença física, desde que seja residente permanente. O INA 329 vai além: para quem serviu em períodos de hostilidades designados por ordem presidencial, nem o green card é exigido em certos casos, e o tempo mínimo de serviço deixa de existir — um único dia de serviço honroso pode bastar. A taxa do pedido de naturalização é dispensada nesses casos, e o INA 329A ainda permite a concessão póstuma da cidadania a quem morreu em decorrência do serviço. A lição para o momento atual é que, mesmo num ambiente de regras cada vez mais restritivas, o Congresso preservou um princípio antigo: quem arrisca a vida pelo país não deve esperar na fila para ser chamado de cidadão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.uscis.gov/military/citizenship-for-military-personnel-family-members\">USCIS — Citizenship for Military Personnel &amp; Family Members ↗</a> · INA 328, 329 e 329A (8 U.S.C. 1439, 1440, 1440-1).",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}

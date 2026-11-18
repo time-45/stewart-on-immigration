@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-09",
+ "issue": 41,
+ "en": {
+  "date_long": "Friday, October 9, 2026",
+  "date_short": "10/09/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "DOL has not confirmed a PERM suspension for major employers",
+   "deck": "An alert has circulated since 10/08, but neither FLAG nor DOL shows an announcement; treat it as unconfirmed.",
+   "body": [
+    "Press reports indicate that the Department of Labor would have stopped accepting and processing permanent labor certification (PERM) applications from large IT employers, with mentions of Microsoft, Adobe, Cognizant, Infosys, Tata and Wipro. In today's check, the FLAG/OFLC announcements page shows only 09/02 (H-2A, outside PERM) and 09/17 (records management) as its newest items, and I found no official DOL statement on the subject.",
+    "Until there is an official act or announcement, scope, duration and legal basis cannot be confirmed. Identify PERM cases for the named employers, record each one's stage (prevailing wage, recruitment, filing, audit) and re-check FLAG daily."
+   ],
+   "src": "Official source (fact not confirmed): <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">DOL/OFLC — Announcements ↗</a>"
+  },
+  "deadlines": [
+   "<strong>10/13:</strong> comments close on mandatory e-filing (2026-16313), E-Verify (2026-18465) and Form EOIR-59 (2026-18622).",
+   "<strong>10/14:</strong> comment period on Form I-751 closes (2026-18736).",
+   "<strong>10/16:</strong> DHS H.R. 1 inflation fee adjustments take effect.",
+   "<strong>10/23:</strong> USCIS guidance on the definition of &ldquo;day&rdquo; for filing deadlines takes effect.",
+   "<strong>11/09:</strong> comments on OPT fees (2026-20660). <strong>11/10:</strong> 60-day period (2026-18631). <strong>11/27:</strong> G-325R (2026-19756). <strong>11/30:</strong> EB-5 final fee rule. <strong>12/07:</strong> I-90 (2026-20422) and OPT PRA collection.",
+   "<em>Watch:</em> an official DOL/FLAG statement on PERM and the November Visa Bulletin. <em>Gap:</em> uscis.gov blocks automated access; no new EOIR/BIA acts identified today."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Effective 10/16",
+      "tagtype": "final",
+      "title": "DHS: FY2027 H.R. 1 fee adjustments take effect in 7 days",
+      "deck": "Includes I-131 US$1,050, initial EAD US$570, I-821 US$520 and enforcement fees US$5,300. Filings on or after 10/16 should use the new amounts.",
+      "body": [
+       "Includes I-131 US$1,050, initial EAD US$570, I-821 US$520 and enforcement fees US$5,300. Filings on or after 10/16 should use the new amounts."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "ICE/DHS: US$70,000 per initial OPT and US$30,000 per subsequent OPT",
+      "deck": "Proposal (8 CFR 214) published 10/08; comments due 11/09 and PRA collection 12/07. It would take effect only 60 days after a final rule.",
+      "body": [
+       "Proposal (8 CFR 214) published 10/08; comments due 11/09 and PRA collection 12/07. It would take effect only 60 days after a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 (91 FR 64566) ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "DHS: elimination of the discretionary 60-day grace period",
+      "deck": "Comments due 11/10/2026.",
+      "body": [
+       "Comments due 11/10/2026."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 ↗</a>"
+     },
+     {
+      "tag": "Comment open",
+      "tagtype": "prop",
+      "title": "Mandatory e-filing: comments close 10/13",
+      "deck": "Last chance to comment on the DHS information collection on e-filing.",
+      "body": [
+       "Last chance to comment on the DHS information collection on e-filing."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-16313\">Federal Register 2026-16313 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new PERM notice",
+      "deck": "The newest notices are 09/02 (H-2A AEWR) and 09/17 (records management). The DOL proposal to revise the prevailing wage methodology (H-1B and PERM) remains pending.",
+      "body": [
+       "The newest notices are 09/02 (H-2A AEWR) and 09/17 (records management). The DOL proposal to revise the prevailing wage methodology (H-1B and PERM) remains pending."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Current · October/FY2027",
+      "tagtype": "final",
+      "title": "November Visa Bulletin not yet published",
+      "deck": "The State Department page keeps October as the current bulletin and lists November as “coming soon”.",
+      "body": [
+       "The State Department page keeps October as the current bulletin and lists November as &ldquo;coming soon&rdquo;."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State — Visa Bulletin ↗</a> · <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html\">Visa Bulletin October 2026 ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 9 de outubro de 2026",
+  "date_short": "09/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Suspensão do PERM para grandes empresas: DOL ainda não confirma",
+   "deck": "Alerta circula desde 08/10, mas o FLAG e o DOL não registram comunicado; trate como relato não confirmado.",
+   "body": [
+    "Relatos de imprensa indicam que o Departamento do Trabalho teria deixado de aceitar e processar pedidos de certificação laboral (PERM) de grandes empregadores de TI, com menções a Microsoft, Adobe, Cognizant, Infosys, Tata e Wipro. Na consulta de hoje, a página de anúncios do FLAG/OFLC mostra como itens mais recentes apenas 02/09 (H-2A, fora do PERM) e 17/09 (gestão de registros), e não localizei nota oficial do DOL sobre o tema.",
+    "Até haver ato ou comunicado oficial, não há como confirmar escopo, duração ou base legal. Recomenda-se identificar os casos PERM de empregadores citados, registrar o estágio de cada um (prevailing wage, recrutamento, protocolo, auditoria) e voltar a conferir o FLAG diariamente."
+   ],
+   "src": "Fonte oficial (sem confirmação do fato): <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">DOL/OFLC — Announcements ↗</a>"
+  },
+  "deadlines": [
+   "<strong>13/10:</strong> encerram os comentários sobre e-filing obrigatório (2026-16313), E-Verify (2026-18465) e Formulário EOIR-59 (2026-18622).",
+   "<strong>14/10:</strong> encerra o comentário sobre o Formulário I-751 (2026-18736).",
+   "<strong>16/10:</strong> vigência dos reajustes de inflação das taxas da H.R. 1 do DHS.",
+   "<strong>23/10:</strong> vigência da orientação do USCIS sobre a definição de &ldquo;dia&rdquo; nos prazos de protocolo.",
+   "<strong>09/11:</strong> comentários sobre as taxas de OPT (2026-20660). <strong>10/11:</strong> período de 60 dias (2026-18631). <strong>27/11:</strong> G-325R (2026-19756). <strong>30/11:</strong> regra final de taxas do EB-5. <strong>07/12:</strong> I-90 (2026-20422) e coleta PRA do OPT.",
+   "<em>Observar:</em> comunicado oficial do DOL/FLAG sobre PERM e a publicação do Visa Bulletin de novembro. <em>Lacuna:</em> uscis.gov bloqueia acesso automatizado; sem atos novos do EOIR/BIA identificados hoje."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Vigência 16/10",
+      "tagtype": "final",
+      "title": "DHS: reajuste FY2027 das taxas da H.R. 1 vale em 7 dias",
+      "deck": "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Petições e pedidos protocolados a partir de 16/10 devem usar os valores novos.",
+      "body": [
+       "Inclui I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Petições e pedidos protocolados a partir de 16/10 devem usar os valores novos."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "ICE/DHS: US$70.000 por OPT inicial e US$30.000 por OPT subsequente",
+      "deck": "Proposta (8 CFR 214) publicada em 08/10; comentários até 09/11 e coleta PRA até 07/12. Só entraria em vigor 60 dias após uma regra final.",
+      "body": [
+       "Proposta (8 CFR 214) publicada em 08/10; comentários até 09/11 e coleta PRA até 07/12. Só entraria em vigor 60 dias após uma regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 (91 FR 64566) ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "DHS: fim do período discricionário de 60 dias",
+      "deck": "Comentários até 10/11/2026.",
+      "body": [
+       "Comentários até 10/11/2026."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 ↗</a>"
+     },
+     {
+      "tag": "Comentário aberto",
+      "tagtype": "prop",
+      "title": "E-filing obrigatório: comentários encerram em 13/10",
+      "deck": "Último prazo para comentar a coleta de informações do DHS sobre e-filing.",
+      "body": [
+       "Último prazo para comentar a coleta de informações do DHS sobre e-filing."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-16313\">Federal Register 2026-16313 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem alteração",
+      "tagtype": "final",
+      "title": "FLAG: nenhum aviso novo sobre PERM",
+      "deck": "Os avisos mais recentes são de 02/09 (H-2A AEWR) e 17/09 (gestão de registros). Segue em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente (H-1B e PERM).",
+      "body": [
+       "Os avisos mais recentes são de 02/09 (H-2A AEWR) e 17/09 (gestão de registros). Segue em tramitação a proposta do DOL de revisar a metodologia de salário prevalecente (H-1B e PERM)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-06017\">Federal Register 2026-06017 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Vigente · outubro/FY2027",
+      "tagtype": "final",
+      "title": "Visa Bulletin de novembro ainda não foi publicado",
+      "deck": "A página do Departamento de Estado mantém outubro como boletim atual e novembro como “em breve”.",
+      "body": [
+       "A página do Departamento de Estado mantém outubro como boletim atual e novembro como &ldquo;em breve&rdquo;."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State — Visa Bulletin ↗</a> · <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html\">Visa Bulletin October 2026 ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

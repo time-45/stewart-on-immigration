@@ -1,0 +1,206 @@
+{
+ "date": "2026-10-16",
+ "issue": 48,
+ "en": {
+  "date_long": "Friday, October 16, 2026",
+  "date_short": "10/16/2026",
+  "lead": {
+   "kicker": "Headline of the day",
+   "headline": "H.R. 1 fee increases take effect today for new filings",
+   "deck": "No new acts in the areas we track since yesterday; PERM and the Visa Bulletin remain unchanged.",
+   "body": [
+    "Today, Oct. 16, DHS&rsquo;s new FY2027 amounts under H.R. 1 take effect: I-131 at $1,050, initial EAD at $570, I-821 at $520 and enforcement fees of $5,300. Filings made from today must use the new amounts; confirm the current fee before every submission.",
+    "In the other tracked areas (DHS/USCIS, DOL/OFLC, EOIR, State Department), today&rsquo;s sweep found no new act beyond those reported in yesterday&rsquo;s edition."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>11/09:</strong> OPT fee comments close. <strong>11/13:</strong> comments close on the I-129 deference proposal and the refugee interim rule.",
+   "<strong>11/30:</strong> EB-5 final fee rule takes effect. <strong>12/07:</strong> comments close on the I-90 and OPT information collections.",
+   "<strong>Visa Bulletin / PERM:</strong> check the November bulletin and FLAG. <em>Official source:</em> <a href=\"https://flag.dol.gov/processingtimes\">FLAG ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "OPT: proposed $70,000 fee per initial recommendation — comments due 11/09",
+      "deck": "ICE/DHS NPRM (91 FR 64566; docket ICEB-2026-0100): SEVP-certified schools would pay $70,000 for the first OPT recommendation and $30,000 for each subsequent one, before the SEVIS entry.",
+      "body": [
+       "ICE/DHS NPRM (91 FR 64566; docket ICEB-2026-0100): SEVP-certified schools would pay $70,000 for the first OPT recommendation and $30,000 for each subsequent one, before the SEVIS entry. Effective 60 days after the final rule. Information-collection comments due 12/07."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-129: end of deference to prior approvals — comments due 11/13",
+      "deck": "Proposal to remove 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529), published Oct. 14.",
+      "body": [
+       "Proposal to remove 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529), published Oct. 14. Nothing changes today; for H-1B/L-1 employers, reinforce documentation for each extension."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final · in effect",
+      "tagtype": "final",
+      "title": "ICE/EOIR: final rule on civil immigration penalties",
+      "deck": "Final rule (91 FR 65390) in effect since Oct. 14: appeal within 15 business days via Form 281, no BIA appeal, with late appeals accepted for documented mail delays.",
+      "body": [
+       "Final rule (91 FR 65390) in effect since Oct. 14: appeal within 15 business days via Form 281, no BIA appeal, with late appeals accepted for documented mail delays."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-21024\">Federal Register 2026-21024 ↗</a>"
+     },
+     {
+      "tag": "Interim · in effect",
+      "tagtype": "final",
+      "title": "USCIS: response period for refugee-termination notice cut from 30 to 10 days",
+      "deck": "Interim final rule (91 FR 65077; 8 CFR Part 207) in effect since Oct. 14.",
+      "body": [
+       "Interim final rule (91 FR 65077; 8 CFR Part 207) in effect since Oct. 14. Comments due 11/13."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Official data",
+      "tagtype": "final",
+      "title": "FLAG: Analyst Review at December 2025; no suspension notice",
+      "deck": "Data as of Oct. 5: Analyst and Audit Review priority date December 2025 (average 336 days).",
+      "body": [
+       "Data as of Oct. 5: Analyst and Audit Review priority date December 2025 (average 336 days). Prevailing wage (Sept. 30): PERM at June 2026. The latest FLAG announcement remains Sept. 2 (H-2A AEWR)."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin not yet published",
+      "deck": "The State Department page shows “Coming Soon”; the October 2026 bulletin remains in effect.",
+      "body": [
+       "The State Department page shows &ldquo;Coming Soon&rdquo;; the October 2026 bulletin remains in effect."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 16 de outubro de 2026",
+  "date_short": "16/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Taxas da H.R. 1 valem a partir de hoje para novos protocolos",
+   "deck": "Sem atos novos nas áreas acompanhadas desde ontem; PERM e Visa Bulletin seguem sem mudança oficial.",
+   "body": [
+    "Hoje, 16/10, entram em vigor os novos valores do DHS para o FY2027 decorrentes da H.R. 1: I-131 a US$1.050, EAD inicial a US$570, I-821 a US$520 e taxas de execução de US$5.300. Protocolos feitos a partir de hoje devem usar os valores novos; confira o valor vigente antes de cada envio.",
+    "Nas demais áreas acompanhadas (DHS/USCIS, DOL/OFLC, EOIR, Departamento de Estado), a varredura de hoje não encontrou ato novo além dos já noticiados na edição de ontem."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>13/11:</strong> encerram os comentários sobre o fim da deferência (I-129) e a regra interina de refugiados.",
+   "<strong>30/11:</strong> vigência da regra final de taxas do EB-5. <strong>07/12:</strong> encerram os comentários sobre I-90 e a coleta de informação do OPT.",
+   "<strong>Visa Bulletin / PERM:</strong> conferir o boletim de novembro e o FLAG. <em>Fonte oficial:</em> <a href=\"https://flag.dol.gov/processingtimes\">FLAG ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "OPT: proposta de taxa de US$70.000 por indicação inicial — comentários até 09/11",
+      "deck": "NPRM do ICE/DHS (91 FR 64566; docket ICEB-2026-0100): escolas certificadas pelo SEVP pagariam US$70.000 pela primeira indicação de OPT e US$30.000 por indicação subsequente, antes do lançamento no SEVIS.",
+      "body": [
+       "NPRM do ICE/DHS (91 FR 64566; docket ICEB-2026-0100): escolas certificadas pelo SEVP pagariam US$70.000 pela primeira indicação de OPT e US$30.000 por indicação subsequente, antes do lançamento no SEVIS. Vigência 60 dias após a regra final. Comentários sobre a coleta de informação até 07/12."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-129: fim da deferência a aprovações anteriores — comentários até 13/11",
+      "deck": "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529), publicada em 14/10. Por ser proposta, nada muda hoje; para H-1B/L-1, reforçar a documentação de cada extensão.",
+      "body": [
+       "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529), publicada em 14/10. Por ser proposta, nada muda hoje; para H-1B/L-1, reforçar a documentação de cada extensão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Final · vigente",
+      "tagtype": "final",
+      "title": "ICE/EOIR: regra final das multas civis por violações migratórias",
+      "deck": "Regra final (91 FR 65390) em vigor desde 14/10: recurso em 15 dias úteis pelo Form 281, sem apelo ao BIA, com aceitação de recurso tardio em caso de atraso documentado de correio.",
+      "body": [
+       "Regra final (91 FR 65390) em vigor desde 14/10: recurso em 15 dias úteis pelo Form 281, sem apelo ao BIA, com aceitação de recurso tardio em caso de atraso documentado de correio."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-21024\">Federal Register 2026-21024 ↗</a>"
+     },
+     {
+      "tag": "Interina · vigente",
+      "tagtype": "final",
+      "title": "USCIS: prazo de resposta ao aviso de término de refúgio cai de 30 para 10 dias",
+      "deck": "Regra interina (91 FR 65077; 8 CFR Part 207) em vigor desde 14/10. Comentários até 13/11.",
+      "body": [
+       "Regra interina (91 FR 65077; 8 CFR Part 207) em vigor desde 14/10. Comentários até 13/11."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20956\">Federal Register 2026-20956 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Dado oficial",
+      "tagtype": "final",
+      "title": "FLAG: Analyst Review em dezembro/2025; sem aviso de suspensão",
+      "deck": "Dados de 05/10: Analyst Review e Audit Review com data de prioridade dezembro/2025 (média de 336 dias). Prevailing wage (30/09): PERM em junho/2026.",
+      "body": [
+       "Dados de 05/10: Analyst Review e Audit Review com data de prioridade dezembro/2025 (média de 336 dias). Prevailing wage (30/09): PERM em junho/2026. O anúncio mais recente do FLAG segue sendo de 02/09 (AEWR do H-2A)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro ainda não publicado",
+      "deck": "A página do Departamento de Estado mostra “Coming Soon”; segue valendo o boletim de outubro de 2026.",
+      "body": [
+       "A página do Departamento de Estado mostra &ldquo;Coming Soon&rdquo;; segue valendo o boletim de outubro de 2026."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

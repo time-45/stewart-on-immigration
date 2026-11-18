@@ -1,0 +1,226 @@
+{
+ "date": "2026-10-19",
+ "issue": 51,
+ "en": {
+  "date_long": "Monday, October 19, 2026",
+  "date_short": "10/19/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "End of automatic EAD renewal extensions confirmed in final rule",
+   "deck": "DHS/USCIS adopts the 2025 interim rule without changes, effective Oct. 14. The BIA also ruled on continuances for U visa petitioners.",
+   "body": [
+    "DHS's final rule (91 FR 65306; docket USCIS-2025-0271) took effect on October 14, 2026 and keeps, without changes, the end of the automatic extension of up to 540 days for EAD renewal applications filed on or after October 30, 2025 in certain categories. Extensions provided by law or by Federal Register notice (for example, TPS-related documents) remain in place. In practice: file the renewal as early as the allowed window permits and track each client's EAD expiration without counting on an automatic extension.",
+    "Today's scan found no new DHS, DOL/OFLC or State Department action beyond what we reported on Friday."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Nov. 9:</strong> comments close on the OPT fee. <strong>Nov. 13:</strong> comments close on ending deference (I-129) and the refugee interim rule.",
+   "<strong>Dec. 7:</strong> comments close on the OPT information collection.",
+   "<strong>This week:</strong> November Visa Bulletin and possible FLAG notices. <em>Official source:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final · in effect",
+      "tagtype": "final",
+      "title": "EAD: final rule ends the 540-day automatic extension in specific categories",
+      "deck": "DHS adopted the October 30, 2025 interim rule without changes (8 CFR 274a.13(d)). It affects, for example, people whose EAD is issued by USCIS, such as adjustment of status and asylum applicants, and L-2 spouses whose…",
+      "body": [
+       "DHS adopted the October 30, 2025 interim rule without changes (8 CFR 274a.13(d)). It affects, for example, people whose EAD is issued by USCIS, such as adjustment of status and asylum applicants, and L-2 spouses whose work authorization follows their status. There is no further comment period."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     },
+     {
+      "tag": "Precedent · BIA",
+      "tagtype": "final",
+      "title": "Matter of L. Ramirez, 30 I&N Dec. 157 (BIA 2026): no presumption of continuance for U visa petitioners",
+      "deck": "Decided October 16, 2026 (Interim Decision #4260). The Board overruled Matter of Sanchez Sosa: respondents with a prima facie approvable U visa petition get no presumption in favor of a continuance; the judge must weigh…",
+      "body": [
+       "Decided October 16, 2026 (Interim Decision #4260). The Board overruled Matter of Sanchez Sosa: respondents with a <em>prima facie</em> approvable U visa petition get no presumption in favor of a continuance; the judge must weigh the L-A-B-R- good-cause factors, and there is no good cause when visa availability is remote. It reaffirmed Matter of Quintero."
+      ],
+      "src": "Official source: <a href=\"https://justice.gov/eoir/media/1466591/dl?inline=\">EOIR — Interim Decision #4260 ↗</a>"
+     },
+     {
+      "tag": "Precedent · BIA",
+      "tagtype": "final",
+      "title": "Matter of B-S-A-N-, 30 I&N Dec. 145 (BIA 2026): asylum for nationals of highly developed democracies",
+      "deck": "Decided October 9, 2026 (Interim Decision #4259). Immigration judges should generally deny asylum, withholding and CAT claims from nationals of highly developed democracies that broadly respect human rights; EU citizens…",
+      "body": [
+       "Decided October 9, 2026 (Interim Decision #4259). Immigration judges should generally deny asylum, withholding and CAT claims from nationals of highly developed democracies that broadly respect human rights; EU citizens are presumptively ineligible for discretionary asylum, absent national security or foreign policy grounds."
+      ],
+      "src": "Official source: <a href=\"https://justice.gov/eoir/media/1465281/dl?inline=\">EOIR — Interim Decision #4259 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-129: proposal to end deference to prior approvals remains open",
+      "deck": "Proposal to remove 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comments due Nov.",
+      "body": [
+       "Proposal to remove 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comments due Nov. 13. Nothing changes today; for H-1B/L-1, strengthen the documentation of every extension."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "OPT: proposed US$70,000 fee per initial designation",
+      "deck": "ICE/DHS NPRM (docket ICEB-2026-0100) still in its comment period (Nov. 9 on the rule; Dec.",
+      "body": [
+       "ICE/DHS NPRM (docket ICEB-2026-0100) still in its comment period (Nov. 9 on the rule; Dec. 7 on the information collection). Not in effect until a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new notice; latest announcement is from Sept. 2",
+      "deck": "The FLAG announcements page still shows the September 2, 2026 notice (H-2A AEWR) as the most recent; nothing new on PERM or prevailing wage.",
+      "body": [
+       "The FLAG announcements page still shows the September 2, 2026 notice (H-2A AEWR) as the most recent; nothing new on PERM or prevailing wage. Check processing times before projecting timelines for clients."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin still “Coming Soon”",
+      "deck": "The State Department page still lists October 2026 as the current bulletin.",
+      "body": [
+       "The State Department page still lists October 2026 as the current bulletin."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Segunda-feira, 19 de outubro de 2026",
+  "date_short": "19/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Fim da renovação automática do EAD é confirmado em regra final",
+   "deck": "DHS/USCIS adota sem mudanças a regra interina de 2025; vale desde 14/10. BIA também decidiu sobre continuação para visto U.",
+   "body": [
+    "A regra final do DHS (91 FR 65306; docket USCIS-2025-0271) entrou em vigor em 14/10/2026 e mantém, sem alterações, o fim da extensão automática de até 540 dias para pedidos de renovação de EAD protocolados a partir de 30/10/2025 em certas categorias. Continuam valendo as extensões previstas em lei ou em aviso do Federal Register (por exemplo, documentos de TPS). Na prática: protocole a renovação o mais cedo possível dentro da janela permitida e monitore a validade do EAD de cada cliente, sem contar com a prorrogação automática.",
+    "Não encontramos, na varredura de hoje, ato novo do DHS, do DOL/OFLC ou do Departamento de Estado além do que já noticiamos na sexta-feira."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>13/11:</strong> encerram os comentários sobre o fim da deferência (I-129) e a regra interina de refugiados.",
+   "<strong>07/12:</strong> encerram os comentários sobre a coleta de informação do OPT.",
+   "<strong>Esta semana:</strong> publicação do Visa Bulletin de novembro e possíveis avisos do FLAG. <em>Fonte oficial:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Final · vigente",
+      "tagtype": "final",
+      "title": "EAD: regra final encerra a extensão automática de 540 dias em categorias específicas",
+      "deck": "O DHS adotou a regra interina de 30/10/2025 sem mudanças (8 CFR 274a.13(d)). Afeta, por exemplo, beneficiários cujo EAD é emitido pelo USCIS, como requerentes de ajuste de status e de asilo, e cônjuges L-2 cuja…",
+      "body": [
+       "O DHS adotou a regra interina de 30/10/2025 sem mudanças (8 CFR 274a.13(d)). Afeta, por exemplo, beneficiários cujo EAD é emitido pelo USCIS, como requerentes de ajuste de status e de asilo, e cônjuges L-2 cuja autorização decorre do status. Não há mais período de comentários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20955\">Federal Register 2026-20955 ↗</a>"
+     },
+     {
+      "tag": "Precedente · BIA",
+      "tagtype": "final",
+      "title": "Matter of L. Ramirez, 30 I&N Dec. 157 (BIA 2026): sem presunção de continuação para visto U",
+      "deck": "Decidido em 16/10/2026 (Interim Decision #4260). O Board revogou Matter of Sanchez Sosa: quem tem petição de visto U prima facie aprovável não goza de presunção de continuação; o juiz deve aplicar os fatores de boa…",
+      "body": [
+       "Decidido em 16/10/2026 (Interim Decision #4260). O Board revogou Matter of Sanchez Sosa: quem tem petição de visto U <em>prima facie</em> aprovável não goza de presunção de continuação; o juiz deve aplicar os fatores de boa causa de L-A-B-R-, e não há boa causa quando a disponibilidade do visto é remota. Reafirmou Matter of Quintero."
+      ],
+      "src": "Fonte oficial: <a href=\"https://justice.gov/eoir/media/1466591/dl?inline=\">EOIR — Interim Decision #4260 ↗</a>"
+     },
+     {
+      "tag": "Precedente · BIA",
+      "tagtype": "final",
+      "title": "Matter of B-S-A-N-, 30 I&N Dec. 145 (BIA 2026): asilo de nacionais de democracias desenvolvidas",
+      "deck": "Decidido em 09/10/2026 (Interim Decision #4259). Em regra, juízes devem negar asilo, withholding e CAT a nacionais de democracias altamente desenvolvidas que respeitam amplamente os direitos humanos; cidadãos da União…",
+      "body": [
+       "Decidido em 09/10/2026 (Interim Decision #4259). Em regra, juízes devem negar asilo, withholding e CAT a nacionais de democracias altamente desenvolvidas que respeitam amplamente os direitos humanos; cidadãos da União Europeia são presumivelmente inelegíveis ao asilo discricionário, salvo razões de segurança nacional ou política externa."
+      ],
+      "src": "Fonte oficial: <a href=\"https://justice.gov/eoir/media/1465281/dl?inline=\">EOIR — Interim Decision #4259 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-129: proposta de acabar com a deferência a aprovações anteriores segue aberta",
+      "deck": "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comentários até 13/11.",
+      "body": [
+       "Proposta de revogar o 8 CFR 214.1(c)(5) (91 FR 65119; docket USCIS-2026-0529). Comentários até 13/11. Nada muda hoje; para H-1B/L-1, reforce a documentação de cada extensão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "OPT: taxa proposta de US$70.000 por indicação inicial",
+      "deck": "NPRM do ICE/DHS (docket ICEB-2026-0100) ainda em período de comentários (até 09/11 sobre a regra; 07/12 sobre a coleta de informação).",
+      "body": [
+       "NPRM do ICE/DHS (docket ICEB-2026-0100) ainda em período de comentários (até 09/11 sobre a regra; 07/12 sobre a coleta de informação). Sem vigência até regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem mudança",
+      "tagtype": "final",
+      "title": "FLAG: nenhum aviso novo; último anúncio é de 02/09",
+      "deck": "A página de anúncios do FLAG segue com o comunicado de 02/09/2026 (AEWR do H-2A) como o mais recente; nada novo sobre PERM ou prevailing wage.",
+      "body": [
+       "A página de anúncios do FLAG segue com o comunicado de 02/09/2026 (AEWR do H-2A) como o mais recente; nada novo sobre PERM ou prevailing wage. Confira os tempos de processamento antes de projetar prazos para clientes."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro continua “Coming Soon”",
+      "deck": "A página do Departamento de Estado ainda lista outubro de 2026 como o boletim vigente.",
+      "body": [
+       "A página do Departamento de Estado ainda lista outubro de 2026 como o boletim vigente."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

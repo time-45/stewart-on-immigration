@@ -1,0 +1,200 @@
+{
+ "date": "2026-10-12",
+ "issue": 44,
+ "en": {
+  "date_long": "Monday, October 12, 2026",
+  "date_short": "12/10/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "Federal holiday: a week of immigration deadlines opens with no new acts",
+   "deck": "Comment periods close 10/13 and 10/14; FLAG records no PERM suspension and the November Visa Bulletin is still “Coming Soon”.",
+   "body": [
+    "Today is a federal holiday (Columbus Day) and a check of the official channels found no new immigration act. The latest USCIS entry in the Federal Register index is the renewal of the Form I-90 information collection (doc. 2026-20422, Oct. 6), and EOIR lists the proposed OPT fees, published Oct. 8, as its most recent item.",
+    "On PERM, the FLAG announcements page carries no suspension notice: the latest item is from Sept. 2 (H-2A AEWR methodology, unrelated to PERM) and the only PERM notice is the Oct. 31, 2025 one announcing resumed processing. The press-reported suspension remains unconfirmed by any official source."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/index/2026/u-s-citizenship-and-immigration-services\">Federal Register — USCIS 2026 index ↗</a> · <a href=\"https://www.justice.gov/eoir/federal-register-notices-2026\">EOIR — Federal Register Notices 2026 ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+  },
+  "deadlines": [
+   "<strong>13/10:</strong> comment periods close on mandatory e-filing (doc. 2026-16313), E-Verify (2026-18465) and EOIR-59 (2026-18622).",
+   "<strong>14/10:</strong> comment period closes on Form I-751 (2026-18736).",
+   "<strong>16/10:</strong> DHS H.R. 1 fee adjustments take effect.",
+   "<strong>09/11:</strong> OPT fee comments close. <strong>30/11:</strong> EB-5 final fee rule takes effect. <strong>07/12:</strong> I-90 comments close.",
+   "<strong>Visa Bulletin e PERM:</strong> check for the November bulletin and FLAG daily. <em>Official source:</em> <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Effective 10/16",
+      "tagtype": "final",
+      "title": "DHS: FY2027 H.R. 1 fees apply to filings from 10/16",
+      "deck": "I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300. Check the fee before any filing this week.",
+      "body": [
+       "I-131 $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300. Check the fee before any filing this week."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "DHS: OPT would carry a $70,000 (initial) and $30,000 (subsequent) fee",
+      "deck": "Proposal published Oct. 8 (91 FR 64566); comments due Nov.",
+      "body": [
+       "Proposal published Oct. 8 (91 FR 64566); comments due Nov. 9. It would take effect only after a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Final",
+      "tagtype": "final",
+      "title": "EB-5: USCIS final fee rule takes effect Nov. 30",
+      "deck": "The rule, published Sept. 30, adjusts EB-5 fees and implements the EB-5 Reform and Integrity Act of 2022.",
+      "body": [
+       "The rule, published Sept. 30, adjusts EB-5 fees and implements the EB-5 Reform and Integrity Act of 2022."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/federal-register-notices-2026\">EOIR — Federal Register Notices 2026 (lists the rule) ↗</a>"
+     },
+     {
+      "tag": "Open for comment",
+      "tagtype": "prop",
+      "title": "I-90: information collection renewal",
+      "deck": "Oct. 6 notice on the green card replacement application; comments due Dec.",
+      "body": [
+       "Oct. 6 notice on the green card replacement application; comments due Dec. 7."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Official data",
+      "tagtype": "final",
+      "title": "FLAG: Analyst Review still at December 2025, 336-day average",
+      "deck": "Data as of 10/05/2026: the priority-date month under Analyst Review is December 2025 and the average completion time (August 2026) is 336 calendar days.",
+      "body": [
+       "Data as of 10/05/2026: the priority-date month under Analyst Review is December 2025 and the average completion time (August 2026) is 336 calendar days. No suspension notice appears in FLAG announcements."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin not yet published",
+      "deck": "The State Department page shows “Coming Soon” for the next bulletin; the October 2026 bulletin remains in effect.",
+      "body": [
+       "The State Department page shows &ldquo;Coming Soon&rdquo; for the next bulletin; the October 2026 bulletin remains in effect."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Segunda-feira, 12 de outubro de 2026",
+  "date_short": "12/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Feriado federal: semana de prazos de imigração começa sem atos novos",
+   "deck": "Comentários vencem em 13/10 e 14/10; o FLAG não registra suspensão de PERM e o Visa Bulletin de novembro segue “Coming Soon”.",
+   "body": [
+    "Hoje é feriado federal (Columbus Day) e a consulta aos canais oficiais não encontrou ato novo de imigração. O índice do USCIS no Federal Register tem como item mais recente a renovação da coleta do formulário I-90 (doc. 2026-20422, de 06/10), e o EOIR lista como mais recente a proposta de taxas de OPT, publicada em 08/10.",
+    "No PERM, a página de anúncios do FLAG não traz aviso de suspensão: o último item é de 02/09 (metodologia do AEWR do H-2A, fora do PERM) e o único aviso sobre PERM é o de 31/10/2025, que informa a retomada do processamento. O fato noticiado pela imprensa segue sem confirmação oficial."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/index/2026/u-s-citizenship-and-immigration-services\">Federal Register — índice USCIS 2026 ↗</a> · <a href=\"https://www.justice.gov/eoir/federal-register-notices-2026\">EOIR — Federal Register Notices 2026 ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+  },
+  "deadlines": [
+   "<strong>13/10:</strong> encerram os comentários sobre e-filing obrigatório (doc. 2026-16313), E-Verify (2026-18465) e EOIR-59 (2026-18622).",
+   "<strong>14/10:</strong> encerra o comentário sobre o Formulário I-751 (2026-18736).",
+   "<strong>16/10:</strong> vigência dos reajustes das taxas da H.R. 1 do DHS.",
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>30/11:</strong> vigência da regra final de taxas do EB-5. <strong>07/12:</strong> encerra o comentário sobre o I-90.",
+   "<strong>Visa Bulletin e PERM:</strong> conferir o boletim de novembro e o FLAG diariamente. <em>Fonte oficial:</em> <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Vigência 16/10",
+      "tagtype": "final",
+      "title": "DHS: taxas da H.R. 1 do FY2027 valem para protocolos a partir de 16/10",
+      "deck": "I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Conferir o valor da taxa antes de qualquer protocolo desta semana.",
+      "body": [
+       "I-131 US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Conferir o valor da taxa antes de qualquer protocolo desta semana."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "DHS: OPT teria taxa de US$70.000 (inicial) e US$30.000 (subsequente)",
+      "deck": "Proposta publicada em 08/10 (91 FR 64566); comentários até 09/11. Só entraria em vigor após eventual regra final.",
+      "body": [
+       "Proposta publicada em 08/10 (91 FR 64566); comentários até 09/11. Só entraria em vigor após eventual regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a>"
+     },
+     {
+      "tag": "Final",
+      "tagtype": "final",
+      "title": "EB-5: regra final de taxas do USCIS vale a partir de 30/11",
+      "deck": "A regra, publicada em 30/09, ajusta as taxas do EB-5 e implementa o EB-5 Reform and Integrity Act de 2022.",
+      "body": [
+       "A regra, publicada em 30/09, ajusta as taxas do EB-5 e implementa o EB-5 Reform and Integrity Act de 2022."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/federal-register-notices-2026\">EOIR — Federal Register Notices 2026 (lista a regra) ↗</a>"
+     },
+     {
+      "tag": "Comentário aberto",
+      "tagtype": "prop",
+      "title": "I-90: renovação da coleta de informações",
+      "deck": "Aviso de 06/10 sobre o pedido de substituição do green card; comentários até 07/12.",
+      "body": [
+       "Aviso de 06/10 sobre o pedido de substituição do green card; comentários até 07/12."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20422\">Federal Register 2026-20422 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Dado oficial",
+      "tagtype": "final",
+      "title": "FLAG: Analyst Review segue em dezembro/2025, média de 336 dias",
+      "deck": "Dados de 05/10/2026: o mês de prioridade em análise é dezembro/2025 e a média de conclusão (agosto/2026) é de 336 dias corridos. Nenhum aviso de suspensão consta nos anúncios do FLAG.",
+      "body": [
+       "Dados de 05/10/2026: o mês de prioridade em análise é dezembro/2025 e a média de conclusão (agosto/2026) é de 336 dias corridos. Nenhum aviso de suspensão consta nos anúncios do FLAG."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro ainda não publicado",
+      "deck": "A página do Departamento de Estado mostra “Coming Soon” para o próximo boletim; segue valendo o de outubro de 2026.",
+      "body": [
+       "A página do Departamento de Estado mostra &ldquo;Coming Soon&rdquo; para o próximo boletim; segue valendo o de outubro de 2026."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

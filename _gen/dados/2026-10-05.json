@@ -1,0 +1,184 @@
+{
+ "date": "2026-10-05",
+ "issue": 37,
+ "en": {
+  "date_long": "Monday, October 5, 2026",
+  "date_short": "10/05/2026",
+  "lead": {
+   "kicker": "Lead story",
+   "headline": "Comments on mandatory e-filing (10/13) and ending the 60-day period (11/10) need attention",
+   "deck": "No new USCIS action in the Federal Register since Oct. 1; open comment deadlines are what matter this week.",
+   "body": [
+    "USCIS may require electronic filing of certain requests under an interim final rule (effective 08/11; comments due 10/13): a form must have been available online for at least 180 days, and USCIS will give 60 days&rsquo; notice on its website before e-filing becomes mandatory. A hardship waiver process exists, with a new form and fee.",
+    "Separately, DHS proposed eliminating the discretionary 60-day period after employment ends (8 CFR 214.1(l)(2)) for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN workers and dependents. It is a proposed rule (NPRM), not yet in effect; comments are due 11/10. H-1B/L-1 holders should monitor it, but nothing changes today."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing\">Federal Register 2026-16313 ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register 2026-18631 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>10/05 (today):</strong> comment period closes on the interim final rule on permanent-residence registration of U.S.-born children of foreign government employees (doc. 2026-18345).",
+   "<strong>10/13:</strong> comments close on mandatory e-filing (doc. 2026-16313), E-Verify data collection (doc. 2026-18465) and Form EOIR-59 (doc. 2026-18622).",
+   "<strong>10/14:</strong> comment period closes on the Form I-751 revision (doc. 2026-18736).",
+   "<strong>10/16:</strong> DHS H.R. 1 inflation fee adjustments take effect.",
+   "<strong>10/23:</strong> USCIS guidance on the definition of &ldquo;day&rdquo; for filing deadlines takes effect (1 USCIS-PM B.6).",
+   "<strong>11/10:</strong> comments close on ending the 60-day period (doc. 2026-18631). <strong>11/27:</strong> Form G-325R comments. <strong>11/30:</strong> EB-5 final fee rule takes effect.",
+   "<em>Gap:</em> uscis.gov blocks automated access and EOIR/BIA could not be checked today; confirm any new precedents on the official sites."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final rule · effective 09/09",
+      "tagtype": "final",
+      "title": "CBP/DHS: 9-11 biometric entry-exit fee now reaches all H-1B and L-1 extensions",
+      "deck": "$4,000 (H-1B) and $4,500 (L-1) for covered employers (50+ U.S. employees, more than half in H-1B/L-1).",
+      "body": [
+       "$4,000 (H-1B) and $4,500 (L-1) for covered employers (50+ U.S. employees, more than half in H-1B/L-1). Previously the fee applied only alongside the fraud prevention fee (initial grants and employer changes)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-16231\">Federal Register 2026-16231 ↗</a>"
+     },
+     {
+      "tag": "Effective 10/16",
+      "tagtype": "final",
+      "title": "DHS: FY2027 inflation-adjusted H.R. 1 fees take effect 10/16",
+      "deck": "I-131 (parole) $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300. Filings on or after 10/16 must use the new amounts.",
+      "body": [
+       "I-131 (parole) $1,050, initial EAD $570, I-821 $520 and enforcement fees $5,300. Filings on or after 10/16 must use the new amounts."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Final rule · effective 11/30",
+      "tagtype": "final",
+      "title": "EB-5: new USCIS fees from 11/30",
+      "deck": "I-526 $4,250, I-829 $2,235 and I-956 $10,705 (91 FR 61940).",
+      "body": [
+       "I-526 $4,250, I-829 $2,235 and I-956 $10,705 (91 FR 61940)."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register &mdash; doc. 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "In effect · October/FY2027",
+      "tagtype": "final",
+      "title": "October Visa Bulletin remains the reference; DOS and USCIS are revising visa-availability procedures for adjustment of status",
+      "deck": "Final action dates: EB-2 worldwide 01JAN25 and EB-3 worldwide 15MAY24. The Department of State page says USCIS, in coordination with DOS, is revising the procedures for determining visa availability for applicants…",
+      "body": [
+       "Final action dates: EB-2 worldwide 01JAN25 and EB-3 worldwide 15MAY24. The Department of State page says USCIS, in coordination with DOS, is revising the procedures for determining visa availability for applicants waiting to file employment- or family-based adjustment of status, to align with consular processing. The November bulletin has not been published yet."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: PERM processing times not updated",
+      "deck": "The OFLC/FLAG processing-times page still shows its 09/22 update (Analyst Review at December 2025). The latest general announcement on FLAG Announcements is dated 09/02/2026 (H-2A, outside PERM).",
+      "body": [
+       "The OFLC/FLAG processing-times page still shows its 09/22 update (Analyst Review at December 2025). The latest general announcement on FLAG Announcements is dated 09/02/2026 (H-2A, outside PERM). Nothing new today."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">FLAG &mdash; Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Segunda-feira, 5 de outubro de 2026",
+  "date_short": "05/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Comentários sobre e-filing obrigatório (13/10) e fim do prazo de 60 dias (10/11) pedem atenção",
+   "deck": "Nenhum ato novo do USCIS no Federal Register desde 1º/10; os prazos de comentário em aberto são o que importa nesta semana.",
+   "body": [
+    "O USCIS pode exigir o protocolo eletrônico de determinados pedidos por regra interina final (vigente desde 11/08; comentários até 13/10): o formulário precisa estar disponível on-line há pelo menos 180 dias e o USCIS dará 60 dias de aviso no site antes de tornar o e-filing obrigatório. Há processo de dispensa por dificuldade excessiva, com novo formulário e taxa.",
+    "Separadamente, o DHS propôs eliminar o período discricionário de 60 dias após o fim do emprego (8 CFR 214.1(l)(2)) para E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 e TN e dependentes. É proposta (NPRM), ainda sem vigência; comentários até 10/11. Quem tem H-1B/L-1 deve acompanhar, mas nada muda hoje."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing\">Federal Register 2026-16313 ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period\">Federal Register 2026-18631 ↗</a>"
+  },
+  "deadlines": [
+   "<strong>05/10 (hoje):</strong> encerra o comentário sobre a regra interina final do registro de residência permanente de filhos de empregados de governos estrangeiros nascidos nos EUA (doc. 2026-18345).",
+   "<strong>13/10:</strong> encerram os comentários sobre o e-filing obrigatório (doc. 2026-16313), a coleta de dados do E-Verify (doc. 2026-18465) e o Formulário EOIR-59 (doc. 2026-18622).",
+   "<strong>14/10:</strong> encerra o comentário sobre a revisão do Formulário I-751 (doc. 2026-18736).",
+   "<strong>16/10:</strong> vigência dos reajustes de inflação das taxas da H.R. 1 do DHS.",
+   "<strong>23/10:</strong> vigência da orientação do USCIS sobre a definição de &ldquo;dia&rdquo; nos prazos de protocolo (1 USCIS-PM B.6).",
+   "<strong>10/11:</strong> encerra o comentário sobre o fim do período de 60 dias (doc. 2026-18631). <strong>27/11:</strong> comentário sobre o Formulário G-325R (doc. 2026-19756). <strong>30/11:</strong> vigência da regra final de taxas do EB-5.",
+   "<em>Lacuna:</em> uscis.gov bloqueia acesso automatizado e não foi possível consultar o EOIR/BIA hoje; confirme precedentes novos nos sites oficiais."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra final · vigente desde 09/09",
+      "tagtype": "final",
+      "title": "CBP/DHS: taxa 9-11 (biométrica entrada-saída) agora alcança todas as prorrogações de H-1B e L-1",
+      "deck": "US$4.000 (H-1B) e US$4.500 (L-1) para empregadores cobertos (50+ empregados nos EUA, mais da metade em H-1B/L-1). Antes, a taxa só incidia junto com a taxa de prevenção de fraude (pedidos iniciais e troca de empregador).",
+      "body": [
+       "US$4.000 (H-1B) e US$4.500 (L-1) para empregadores cobertos (50+ empregados nos EUA, mais da metade em H-1B/L-1). Antes, a taxa só incidia junto com a taxa de prevenção de fraude (pedidos iniciais e troca de empregador)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-16231\">Federal Register 2026-16231 ↗</a>"
+     },
+     {
+      "tag": "Vigência 16/10",
+      "tagtype": "final",
+      "title": "DHS: taxas da H.R. 1 reajustadas para o FY2027 entram em vigor em 16/10",
+      "deck": "I-131 (parole) US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Protocolos a partir de 16/10 devem usar os novos valores.",
+      "body": [
+       "I-131 (parole) US$1.050, EAD inicial US$570, I-821 US$520 e taxas de execução US$5.300. Protocolos a partir de 16/10 devem usar os novos valores."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20187\">Federal Register 2026-20187 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20186\">2026-20186 ↗</a> · <a href=\"https://www.federalregister.gov/d/2026-20185\">2026-20185 ↗</a>"
+     },
+     {
+      "tag": "Regra final · vigência 30/11",
+      "tagtype": "final",
+      "title": "EB-5: novas taxas do USCIS a partir de 30/11",
+      "deck": "I-526 US$4.250, I-829 US$2.235 e I-956 US$10.705 (91 FR 61940).",
+      "body": [
+       "I-526 US$4.250, I-829 US$2.235 e I-956 US$10.705 (91 FR 61940)."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register &mdash; doc. 2026-20016 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Vigente · outubro/FY2027",
+      "tagtype": "final",
+      "title": "Visa Bulletin de outubro segue como referência; DOS e USCIS revisam o procedimento de disponibilidade de visto para ajuste de status",
+      "deck": "Datas de ação final: EB-2 mundial 01/01/2025 e EB-3 mundial 15/05/2024. A página do Departamento de Estado informa que o USCIS, em coordenação com o DOS, está revisando os procedimentos para determinar a disponibilidade…",
+      "body": [
+       "Datas de ação final: EB-2 mundial 01/01/2025 e EB-3 mundial 15/05/2024. A página do Departamento de Estado informa que o USCIS, em coordenação com o DOS, está revisando os procedimentos para determinar a disponibilidade de visto para quem aguarda para protocolar ajuste de status baseado em emprego ou família, para alinhá-los aos do processamento consular. O boletim de novembro ainda não foi publicado."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">Department of State &mdash; Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem alteração",
+      "tagtype": "final",
+      "title": "FLAG: tempos de processamento do PERM sem atualização nova",
+      "deck": "A página de tempos de processamento do OFLC/FLAG segue como atualizada em 22/09 (Analyst Review em dezembro de 2025). A última comunicação geral listada em FLAG Announcements é de 02/09/2026 (H-2A, fora do escopo do…",
+      "body": [
+       "A página de tempos de processamento do OFLC/FLAG segue como atualizada em 22/09 (Analyst Review em dezembro de 2025). A última comunicação geral listada em FLAG Announcements é de 02/09/2026 (H-2A, fora do escopo do PERM). Nada novo hoje."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">FLAG &mdash; Processing Times ↗</a> · <a href=\"https://flag.dol.gov/announcements\">FLAG &mdash; Announcements ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "date": "2026-09-03",
+ "issue": 16,
+ "en": {
+  "date_long": "Thursday, September 3, 2026",
+  "date_short": "09/03/2026",
+  "lead": {
+   "kicker": "Today's Headline",
+   "headline": "End of “Duration of Status”: the injunction hearing is today (09/03), twelve days before the rule takes effect",
+   "deck": "The motion for a preliminary injunction against DHS's final rule — which replaces “duration of status” admission (F/J/I) with fixed admission periods — goes before the court today, Thursday, September 3, at 11 a.m., in Courtroom 1, before Judge F. Dennis Saylor IV (D. Mass.). The government's response, due August 31, has already been filed. The rule's effective date remains September 15; so far there is no injunction or TRO.",
+   "body": [
+    "The case &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, No. 1:26-cv-13799 (D. Mass.) &mdash; brings together NAFSA, the Presidents&rsquo; Alliance, AICUM, AFT, GLO (AFT Local 6516), UAW, and The NewsGuild-CWA. Under the August 19 scheduling order, the complaint and preliminary-injunction motion were filed on August 18 and the government's response was due August 31, culminating in this morning's hearing.",
+    "The coalition argues the rule violates the Administrative Procedure Act: it claims DHS failed to adequately assess costs and benefits, did not respond consistently to public comments, failed to consider less burdensome alternatives, and allowed an inadequate comment period. For advisory purposes, the practical picture doesn't change absent a contrary order: the rule takes effect September 15, replacing &ldquo;D/S&rdquo; with fixed admission periods (up to four years for F and J; a fixed term for foreign media representatives in I status) and requiring an extension-of-stay (EOS) application with USCIS.",
+    "Today's ruling is the next turning point. An injunction would suspend the effective date days before September 15; a denial would leave the rule's timeline intact. We're following the docket and will update guidance for affected cases as soon as an order is issued."
+   ],
+   "src": "Official source: case filings &mdash; Complaint and motion for preliminary injunction, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, No. 1:26-cv-13799 (D. Mass., filed 08/18/2026) &middot; <a href=\"https://clearinghouse.net/case/48393/\">case page (Civil Rights Litigation Clearinghouse) ↗</a> &middot; final rule: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 07/17/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/03 (today):</strong> hearing on the motion to enjoin the end of &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., Judge F. Dennis Saylor IV, 11 a.m., Courtroom 1.",
+   "<strong>09/09:</strong> TPS for El Salvador ends (protection and EADs anchored exclusively to that status terminate); and the expanded biometric fee (H-1B $4,000 / L-1 $4,500) begins reaching all covered employers' extensions.",
+   "<strong>09/15:</strong> effective date for the end of &ldquo;Duration of Status&rdquo; (F/J/I), absent a court order; new editions of Forms I-539 and I-765 (ed. 09/15/26) take effect with <strong>no grace period</strong> &mdash; older editions rejected as of that date.",
+   "<strong>09/18:</strong> the new public charge rule and revised Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed $103,265 fee for cap-subject H-1B petitions (NPRM published 08/25).",
+   "<strong>Second half of September:</strong> the October Visa Bulletin (FY2027 reset) is expected to be published."
+  ],
+  "sections": [
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Official data",
+      "tagtype": "final",
+      "title": "OFLC releases FY2026 Q3 public disclosure data and statistics (PERM, LCA, and Prevailing Wage)",
+      "deck": "The Office of Foreign Labor Certification (OFLC) has published its public disclosure dataset for FY2026 Q3, covering all final determinations issued between 10/01/2025 and 06/30/2026 under the PERM, LCA (H-1B, H-1B1,…",
+      "body": [
+       "The Office of Foreign Labor Certification (OFLC) has published its public disclosure dataset for <strong>FY2026 Q3</strong>, covering all final determinations issued between <strong>10/01/2025 and 06/30/2026</strong> under the <strong>PERM</strong>, <strong>LCA</strong> (H-1B, H-1B1, E-3), <strong>H-2A</strong>, <strong>H-2B</strong>, <strong>CW-1</strong>, and <strong>Prevailing Wage</strong> programs, along with selected quarterly statistics. The disclosure files let firms verify volume, outcomes, and adjudication patterns by program &mdash; useful for calibrating timing and outcome expectations when planning EB-2 and EB-3 cases.",
+       "This pairs with FLAG processing times, which remain long: the PERM Analyst Review queue is still measured in months, and the average time to complete merits review remains elevated. We recommend keeping case timelines with a buffer and checking the official times page before projecting filing or certification dates."
+      ],
+      "src": "Official source: DOL/OFLC &mdash; Announcements (public disclosure, FY2026 Q3) &middot; <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">dol.gov/agencies/eta/foreign-labor/news ↗</a> &middot; processing times: <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Under review — OMB/OIRA",
+      "tagtype": "prop",
+      "title": "H-1B: DHS's broad reform proposal remains under OIRA review, text still not public",
+      "deck": "The “Reforming the H-1B Nonimmigrant Visa Classification Program” proposal, sent to the Office of Information and Regulatory Affairs (OIRA/OMB) on August 24, remains under review — a step that precedes publication in…",
+      "body": [
+       "The <em>&ldquo;Reforming the H-1B Nonimmigrant Visa Classification Program&rdquo;</em> proposal, sent to the Office of Information and Regulatory Affairs (OIRA/OMB) on August 24, <strong>remains under review</strong> &mdash; a step that precedes publication in the Federal Register. According to the regulatory agenda, the package targets cap-exemption rules, scrutiny of violating employers, and oversight of third-party placement. The text is still not public and, until published, has no legal effect. Registration for the FY2027 cap has already been completed under the current rules; any changes, if and when published, would apply to future cycles. We continue to track the OIRA docket."
+      ],
+      "src": "Official source: OIRA/OMB &mdash; regulatory review dashboard (reginfo.gov) &middot; <a href=\"https://www.reginfo.gov/public/do/eoReviewSearch\">reginfo.gov &mdash; EO 12866 Review ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quinta-feira, 3 de setembro de 2026",
+  "date_short": "03/09/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Fim do “Duration of Status”: a audiência da liminar é hoje (03/09), a doze dias da vigência",
+   "deck": "O pedido de preliminary injunction contra a regra final do DHS — que troca a admissão por “tempo de status” (F/J/I) por prazos fixos de admissão — vai a julgamento hoje, quinta-feira 03/09, às 11h, na Sala 1, perante o juiz F. Dennis Saylor IV (D. Mass.). A resposta do governo, com prazo em 31/08, já está protocolada. A vigência da regra segue marcada para 15/09; até aqui, não há liminar nem TRO.",
+   "body": [
+    "O caso &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, nº 1:26-cv-13799 (D. Mass.) &mdash; reúne NAFSA, a Presidents&rsquo; Alliance, a AICUM, a AFT, a GLO (AFT Local 6516), a UAW e o The NewsGuild-CWA. Pela <em>scheduling order</em> de 19/08, a petição inicial e a moção de liminar foram protocoladas em 18/08 e a resposta do governo vencia em 31/08, culminando na audiência marcada para esta manhã.",
+    "A coalizão sustenta que a regra viola a <em>Administrative Procedure Act</em>: alega que o DHS não avaliou adequadamente custos e benefícios, não respondeu de forma consistente aos comentários públicos, deixou de considerar alternativas menos onerosas e concedeu período de comentário inadequado. Para fins de aconselhamento, o quadro prático não muda enquanto não houver ordem em contrário: a regra entra em vigor em <strong>15/09</strong>, substituindo o &ldquo;D/S&rdquo; por períodos de admissão fixos (até quatro anos para F e J; prazo fixo para representantes de imprensa em status I) e passando a exigir pedido de prorrogação de estada (EOS) junto ao USCIS.",
+    "A decisão de hoje é o próximo divisor de águas. Uma liminar suspenderia a vigência a poucos dias de 15/09; a negativa manteria o cronograma da regra intacto. Acompanhamos o andamento pelos autos e atualizaremos a orientação aos casos afetados assim que houver despacho."
+   ],
+   "src": "Fonte oficial: peças do processo &mdash; Complaint e moção de <em>preliminary injunction</em>, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, nº 1:26-cv-13799 (D. Mass., protocolo 18/08/2026) &middot; <a href=\"https://clearinghouse.net/case/48393/\">ficha do processo (Civil Rights Litigation Clearinghouse) ↗</a> &middot; regra final: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 17/07/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>03/09 (hoje):</strong> audiência do pedido de liminar contra o fim do &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., juiz F. Dennis Saylor IV, 11h, Sala 1.",
+   "<strong>09/09:</strong> termina o TPS de El Salvador (fim da proteção e dos EADs ancorados exclusivamente nesse status); e a taxa biométrica ampliada (H-1B US$4.000 / L-1 US$4.500) passa a alcançar todas as prorrogações dos empregadores enquadrados.",
+   "<strong>15/09:</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial; entram em vigor as novas edições dos Formulários I-539 e I-765 (ed. 09/15/26), <strong>sem período de carência</strong> &mdash; edições antigas rejeitadas já na data.",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto (NPRM de 25/08).",
+   "<strong>2ª metade de setembro:</strong> publicação prevista do Visa Bulletin de outubro (reset do FY2027)."
+  ],
+  "sections": [
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Dados oficiais",
+      "tagtype": "final",
+      "title": "OFLC divulga os dados públicos e as estatísticas do 3º trimestre do FY2026 (PERM, LCA e Prevailing Wage)",
+      "deck": "A Office of Foreign Labor Certification (OFLC) publicou o conjunto de dados de divulgação pública referente ao 3º trimestre do ano fiscal de 2026, com todas as determinações finais emitidas no período de 01/10/2025 a…",
+      "body": [
+       "A <em>Office of Foreign Labor Certification</em> (OFLC) publicou o conjunto de dados de divulgação pública referente ao <strong>3º trimestre do ano fiscal de 2026</strong>, com todas as determinações finais emitidas no período de <strong>01/10/2025 a 30/06/2026</strong> nos programas <strong>PERM</strong>, <strong>LCA</strong> (H-1B, H-1B1, E-3), <strong>H-2A</strong>, <strong>H-2B</strong>, <strong>CW-1</strong> e <strong>Prevailing Wage</strong>, acompanhado das estatísticas selecionadas do trimestre. Os arquivos de <em>disclosure</em> permitem verificar volume, resultados e padrões de adjudicação por programa, o que é útil para calibrar expectativas de tempo e de resultado no planejamento de casos EB-2 e EB-3.",
+       "A leitura combina com os tempos de processamento do FLAG, que seguem longos: a fila de <em>Analyst Review</em> no PERM permanece na casa de meses e a média para concluir a análise de mérito continua elevada. Recomenda-se manter o cronograma dos casos com folga e conferir a página oficial de tempos antes de projetar datas de protocolo ou de certificação."
+      ],
+      "src": "Fonte oficial: DOL/OFLC &mdash; Announcements (divulgação pública, 3º tri. FY2026) &middot; <a href=\"https://www.dol.gov/agencies/eta/foreign-labor/news\">dol.gov/agencies/eta/foreign-labor/news ↗</a> &middot; tempos: <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Em revisão — OMB/OIRA",
+      "tagtype": "prop",
+      "title": "H-1B: a proposta de reforma ampla do DHS segue em revisão no OIRA, sem texto público",
+      "deck": "A proposta “Reforming the H-1B Nonimmigrant Visa Classification Program”, enviada ao Office of Information and Regulatory Affairs (OIRA/OMB) em 24/08, permanece em revisão — etapa que antecede a publicação no Federal…",
+      "body": [
+       "A proposta <em>&ldquo;Reforming the H-1B Nonimmigrant Visa Classification Program&rdquo;</em>, enviada ao <em>Office of Information and Regulatory Affairs</em> (OIRA/OMB) em 24/08, <strong>permanece em revisão</strong> &mdash; etapa que antecede a publicação no <em>Federal Register</em>. Segundo a agenda regulatória, o pacote mira as regras de <em>cap-exemption</em>, o escrutínio de empregadores infratores e a fiscalização de colocações em terceiros (<em>third-party placement</em>). O texto ainda não é público e, enquanto não publicado, não produz efeito. O registro do teto para o FY2027 já foi concluído sob as regras vigentes; eventuais mudanças, se e quando publicadas, alcançariam ciclos futuros. Seguimos acompanhando o andamento no painel do OIRA."
+      ],
+      "src": "Fonte oficial: OIRA/OMB &mdash; painel de ações regulatórias sob revisão (reginfo.gov) &middot; <a href=\"https://www.reginfo.gov/public/do/eoReviewSearch\">reginfo.gov &mdash; EO 12866 Review ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

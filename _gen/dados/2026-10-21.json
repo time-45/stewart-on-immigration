@@ -1,0 +1,214 @@
+{
+ "date": "2026-10-21",
+ "issue": 53,
+ "en": {
+  "date_long": "Wednesday, October 21, 2026",
+  "date_short": "10/21/2026",
+  "lead": {
+   "kicker": "Headline of the day",
+   "headline": "State Dept. notice: USCIS to revise how visa availability is set for adjustment of status",
+   "deck": "The Visa Bulletin page carries the notice, but the November bulletin is still “Coming Soon”; nothing new in the Federal Register, FLAG or BIA since yesterday.",
+   "body": [
+    "The official Visa Bulletin page says USCIS, together with the Department of State, is revising how it determines visa availability for applicants waiting to file for employment-based or family-sponsored adjustment of status, aligning it more closely with the consular immigrant visa process. The page gives no effective date or details, and we could not confirm the text of the USCIS announcement today.",
+    "In practice: before filing an I-485 based on the &ldquo;Dates for Filing&rdquo; chart, check the notice and the USCIS charts page on the day of filing, and avoid promising clients a filing window until the November bulletin is out."
+   ],
+   "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+  },
+  "deadlines": [
+   "<strong>11/09:</strong> OPT fee comments close. <strong>11/13:</strong> comments close on ending deference (I-129).",
+   "<strong>This week:</strong> November Visa Bulletin and details of the AOS notice. <em>Official source:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "No new action",
+      "tagtype": "final",
+      "title": "Federal Register: no new DHS, DOL, DOS or EOIR immigration action since yesterday's issue",
+      "deck": "The latest immigration document listed is dated 10/14/2026: the DHS/EOIR civil penalties rule. Earlier: the EAD final rule (91 FR 65306, effective 10/14) and the EB-5 fee rule (9/30).",
+      "body": [
+       "The latest immigration document listed is dated 10/14/2026: the DHS/EOIR civil penalties rule. Earlier: the EAD final rule (91 FR 65306, effective 10/14) and the EB-5 fee rule (9/30). No BIA decision after Interim Decision #4261 (10/19) appeared in today's search."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/topics/immigration\">Federal Register — Immigration ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations\">2026-21024 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "I-129: proposal to end deference to prior approvals remains open",
+      "deck": "Proposal to rescind 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comments due 11/13.",
+      "body": [
+       "Proposal to rescind 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comments due 11/13. For H-1B/L-1, document every extension fully."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "OPT: proposed US$70,000 fee per initial designation",
+      "deck": "DHS/ICE NPRM in comment period; not in effect until a final rule.",
+      "body": [
+       "DHS/ICE NPRM in comment period; not in effect until a final rule."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a> · <a href=\"https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs\">DHS ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "No change",
+      "tagtype": "final",
+      "title": "FLAG: no new notice; latest announcement is still 9/2",
+      "deck": "The latest notice (H-2A AEWR, after the 8/26 court order) stands; nothing new on PERM or prevailing wage. Check processing times before projecting deadlines.",
+      "body": [
+       "The latest notice (H-2A AEWR, after the 8/26 court order) stands; nothing new on PERM or prevailing wage. Check processing times before projecting deadlines."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Adjustment of Status",
+    "items": [
+     {
+      "tag": "Attention",
+      "tagtype": "alert",
+      "title": "Notice on revised visa-availability procedure for applicants waiting to file I-485",
+      "deck": "The notice appears on the Visa Bulletin page (no date or effective date given there). Verify the full text and which chart applies before any filing; we could not access the USCIS charts page today.",
+      "body": [
+       "The notice appears on the Visa Bulletin page (no date or effective date given there). Verify the full text and which chart applies before any filing; we could not access the USCIS charts page today. No additional official source yet."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pending",
+      "tagtype": "alert",
+      "title": "November Visa Bulletin still “Coming Soon”",
+      "deck": "October 2026 remains the current bulletin.",
+      "body": [
+       "October 2026 remains the current bulletin."
+      ],
+      "src": "Official source: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quarta-feira, 21 de outubro de 2026",
+  "date_short": "21/10/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Departamento de Estado avisa: USCIS vai mudar como define a disponibilidade de visto para o ajuste de status",
+   "deck": "A página do Visa Bulletin traz o aviso, mas ainda sem a edição de novembro, que segue “Coming Soon”; nada novo no Federal Register, no FLAG ou no BIA desde ontem.",
+   "body": [
+    "A página oficial do Visa Bulletin informa que o USCIS, em conjunto com o Departamento de Estado, está revisando a forma de determinar a disponibilidade de visto para quem aguarda para protocolar ajuste de status baseado em emprego ou família, aproximando o processo do usado nos consulados para vistos de imigrante. A página não traz data de vigência nem detalhes, e não conseguimos confirmar o texto do anúncio do USCIS hoje.",
+    "Na prática: antes de protocolar I-485 com base na tabela &ldquo;Dates for Filing&rdquo;, confira o aviso e a página de gráficos do USCIS no dia do protocolo, e evite prometer a clientes uma janela de protocolo até a publicação do boletim de novembro."
+   ],
+   "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/11:</strong> encerram os comentários sobre a taxa de OPT. <strong>13/11:</strong> encerram os comentários sobre o fim da deferência (I-129).",
+   "<strong>Esta semana:</strong> Visa Bulletin de novembro e detalhes do aviso de AOS. <em>Fonte oficial:</em> <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS ↗</a>"
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Sem ato novo",
+      "tagtype": "final",
+      "title": "Federal Register: nenhum ato novo de DHS, DOL, DOS ou EOIR sobre imigração desde a edição de ontem",
+      "deck": "O último ato de imigração listado é de 14/10/2026: regra de multas civis do DHS/EOIR. Antes, a regra final do EAD (91 FR 65306, vigente desde 14/10) e a taxa de EB-5 (30/09).",
+      "body": [
+       "O último ato de imigração listado é de 14/10/2026: regra de multas civis do DHS/EOIR. Antes, a regra final do EAD (91 FR 65306, vigente desde 14/10) e a taxa de EB-5 (30/09). Nenhuma decisão do BIA posterior à Interim Decision #4261 (19/10) apareceu na busca de hoje."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/topics/immigration\">Federal Register — Immigration ↗</a> · <a href=\"https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations\">2026-21024 ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "I-129: proposta de acabar com a deferência a aprovações anteriores segue aberta",
+      "deck": "Proposta de revogar o 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comentários até 13/11.",
+      "body": [
+       "Proposta de revogar o 8 CFR 214.1(c)(5) (docket USCIS-2026-0529). Comentários até 13/11. Para H-1B/L-1, reforce a documentação de cada extensão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 ↗</a>"
+     },
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "OPT: taxa proposta de US$70.000 por indicação inicial",
+      "deck": "NPRM do DHS/ICE em período de comentários; sem vigência até a regra final.",
+      "body": [
+       "NPRM do DHS/ICE em período de comentários; sem vigência até a regra final."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20660\">Federal Register 2026-20660 ↗</a> · <a href=\"https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs\">DHS ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Sem mudança",
+      "tagtype": "final",
+      "title": "FLAG: nenhum aviso novo; o último anúncio segue sendo de 02/09",
+      "deck": "O comunicado mais recente (AEWR do H-2A, após ordem judicial de 26/08) permanece; nada novo sobre PERM ou prevailing wage. Confira os tempos de processamento antes de projetar prazos.",
+      "body": [
+       "O comunicado mais recente (AEWR do H-2A, após ordem judicial de 26/08) permanece; nada novo sobre PERM ou prevailing wage. Confira os tempos de processamento antes de projetar prazos."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/announcements\">FLAG — Announcements ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">FLAG — Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Ajuste de Status",
+    "items": [
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "Aviso sobre revisão do procedimento de disponibilidade de visto para quem espera para protocolar I-485",
+      "deck": "O aviso consta da página do Visa Bulletin (sem data nem vigência informadas ali). Verifique o texto completo e qual tabela vale antes de qualquer protocolo; não conseguimos acessar hoje a página de gráficos do USCIS.",
+      "body": [
+       "O aviso consta da página do Visa Bulletin (sem data nem vigência informadas ali). Verifique o texto completo e qual tabela vale antes de qualquer protocolo; não conseguimos acessar hoje a página de gráficos do USCIS. Sem fonte oficial adicional ainda."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — The Visa Bulletin ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Pendente",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de novembro continua “Coming Soon”",
+      "deck": "Outubro de 2026 segue como o boletim vigente.",
+      "body": [
+       "Outubro de 2026 segue como o boletim vigente."
+      ],
+      "src": "Fonte oficial: <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">DOS — Visa Bulletin ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

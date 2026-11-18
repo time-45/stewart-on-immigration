@@ -1,0 +1,172 @@
+{
+ "date": "2026-09-02",
+ "issue": 15,
+ "en": {
+  "date_long": "Wednesday, September 2, 2026",
+  "date_short": "09/02/2026",
+  "lead": {
+   "kicker": "Today's Lead",
+   "headline": "End of “Duration of Status”: the injunction hearing is tomorrow (09/03), twelve days before the effective date",
+   "deck": "The motion for a preliminary injunction against the DHS final rule — which replaces “duration of status” admission (F/J/I) with fixed periods — is heard tomorrow, Wednesday 09/03, at 11:00 a.m. in Courtroom 1, before Judge F. Dennis Saylor IV (D. Mass.). The government's response, due 08/31, has already been filed. The rule's effective date remains 09/15; there is still no injunction or TRO.",
+   "body": [
+    "The case &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, No. 1:26-cv-13799 (D. Mass.) &mdash; brings together NAFSA, the Presidents&rsquo; Alliance, AICUM, AFT, GLO (AFT Local 6516), UAW, and The NewsGuild-CWA. Under the 08/19 scheduling order, the complaint and the injunction motion were filed on 08/18 and the government's response was due 08/31, leading to tomorrow's hearing.",
+    "The coalition argues that the rule violates the <em>Administrative Procedure Act</em>: it contends DHS failed to adequately weigh costs and benefits, failed to respond consistently to public comments, did not consider less burdensome alternatives, and allowed an inadequate comment period. For counseling purposes, the practical point does not change absent a contrary order: the rule takes effect on <strong>09/15</strong>, replacing &ldquo;D/S&rdquo; with fixed admission periods (up to four years for F and J; a fixed term for foreign-media representatives in I status) and requiring an extension-of-stay (EOS) request with USCIS. Tomorrow's ruling is the next watershed: an injunction could suspend the effective date just days before 09/15."
+   ],
+   "src": "Official source: case filings &mdash; Complaint and motion for <em>preliminary injunction</em>, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, No. 1:26-cv-13799 (D. Mass., filed 08/18/2026) &middot; <a href=\"https://clearinghouse.net/case/48393/\">case record (Civil Rights Litigation Clearinghouse) ↗</a> &middot; final rule: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 07/17/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/03 (tomorrow):</strong> hearing on the motion to enjoin the end of &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., Judge F. Dennis Saylor IV, 11:00 a.m., Courtroom 1.",
+   "<strong>09/09:</strong> El Salvador TPS ends (loss of protection and of EADs anchored on that status); and the expanded biometric fee (H-1B US$4,000 / L-1 US$4,500) begins to reach all extensions filed by covered employers.",
+   "<strong>09/15:</strong> effective date of the end of &ldquo;Duration of Status&rdquo; (F/J/I), absent a court order; the new editions of Forms I-539 and I-765 (ed. 09/15/26) take effect with <strong>no grace period</strong> &mdash; older editions rejected as of that date.",
+   "<strong>09/18:</strong> the new <em>public charge</em> framework and the revised Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed US$103,265 fee per cap-subject H-1B petition (NPRM of 08/25).",
+   "<strong>Second half of September:</strong> expected publication of the October Visa Bulletin (FY2027 reset)."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Alert — effective 09/09",
+      "tagtype": "alert",
+      "title": "El Salvador TPS ends on 09/09; benefits (including EADs) terminate the same day",
+      "deck": "USCIS has confirmed that the Temporary Protected Status (TPS) designation of El Salvador — and the benefits tied to it — ends on 09/09/2026.",
+      "body": [
+       "USCIS has confirmed that the <em>Temporary Protected Status</em> (TPS) designation of <strong>El Salvador</strong> &mdash; and the benefits tied to it &mdash; <strong>ends on 09/09/2026</strong>. The designation stemmed from the 18-month extension published in the <em>Federal Register</em> on 01/17/2025, valid from 03/10/2025 through 09/09/2026; no further extension was granted. In practice, as of 09/09, protection from removal and the work authorization anchored solely on Salvadoran TPS cease: employment authorization documents (EADs) issued on that TPS basis are no longer valid, absent an independent legal basis. Beneficiaries with other matters pending (adjustment of status, another classification) should confirm their basis of stay and work before that date."
+      ],
+      "src": "Official source: USCIS, &ldquo;Update on Temporary Protected Status for El Salvador&rdquo; (08/12/2026) &middot; <a href=\"https://www.uscis.gov/save/current-user-agencies/news-alerts/update-on-temporary-protected-status-for-el-salvador-release-aug-12-2026\">uscis.gov ↗</a> &middot; original extension: <a href=\"https://www.federalregister.gov/documents/2025/01/17/2025-00626/extension-of-the-designation-of-el-salvador-for-temporary-protected-status\">Federal Register, 01/17/2025 (2025-00626) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Official data",
+      "tagtype": "final",
+      "title": "OFLC updates processing times: PERM Analyst Review advances to November 2025; 336-day average",
+      "deck": "The FLAG processing times were updated. In PERM (data as of 08/28), the Analyst Review queue reaches cases filed in November 2025; Audit Review stands at December 2025; and Reconsideration Request to the Certifying…",
+      "body": [
+       "The FLAG processing times were updated. In <strong>PERM</strong> (data as of 08/28), the <em>Analyst Review</em> queue reaches cases filed in <strong>November 2025</strong>; <em>Audit Review</em> stands at <strong>December 2025</strong>; and <em>Reconsideration Request</em> to the <em>Certifying Officer</em> at <strong>April 2026</strong>. The average time to complete Analyst Review in August 2026 was <strong>336 calendar days</strong>. For prevailing wage determinations (PWD, data as of 06/30), OFLC is issuing for <strong>OEWS requests from April 2026</strong> and <strong>non-OEWS from March 2026</strong>. The figures confirm that EB-2/EB-3 case planning should continue to assume long certification windows."
+      ],
+      "src": "Official source: DOL/OFLC, FLAG &mdash; Processing Times &middot; <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Under review — OMB/OIRA",
+      "tagtype": "prop",
+      "title": "Two H-1B packages under federal review: the broad reform proposal and the final weighted cap-selection rule",
+      "deck": "Two DHS H-1B initiatives are pending before the Office of Information and Regulatory Affairs (OIRA/OMB), the step that precedes Federal Register publication.",
+      "body": [
+       "Two DHS H-1B initiatives are pending before the <em>Office of Information and Regulatory Affairs</em> (OIRA/OMB), the step that precedes <em>Federal Register</em> publication. The first is the proposal <em>&ldquo;Reforming the H-1B Nonimmigrant Visa Classification Program,&rdquo;</em> sent to OMB on 08/24, which &mdash; per the regulatory agenda &mdash; targets <em>cap-exemption</em> rules, scrutiny of noncompliant employers, and oversight of third-party placement; the text is not yet public. The second is the <strong>final weighted-selection rule</strong> for the annual cap, which would replace the purely random lottery with a weighted criterion &mdash; also in the final stage of federal review. Until published, neither has any effect; we are tracking their progress on the OIRA dashboard."
+      ],
+      "src": "Official source: OIRA/OMB &mdash; regulatory actions under review dashboard (reginfo.gov) &middot; <a href=\"https://www.reginfo.gov/public/do/eoReviewSearch\">reginfo.gov &mdash; EO 12866 Review ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Awaited",
+      "tagtype": "alert",
+      "title": "October Visa Bulletin (start of FY2027) not yet published; September remains the most recent",
+      "deck": "The October 2026 Visa Bulletin — the first of fiscal year 2027 and the one that resets the annual quotas — has not yet been released by the Department of State; the official page still lists September 2026 as the…",
+      "body": [
+       "The <strong>October 2026</strong> <em>Visa Bulletin</em> &mdash; the first of fiscal year 2027 and the one that resets the annual quotas &mdash; has <strong>not yet been released</strong> by the Department of State; the official page still lists September 2026 as the current bulletin. Publication typically occurs in the second half of the preceding month, so the October bulletin is expected in the coming days. It is advisable to await the official text before projecting <em>priority date</em> movement, especially in the employment-based categories with the FY2027 reset."
+      ],
+      "src": "Official source: U.S. Department of State &mdash; The Visa Bulletin &middot; <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">travel.state.gov ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quarta-feira, 2 de setembro de 2026",
+  "date_short": "02/09/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Fim do “Duration of Status”: a audiência da liminar é amanhã (03/09), doze dias antes da vigência",
+   "deck": "O pedido de preliminary injunction contra a regra final do DHS — que troca a admissão por “tempo de status” (F/J/I) por prazos fixos — vai a julgamento amanhã, quarta-feira 03/09, às 11h, na Sala 1, perante o juiz F. Dennis Saylor IV (D. Mass.). A resposta do governo, com prazo em 31/08, já foi protocolada. A vigência da regra segue marcada para 15/09; até aqui não há liminar nem TRO.",
+   "body": [
+    "O caso &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, nº 1:26-cv-13799 (D. Mass.) &mdash; reúne NAFSA, Presidents&rsquo; Alliance, AICUM, AFT, GLO (AFT Local 6516), UAW e The NewsGuild-CWA. Pela <em>scheduling order</em> de 19/08, a petição inicial e a moção de liminar foram protocoladas em 18/08 e a resposta do governo vencia em 31/08, culminando na audiência de amanhã.",
+    "A coalizão sustenta que a regra viola a <em>Administrative Procedure Act</em>: alega que o DHS não avaliou adequadamente custos e benefícios, não respondeu de forma consistente aos comentários públicos, não considerou alternativas menos onerosas e concedeu período de comentário inadequado. Para fins de aconselhamento, o ponto prático não muda enquanto não houver ordem em contrário: a regra entra em vigor em <strong>15/09</strong>, substituindo o &ldquo;D/S&rdquo; por períodos de admissão fixos (até quatro anos para F e J; prazo fixo para representantes de imprensa em status I) e passando a exigir pedido de prorrogação de estada (EOS) junto ao USCIS. A decisão de amanhã é o próximo divisor de águas: uma liminar poderia suspender a vigência a poucos dias de 15/09."
+   ],
+   "src": "Fonte oficial: peças do processo &mdash; Complaint e moção de <em>preliminary injunction</em>, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, nº 1:26-cv-13799 (D. Mass., protocolo 18/08/2026) &middot; <a href=\"https://clearinghouse.net/case/48393/\">ficha do processo (Civil Rights Litigation Clearinghouse) ↗</a> &middot; regra final: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant\">Federal Register, 17/07/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>03/09 (amanhã):</strong> audiência do pedido de liminar contra o fim do &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., juiz F. Dennis Saylor IV, 11h, Sala 1.",
+   "<strong>09/09:</strong> termina o TPS de El Salvador (fim da proteção e dos EADs ancorados nesse status); e a taxa biométrica ampliada (H-1B US$4.000 / L-1 US$4.500) passa a alcançar todas as prorrogações dos empregadores enquadrados.",
+   "<strong>15/09:</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial; entram em vigor as novas edições dos Formulários I-539 e I-765 (ed. 09/15/26), <strong>sem período de carência</strong> &mdash; edições antigas rejeitadas já na data.",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto (NPRM de 25/08).",
+   "<strong>2ª metade de setembro:</strong> publicação prevista do Visa Bulletin de outubro (reset do FY2027)."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Alerta — vigente 09/09",
+      "tagtype": "alert",
+      "title": "TPS de El Salvador termina em 09/09; benefícios (inclusive EADs) encerram na mesma data",
+      "deck": "O USCIS confirmou que a designação de Temporary Protected Status (TPS) de El Salvador — e os benefícios a ela vinculados — termina em 09/09/2026.",
+      "body": [
+       "O USCIS confirmou que a designação de <em>Temporary Protected Status</em> (TPS) de <strong>El Salvador</strong> &mdash; e os benefícios a ela vinculados &mdash; <strong>termina em 09/09/2026</strong>. A designação vinha da extensão de 18 meses publicada no <em>Federal Register</em> em 17/01/2025, com validade de 10/03/2025 a 09/09/2026; não houve nova extensão. Na prática, a partir de 09/09 cessa a proteção contra remoção e a autorização de trabalho ancorada exclusivamente no TPS salvadorenho: documentos de autorização de emprego (EAD) emitidos com base nesse TPS deixam de ser válidos, salvo outra base legal independente. Beneficiários com pedidos de outra natureza em curso (ajuste de status, outra classificação) devem confirmar a base de estada e de trabalho antes da data."
+      ],
+      "src": "Fonte oficial: USCIS, &ldquo;Update on Temporary Protected Status for El Salvador&rdquo; (12/08/2026) &middot; <a href=\"https://www.uscis.gov/save/current-user-agencies/news-alerts/update-on-temporary-protected-status-for-el-salvador-release-aug-12-2026\">uscis.gov ↗</a> &middot; extensão original: <a href=\"https://www.federalregister.gov/documents/2025/01/17/2025-00626/extension-of-the-designation-of-el-salvador-for-temporary-protected-status\">Federal Register, 17/01/2025 (2025-00626) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Dados oficiais",
+      "tagtype": "final",
+      "title": "OFLC atualiza os tempos: revisão do analista no PERM avança para novembro/2025; média de 336 dias",
+      "deck": "Os tempos de processamento do FLAG foram atualizados. No PERM (dados de 28/08), a fila de Analyst Review alcança casos protocolados em novembro/2025; a Audit Review está em dezembro/2025; e a Reconsideration Request ao…",
+      "body": [
+       "Os tempos de processamento do FLAG foram atualizados. No <strong>PERM</strong> (dados de 28/08), a fila de <em>Analyst Review</em> alcança casos protocolados em <strong>novembro/2025</strong>; a <em>Audit Review</em> está em <strong>dezembro/2025</strong>; e a <em>Reconsideration Request</em> ao <em>Certifying Officer</em> em <strong>abril/2026</strong>. A média de dias para concluir a análise de mérito (<em>Analyst Review</em>) em agosto/2026 foi de <strong>336 dias corridos</strong>. Nas determinações de salário prevalecente (PWD, dados de 30/06), a OFLC emite para pedidos <strong>OEWS de abril/2026</strong> e <strong>não-OEWS de março/2026</strong>. Os números confirmam que o planejamento de casos EB-2/EB-3 deve seguir contando com janelas longas de certificação."
+      ],
+      "src": "Fonte oficial: DOL/OFLC, FLAG &mdash; Processing Times &middot; <a href=\"https://flag.dol.gov/processingtimes\">flag.dol.gov/processingtimes ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Em revisão — OMB/OIRA",
+      "tagtype": "prop",
+      "title": "Dois pacotes de H-1B em revisão federal: a proposta de reforma ampla e a regra final de seleção ponderada do teto",
+      "deck": "Duas iniciativas do DHS sobre o H-1B tramitam sob revisão do Office of Information and Regulatory Affairs (OIRA/OMB), etapa que antecede a publicação no Federal Register.",
+      "body": [
+       "Duas iniciativas do DHS sobre o H-1B tramitam sob revisão do <em>Office of Information and Regulatory Affairs</em> (OIRA/OMB), etapa que antecede a publicação no <em>Federal Register</em>. A primeira é a proposta <em>&ldquo;Reforming the H-1B Nonimmigrant Visa Classification Program&rdquo;</em>, enviada ao OMB em 24/08, que, segundo a agenda regulatória, mira as regras de <em>cap-exemption</em>, o escrutínio de empregadores infratores e a fiscalização de colocações em terceiros (<em>third-party placement</em>) &mdash; o texto ainda não é público. A segunda é a <strong>regra final de seleção ponderada</strong> (<em>weighted selection</em>) do teto anual, que substituiria o sorteio puramente aleatório por um critério ponderado &mdash; também em fase final de revisão federal. Enquanto não publicadas, nenhuma das duas produz efeito; acompanhamos o andamento no painel do OIRA."
+      ],
+      "src": "Fonte oficial: OIRA/OMB &mdash; painel de ações regulatórias sob revisão (reginfo.gov) &middot; <a href=\"https://www.reginfo.gov/public/do/eoReviewSearch\">reginfo.gov &mdash; EO 12866 Review ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Consular & Visa Bulletin",
+    "items": [
+     {
+      "tag": "Aguardado",
+      "tagtype": "alert",
+      "title": "Visa Bulletin de outubro (abertura do FY2027) ainda não publicado; setembro segue como o mais recente",
+      "deck": "O Visa Bulletin de outubro/2026 — o primeiro do ano fiscal de 2027 e o que reinicia as cotas anuais — ainda não foi divulgado pelo Departamento de Estado; a página oficial mantém o de setembro/2026 como o boletim…",
+      "body": [
+       "O <em>Visa Bulletin</em> de <strong>outubro/2026</strong> &mdash; o primeiro do ano fiscal de 2027 e o que reinicia as cotas anuais &mdash; ainda <strong>não foi divulgado</strong> pelo Departamento de Estado; a página oficial mantém o de setembro/2026 como o boletim vigente. A publicação costuma ocorrer na segunda metade do mês anterior, de modo que o de outubro é esperado nos próximos dias. Recomenda-se aguardar o texto oficial antes de projetar movimentação de <em>priority dates</em>, sobretudo nas categorias baseadas em emprego com o reset do FY2027."
+      ],
+      "src": "Fonte oficial: U.S. Department of State &mdash; The Visa Bulletin &middot; <a href=\"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html\">travel.state.gov ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}

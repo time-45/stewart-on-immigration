@@ -1,0 +1,142 @@
+{
+ "date": "2026-09-01",
+ "issue": 14,
+ "en": {
+  "date_long": "Tuesday, September 1, 2026",
+  "date_short": "09/01/2026",
+  "lead": {
+   "kicker": "Today’s Lead",
+   "headline": "The end of “Duration of Status” enters its decisive week: government response filed; injunction hearing this Wednesday (09/03)",
+   "deck": "The suit seeking to block the DHS final rule — which replaces “duration of status” admission (F/J/I) with fixed periods — reaches its pivotal point. Under the schedule set by Judge F. Dennis Saylor IV (D. Mass.), the government’s response was due 08/31 (deadline now passed) and the hearing on the motion for a preliminary injunction is set for Wednesday, 09/03, at 11:00 a.m., in Courtroom 1. The rule’s effective date remains 09/15. No injunction or TRO has been granted so far.",
+   "body": [
+    "The case &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, No. 1:26-cv-13799 (D. Mass.) &mdash; was filed on 08/18 by a coalition that includes NAFSA, the Presidents&rsquo; Alliance, AICUM, AFT, GLO (AFT Local 6516), UAW and The NewsGuild-CWA. Under the 08/19 scheduling order, the complaint and the injunction motion were filed on 08/18; the government&rsquo;s response was due 08/31; and the hearing takes place on 09/03.",
+    "The coalition argues the final rule violates the Administrative Procedure Act: DHS allegedly failed to adequately weigh costs and benefits, meaningfully respond to public comments, consider less burdensome alternatives, or justify the rule against its own stated objectives; it also alleges an inadequate comment period and that DHS exceeded its statutory authority. For counseling purposes, the practical point is unchanged: absent a contrary court order, the rule takes effect on <strong>09/15</strong>, replacing &ldquo;D/S&rdquo; with fixed admission periods (up to four years for F and J; a fixed term for I-status foreign-media representatives) and requiring an Extension of Stay (EOS) request with USCIS. Wednesday&rsquo;s hearing is the next milestone &mdash; an injunction could suspend the effective date days before 09/15."
+   ],
+   "src": "Official source: case filings &mdash; Complaint and motion for preliminary injunction, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, No. 1:26-cv-13799 (D. Mass., filed 08/18/2026) &middot; <a href=\"https://www.presidentsalliance.org/wp-content/uploads/2026/08/DS-Complaint-Presidents-Alliance-et-al-v.-DHS.pdf\">Complaint (PDF) ↗</a> &middot; docket: Civil Rights Litigation Clearinghouse &middot; <a href=\"https://clearinghouse.net/case/48393/\">clearinghouse.net/case/48393 ↗</a> &middot; final rule: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/\">Federal Register, 07/17/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>09/03 (Wed):</strong> hearing on the motion for a preliminary injunction against the end of &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., Judge F. Dennis Saylor IV, 11:00 a.m., Courtroom 1.",
+   "<strong>09/09:</strong> the expanded biometric fee (H-1B $4,000 / L-1 $4,500) begins to reach all extensions filed by covered employers.",
+   "<strong>09/15:</strong> effective date of the end of &ldquo;Duration of Status&rdquo; (F/J/I), absent a court order; new editions of Forms I-539 and I-765 take effect, <strong>with no grace period</strong>.",
+   "<strong>09/18:</strong> the new public charge rule and the revised Form I-485 (ed. 09/18/26) take effect.",
+   "<strong>09/24:</strong> public comment closes on the proposed $103,265 fee per cap-subject H-1B petition.",
+   "<strong>Second half of September:</strong> expected publication of the October Visa Bulletin (FY2027 reset) &mdash; not yet released (the most recent remains September 2026)."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "In effect",
+      "tagtype": "final",
+      "title": "Federal court in California blocks USCIS “hold” policies and certifies a class",
+      "deck": "On 08/24, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C., et al.",
+      "body": [
+       "On <strong>08/24</strong>, the U.S. District Court for the Northern District of California issued an order in <em>Red Eagle Law, L.C., et al. v. Edlow</em>, No. 3:26-cv-04850 (N.D. Cal.), <strong>enjoining USCIS from applying</strong> internal directives <strong>PM 602-0192</strong> and <strong>PM 602-0194</strong> &mdash; the &ldquo;hold and review&rdquo; policies that, since late 2025, had frozen adjudication of benefit applications for nationals of the countries reached by Presidential Proclamations 10949 and 10998. The Court ordered USCIS to <strong>adjudicate applications in the normal course</strong>, set a 30-day deadline to decide the named plaintiffs&rsquo; applications, and <strong>certified a class</strong>. USCIS acknowledged the order in a newsroom alert and stated it is complying."
+      ],
+      "src": "Official source: USCIS alert, &ldquo;Recent Court Order on Hold Policies&rdquo; &middot; <a href=\"https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies\">uscis.gov ↗</a> &middot; docket (No. 3:26-cv-04850): <a href=\"https://www.courtlistener.com/docket/73380879/red-eagle-law-lc-v-edlow/\">CourtListener ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Adjustment of Status",
+    "items": [
+     {
+      "tag": "In effect 09/18",
+      "tagtype": "final",
+      "title": "New public charge for the I-485: how USCIS will assess it — and the revised form that arrives with it",
+      "deck": "The final rule rescinding the 2022 public charge regulation takes effect on 09/18 and restores broad officer discretion to weigh the “totality of the circumstances.” The corresponding USCIS Policy Manual guidance draws…",
+      "body": [
+       "The final rule <strong>rescinding</strong> the 2022 public charge regulation takes effect on <strong>09/18</strong> and restores broad officer discretion to weigh the &ldquo;totality of the circumstances.&rdquo; The corresponding USCIS Policy Manual guidance draws the timeline: for benefits received <strong>before 09/18</strong>, an officer considers only public cash assistance for income maintenance and long-term institutionalization; for benefits received <strong>on or after 09/18</strong>, a broader range of public benefits may enter the totality analysis. The rule reaches adjustment applications (I-485) postmarked or electronically filed on or after 09/18 &mdash; the same date the revised <strong>Form I-485 (ed. 09/18/26)</strong> takes effect."
+      ],
+      "src": "Official source: DHS, &ldquo;Public Charge Ground of Inadmissibility&rdquo; &middot; <a href=\"https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility\">Federal Register, 07/20/2026 (2026-14539) ↗</a> &middot; USCIS Policy Manual &mdash; Updates &middot; <a href=\"https://www.uscis.gov/policy-manual/updates\">uscis.gov/policy-manual/updates ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed",
+      "tagtype": "prop",
+      "title": "$103,265 fee per cap-subject H-1B petition: public comment window open through 09/24",
+      "deck": "The public comment period remains open on the DHS proposal to impose a $103,265 fee, payable at filing, for all cap-subject H-1B petitions — including those eligible for the advanced-degree exemption (Master’s cap) — on…",
+      "body": [
+       "The public comment period remains open on the DHS proposal to impose a <strong>$103,265 fee</strong>, payable at filing, for <strong>all cap-subject H-1B petitions</strong> &mdash; including those eligible for the advanced-degree exemption (Master&rsquo;s cap) &mdash; on top of all other applicable fees. The NPRM was published in the <em>Federal Register</em> on 08/25 and opened a <strong>30-day comment period that closes on 09/24</strong>. Note the two tracks: this is the <strong>proposed rule</strong> (in comment), distinct from the $100,000 proclamation fee currently blocked in court. In practice, the proposal affects only new cap-subject filings; comments may be submitted through the official process while the window is open."
+      ],
+      "src": "Official source: DHS, &ldquo;Fee for Certain H-1B Petitions&rdquo; &middot; <a href=\"https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions\">Federal Register, 08/25/2026 (2026-17324) ↗</a>"
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Terça-feira, 1º de setembro de 2026",
+  "date_short": "01/09/2026",
+  "lead": {
+   "kicker": "Manchete do dia",
+   "headline": "Fim do “Duration of Status” entra na semana decisiva: resposta do governo protocolada; audiência da liminar nesta quarta (03/09)",
+   "deck": "A ação que tenta barrar a regra final do DHS — que substitui a admissão por “tempo de status” (F/J/I) por prazos fixos — chega ao seu ponto decisivo. Pelo cronograma fixado pelo juiz F. Dennis Saylor IV (D. Mass.), a resposta do governo vencia em 31/08 (prazo já encerrado) e a audiência do pedido de liminar (preliminary injunction) está marcada para quarta-feira, 03/09, às 11h, na Sala 1. A vigência da regra segue prevista para 15/09. Até aqui não há liminar nem TRO concedido.",
+   "body": [
+    "O caso &mdash; <em>Presidents&rsquo; Alliance on Higher Education and Immigration et al. v. U.S. Department of Homeland Security</em>, nº 1:26-cv-13799 (D. Mass.) &mdash; foi ajuizado em 18/08 por uma coalizão que reúne NAFSA, Presidents&rsquo; Alliance, AICUM, AFT, GLO (AFT Local 6516), UAW e The NewsGuild-CWA. Pela <em>scheduling order</em> de 19/08, a petição inicial e o pedido de liminar foram protocolados em 18/08; a resposta do governo tinha prazo até 31/08; e a audiência ocorre em 03/09.",
+    "A coalizão sustenta que a regra final viola a <em>Administrative Procedure Act</em>: o DHS não teria avaliado adequadamente custos e benefícios, respondido de forma consistente aos comentários públicos, considerado alternativas menos onerosas nem justificado a medida à luz de seus próprios objetivos; alega ainda período de comentário inadequado e extrapolação da autoridade legal. Para fins de aconselhamento, o ponto prático não mudou: enquanto não houver decisão judicial em contrário, a regra entra em vigor em <strong>15/09</strong>, trocando o &ldquo;D/S&rdquo; por períodos de admissão fixos (até quatro anos para F e J; prazo fixo para representantes de imprensa em status I) e exigindo pedido de prorrogação de estada (EOS) junto ao USCIS. A audiência de quarta é o próximo marco: uma eventual liminar poderia suspender a vigência dias antes de 15/09."
+   ],
+   "src": "Fonte oficial: peças do processo &mdash; Complaint e moção de <em>preliminary injunction</em>, <em>Presidents&rsquo; Alliance et al. v. DHS</em>, nº 1:26-cv-13799 (D. Mass., protocolo 18/08/2026) &middot; <a href=\"https://www.presidentsalliance.org/wp-content/uploads/2026/08/DS-Complaint-Presidents-Alliance-et-al-v.-DHS.pdf\">Complaint (PDF) ↗</a> &middot; ficha do processo: Civil Rights Litigation Clearinghouse &middot; <a href=\"https://clearinghouse.net/case/48393/\">clearinghouse.net/case/48393 ↗</a> &middot; regra final: <a href=\"https://www.federalregister.gov/documents/2026/07/17/2026-14439/\">Federal Register, 17/07/2026 (2026-14439) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>03/09 (quarta):</strong> audiência do pedido de liminar contra o fim do &ldquo;Duration of Status&rdquo; (F/J/I) &mdash; D. Mass., juiz F. Dennis Saylor IV, 11h, Sala 1.",
+   "<strong>09/09:</strong> a taxa biométrica ampliada (H-1B US$4.000 / L-1 US$4.500) passa a alcançar todas as prorrogações dos empregadores enquadrados.",
+   "<strong>15/09:</strong> vigência do fim do &ldquo;Duration of Status&rdquo; (F/J/I), salvo decisão judicial; entram em vigor as novas edições dos Formulários I-539 e I-765, <strong>sem período de carência</strong>.",
+   "<strong>18/09:</strong> entram em vigor o novo <em>public charge</em> e a edição revisada do Formulário I-485 (ed. 09/18/26).",
+   "<strong>24/09:</strong> encerra o comentário público sobre a proposta de taxa de US$103.265 por petição H-1B do teto.",
+   "<strong>2ª metade de setembro:</strong> publicação prevista do Visa Bulletin de outubro (reset do FY2027) &mdash; ainda não divulgado (o mais recente segue sendo o de setembro/2026)."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Vigente",
+      "tagtype": "final",
+      "title": "Tribunal federal na Califórnia bloqueia as políticas de “hold” do USCIS e certifica uma classe",
+      "deck": "Em 24/08, o Tribunal Distrital do Norte da Califórnia proferiu ordem em Red Eagle Law, L.C., et al. v.",
+      "body": [
+       "Em <strong>24/08</strong>, o Tribunal Distrital do Norte da Califórnia proferiu ordem em <em>Red Eagle Law, L.C., et al. v. Edlow</em>, nº 3:26-cv-04850 (N.D. Cal.), <strong>proibindo o USCIS de aplicar</strong> as diretrizes internas <strong>PM 602-0192</strong> e <strong>PM 602-0194</strong> &mdash; as políticas de &ldquo;<em>hold and review</em>&rdquo; que, desde o fim de 2025, vinham travando a adjudicação de pedidos de benefício de nacionais dos países alcançados pelas Proclamações 10949 e 10998. A Corte determinou que o USCIS volte a <strong>adjudicar os pedidos no curso normal</strong>, fixou prazo de 30 dias para decidir os pedidos dos autores nomeados e <strong>certificou uma classe</strong>. O próprio USCIS reconheceu a ordem em alerta de imprensa e informou estar cumprindo-a."
+      ],
+      "src": "Fonte oficial: USCIS, alerta &ldquo;Recent Court Order on Hold Policies&rdquo; &middot; <a href=\"https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies\">uscis.gov ↗</a> &middot; ficha do processo (nº 3:26-cv-04850): <a href=\"https://www.courtlistener.com/docket/73380879/red-eagle-law-lc-v-edlow/\">CourtListener ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "AOS — Ajuste de Status",
+    "items": [
+     {
+      "tag": "Vigente a partir de 18/09",
+      "tagtype": "final",
+      "title": "Novo public charge para o I-485: como o USCIS vai avaliar — e o Formulário revisado que entra junto",
+      "deck": "A regra final que rescinde o regulamento de public charge de 2022 tem vigência em 18/09 e devolve ao oficial ampla discricionariedade para pesar a “totalidade das circunstâncias”.",
+      "body": [
+       "A regra final que <strong>rescinde</strong> o regulamento de <em>public charge</em> de 2022 tem vigência em <strong>18/09</strong> e devolve ao oficial ampla discricionariedade para pesar a &ldquo;totalidade das circunstâncias&rdquo;. A orientação correspondente do <em>Policy Manual</em> do USCIS traça a linha temporal: para benefícios recebidos <strong>antes de 18/09</strong>, o oficial considera apenas assistência em dinheiro para manutenção de renda e institucionalização de longo prazo; para benefícios recebidos <strong>em 18/09 ou depois</strong>, um leque mais amplo de benefícios públicos pode entrar na análise da totalidade. A regra alcança pedidos de ajuste (I-485) postados ou protocolados eletronicamente em 18/09 ou depois, mesma data em que passa a valer a edição revisada do <strong>Formulário I-485 (ed. 09/18/26)</strong>."
+      ],
+      "src": "Fonte oficial: DHS, &ldquo;Public Charge Ground of Inadmissibility&rdquo; &middot; <a href=\"https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility\">Federal Register, 20/07/2026 (2026-14539) ↗</a> &middot; USCIS Policy Manual &mdash; Updates &middot; <a href=\"https://www.uscis.gov/policy-manual/updates\">uscis.gov/policy-manual/updates ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposto",
+      "tagtype": "prop",
+      "title": "Taxa de US$103.265 por petição H-1B do teto: janela de comentário público aberta até 24/09",
+      "deck": "Segue aberta a consulta pública sobre a proposta do DHS de instituir uma taxa de US$103.265, devida no ato do protocolo, para todas as petições H-1B sujeitas ao teto — inclusive as elegíveis à isenção por grau avançado…",
+      "body": [
+       "Segue aberta a consulta pública sobre a proposta do DHS de instituir uma <strong>taxa de US$103.265</strong>, devida no ato do protocolo, para <strong>todas as petições H-1B sujeitas ao teto</strong> &mdash; inclusive as elegíveis à isenção por grau avançado (<em>Master&rsquo;s cap</em>) &mdash; somada a todas as demais taxas aplicáveis. O NPRM foi publicado no <em>Federal Register</em> em 25/08 e abriu um <strong>prazo de comentários de 30 dias, que encerra em 24/09</strong>. Vale distinguir os dois trilhos: esta é a <strong>regra proposta</strong> (em comentário), diferente da taxa de US$100 mil por proclamação, hoje bloqueada em juízo. Na prática, a proposta atinge apenas novos protocolos sujeitos ao teto; comentários podem ser enviados pelo processo oficial enquanto a janela estiver aberta."
+      ],
+      "src": "Fonte oficial: DHS, &ldquo;Fee for Certain H-1B Petitions&rdquo; &middot; <a href=\"https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions\">Federal Register, 25/08/2026 (2026-17324) ↗</a>"
+     }
+    ]
+   }
+  ]
+ }
+}
