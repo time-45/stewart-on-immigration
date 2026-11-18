@@ -63,6 +63,7 @@ main{max-width:1180px;margin:0 auto;padding:26px 24px 10px}
 .sechead::after{content:"";flex:1;height:1px;background:var(--line)}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
 .grid.one{grid-template-columns:1fr}
+.grid > .item.wide{grid-column:1 / -1}
 .item{padding:2px 0 14px;margin-bottom:2px;border-bottom:1px solid var(--line)}
 .item h4{font-family:var(--serif);font-size:20px;line-height:1.25;letter-spacing:-.01em;margin:6px 0 7px;color:var(--ink)}
 .src{font-family:var(--sans);font-size:12px;color:var(--faint);margin-top:7px}
