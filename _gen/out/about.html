@@ -115,13 +115,29 @@ main{max-width:1180px;margin:0 auto;padding:26px 24px 10px}
 .secrule::after{content:"";flex:1;height:1px;background:var(--line)}
 .cards{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .ncard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;display:flex;flex-direction:column;box-shadow:var(--shadow);transition:transform .16s ease,box-shadow .22s ease;position:relative}
-.ncard:hover{transform:translateY(-2px);box-shadow:var(--shadow2)}
-.ncard h4{font-family:var(--serif);font-size:19px;line-height:1.22;letter-spacing:-.01em;margin:9px 0 7px;color:var(--ink)}
+.ncard:hover,.ncard:focus-within{transform:translateY(-2px);box-shadow:var(--shadow2)}
+/* link esticado: o card inteiro é clicável; botões/links reais ficam acima (z-index:2) */
+.cardlink{position:absolute;inset:0;z-index:1;border-radius:16px}
+.ncard .cfoot .iconbtn,.ncard .csrc a{position:relative;z-index:2}
+.ncard:hover h4{color:var(--accent)}
+.ncard h4{font-family:var(--serif);font-size:19px;line-height:1.22;letter-spacing:-.01em;margin:9px 0 7px;color:var(--ink);transition:color .15s}
 .ncard .cdeck{font-family:var(--sans);font-size:14.5px;line-height:1.5;color:var(--muted);margin:0 0 12px;flex:1}
 .ncard .cfoot{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:auto;padding-top:10px;border-top:1px solid var(--line)}
 .ncard .csrc{font-family:var(--sans);font-size:11.5px;color:var(--faint)}
 .ncard .csrc a{color:var(--accent2)}
 .ncard.span{grid-column:1 / -1}
+
+/* Feature em destaque na home */
+.featcard{grid-column:1 / -1;position:relative;display:flex;gap:22px;align-items:stretch;background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow);transition:transform .16s ease,box-shadow .22s ease}
+.featcard:hover,.featcard:focus-within{transform:translateY(-2px);box-shadow:var(--shadow2)}
+.featcard .fcimg{flex:0 0 38%;min-height:200px;background:linear-gradient(135deg,var(--accent),var(--accent2));background-size:cover;background-position:center}
+.featcard .fcbody{flex:1;min-width:0;padding:22px 26px;display:flex;flex-direction:column;justify-content:center}
+.featcard .fckick{font-family:var(--sans);font-size:11.5px;font-weight:800;letter-spacing:.11em;text-transform:uppercase;color:var(--accent)}
+.featcard h3{font-family:var(--serif);font-size:clamp(22px,3vw,30px);line-height:1.12;letter-spacing:-.02em;margin:8px 0 8px;color:var(--ink)}
+.featcard .fcdeck{font-family:var(--sans);font-size:15.5px;line-height:1.5;color:var(--muted);margin:0 0 12px}
+.featcard .fcmore{font-family:var(--sans);font-size:13.5px;font-weight:700;color:var(--accent2);display:inline-flex;align-items:center;gap:7px}
+.featcard .fcmore svg{width:15px;height:15px}
+@media(max-width:760px){.featcard{flex-direction:column}.featcard .fcimg{flex-basis:160px}}
 
 aside.rail{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
 .railcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:var(--shadow)}
