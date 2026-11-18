@@ -33,6 +33,13 @@ AVAIL = {"en","pt"}  # idiomas gerados nesta rodada; o seletor só aparece p/ o 
 
 def e(x): return html.escape(str(x), quote=True)
 
+def nav_links(items, active):
+    out=[]
+    for lab,h in items:
+        cls=' class="on"' if lab==active else ''
+        out.append(f'<a href="{h}"{cls}>{e(lab)}</a>')
+    return "".join(out)
+
 def head(title, desc=""):
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
@@ -42,7 +49,7 @@ def head(title, desc=""):
 
 def topbar(active, lang, lang_switch_href):
     items = NAV[lang]
-    nav = "".join(f'<a href="{h}"{" class=\"on\"" if lab==active else ""}>{e(lab)}</a>' for lab,h in items)
+    nav = nav_links(items, active)
     other = "pt" if lang=="en" else "en"
     lang_btn = ""
     if other in AVAIL:
@@ -247,7 +254,7 @@ def render_edition(d, lang):
 def topbar_rel(active, lang, lang_switch_href, prefix=""):
     """topbar com hrefs relativos a uma subpasta (edicoes/)."""
     items = [(lab, prefix+h) for lab,h in NAV[lang]]
-    nav = "".join(f'<a href="{h}"{" class=\"on\"" if lab==active else ""}>{e(lab)}</a>' for lab,h in items)
+    nav = nav_links(items, active)
     other = "pt" if lang=="en" else "en"
     lang_btn = ""
     if other in AVAIL:
