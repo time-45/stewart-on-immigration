@@ -158,6 +158,23 @@ aside.rail{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
 .panel h2{font-family:var(--serif);font-size:30px;letter-spacing:-.02em;margin:0 0 14px;color:var(--ink)}
 .panel p{font-family:var(--sans);font-size:16px;line-height:1.62;color:var(--ink);margin:.6em 0}
 .panel p.muted{color:var(--muted)}
+/* arquivo interativo */
+.arcbar{max-width:860px;margin:0 auto 6px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.arcsearch{flex:1;min-width:200px;font-family:var(--sans);font-size:15px;padding:12px 16px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+.arcsearch:focus{outline:none;border-color:var(--accent)}
+.arccount{font-family:var(--sans);font-size:13px;color:var(--muted);white-space:nowrap}
+.arccount b{color:var(--ink)}
+.yearchips{max-width:860px;margin:10px auto 2px;display:flex;flex-wrap:wrap;gap:8px}
+.ychip{font-family:var(--sans);font-size:13px;font-weight:600;padding:5px 13px;border-radius:999px;border:1px solid var(--line);color:var(--muted);background:var(--glass);cursor:pointer;transition:all .14s}
+.ychip:hover,.ychip.on{border-color:var(--accent);color:var(--ink)}
+.arcyear{max-width:860px;margin:22px auto 8px;font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent2);display:flex;align-items:center;gap:12px}
+.arcyear::after{content:"";flex:1;height:1px;background:var(--line)}
+.arcempty{max-width:860px;margin:30px auto;text-align:center;font-family:var(--sans);color:var(--muted)}
+.scrollhint{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:40;display:flex;flex-direction:column;align-items:center;gap:2px;font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--glass);border:1px solid var(--glassln);border-radius:999px;padding:7px 14px;backdrop-filter:blur(10px);box-shadow:var(--shadow);transition:opacity .3s;animation:hintbob 1.8s ease-in-out infinite}
+.scrollhint.hide{opacity:0;pointer-events:none}
+.scrollhint svg{width:15px;height:15px}
+@keyframes hintbob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(4px)}}
+@media (prefers-reduced-motion:reduce){.scrollhint{animation:none}}
 .arclist{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:2px}
 .arcrow{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:15px 20px;box-shadow:var(--shadow);transition:transform .14s,box-shadow .2s}
 .arcrow:hover{transform:translateY(-1px);box-shadow:var(--shadow2)}
