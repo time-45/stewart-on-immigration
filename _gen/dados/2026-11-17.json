@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-17",
+  "issue": 80,
+  "recent": [
+    {"date":"2026-11-16","label":"Nov 16"},
+    {"date":"2026-11-15","label":"Nov 15"},
+    {"date":"2026-11-14","label":"Nov 14"},
+    {"date":"2026-11-13","label":"Nov 13"},
+    {"date":"2026-11-12","label":"Nov 12"},
+    {"date":"2026-11-11","label":"Nov 11"}
+  ],
+  "all_editions": [
+    {"issue":80,"date":"2026-11-17","date_long":"Tuesday, November 17, 2026","headline":"PERM: the biggest overhaul in twenty years opens for comment"},
+    {"issue":79,"date":"2026-11-16","date_long":"Monday, November 16, 2026","headline":"Los Lorenzanas designated FTO and SDGT on the same day"},
+    {"issue":78,"date":"2026-11-15","date_long":"Saturday, November 15, 2026","headline":"HUD final rule: status verification across mixed-status households"},
+    {"issue":77,"date":"2026-11-14","date_long":"Friday, November 14, 2026","headline":"BIA week in review: Ontiveros-Diaz, G-M-T-, A-C-V-M-"},
+    {"issue":76,"date":"2026-11-13","date_long":"Thursday, November 13, 2026","headline":"BIA: Guatemalan women without a partner are not a particular social group"},
+    {"issue":75,"date":"2026-11-12","date_long":"Wednesday, November 12, 2026","headline":"Deference to prior approvals closes for comment"}
+  ],
+  "en": {
+    "date_long": "Tuesday, November 17, 2026",
+    "date_short": "11/17/2026",
+    "lead": {
+      "kicker": "Today's Lead · PERM & Labor Certification",
+      "headline": "PERM: the biggest overhaul in twenty years opens for comment",
+      "deck": "The Department of Labor publishes the proposal that rebuilds the labor market test at the heart of labor certification: a single 90-day recruitment period, a bar on employers who laid off in the same occupation, and the end of Schedule A. Nothing is in effect yet — what begins today is the 60-day clock to comment.",
+      "body": [
+        "The Department of Labor (DOL), through its Employment and Training Administration, publishes today, Tuesday, November 17, the proposed rule “Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program” (RIN 1205-AC29). It is the most sweeping revision of permanent labor certification since PERM itself was created nearly twenty years ago, and it strikes at the core of the most common employment path to a green card: the test an employer must pass to prove that no U.S. worker was available, qualified, and willing to take the job.",
+        "The first thing to fix in mind is that nothing changes today. This is a proposal, not a final rule: the current regime under 20 CFR Part 656 continues to govern in full until — and unless — a final rule takes effect. What today’s publication opens is a 60-day public comment period, closing on January 16, 2027, received through regulations.gov under docket ETA-2026-0133. Anyone with a PERM case on the horizon should use that window: it is the formal chance for the business and legal community to tell DOL what works and what would make sponsorship unworkable.",
+        "The proposed design is aggressive on three fronts. Recruitment would stop being a collection of discrete steps anchored by a printed newspaper ad and become a single advertising period of at least 90 calendar days through electronic channels, with the recruitment report filed with DOL at submission. Alongside it, a two-year bar would arise: an employer that has laid off U.S. workers in the same occupation — or a similar one — at the place of employment in the two years before the request would be blocked from filing. And Schedule A — the shortcut that waived recruitment for professional nurses, physical therapists, and people of exceptional ability in the sciences and arts — would be eliminated.",
+        "The practical reading for employers is twofold. For cases that must move now, today’s rule is still the familiar one — and a PERM filed under the current system remains governed by it. But anyone mapping a green-card calendar for 2027 and beyond should prepare for a labor market test that is longer, more heavily documented, and gated by a layoff screen that could, on its own, foreclose sponsorship."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — PERM Modernization NPRM ↗</a> · Comments: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a>"
+    },
+    "deadlines": [
+      "<b>Nov 30:</b> EB-5 fees rise — I-526 goes from US$3,675 to US$7,615. The <b>postmark</b> date controls, so a completed package should be filed by Nov 29. <span style=\"color:var(--faint)\">Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">FR 2026-20016 ↗</a></span>",
+      "<b>Dec 9:</b> DOL OALJ mandatory electronic filing takes effect. <span style=\"color:var(--faint)\">Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">FR 2026-22761 ↗</a></span>",
+      "<b>Jan 16, 2027:</b> PERM NPRM comment period closes (60 days). <span style=\"color:var(--faint)\">Official source: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov ETA-2026-0133 ↗</a></span>",
+      "<b>Pending:</b> the 60-day grace period (FR 2026-18631) and deference to prior approvals (FR 2026-20941) remain in comment review — both still in effect until a final rule issues."
+    ],
+    "sections": [
+      {
+        "head": "PERM & Labor Certification",
+        "items": [
+          {"tag":"Proposed rule","tagtype":"prop","title":"The two-year bar: layoffs would block the filing","deck":"A PERM could not be filed if U.S. workers in the same occupation were laid off at the worksite within the prior two years — and the duty to the laid-off worker would run through I-140 approval, with layoffs reported within five business days.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">FR 2026-23370 ↗</a>"},
+          {"tag":"Proposed rule","tagtype":"prop","title":"End of Schedule A: nurses and PTs return to the full process","deck":"Eliminating Schedule A would push professional nurses, physical therapists and people of exceptional ability back through the full labor market test before an employer could file — the change hospitals would feel fastest.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">FR 2026-23370 ↗</a>"},
+          {"tag":"Final rule","tagtype":"final","title":"DOL's OALJ: mandatory electronic filing begins December 9","deck":"One change is already certain: on December 9 electronic filing becomes mandatory before the Office of Administrative Law Judges, where H-1B and H-2A/H-2B enforcement disputes are heard.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">FR 2026-22761 ↗</a>"},
+          {"tag":"Watch","tagtype":"alert","title":"Today's clock: PERM still runs about ten months","deck":"Until the overhaul is final, today's system governs the calendar — averages near 300 days, PWDs on August requests. The 365-day rule for H-1B extensions beyond the sixth year gives no grace.","src":"Official source: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"}
+        ]
+      },
+      {
+        "head": "Rules & Agencies",
+        "items": [
+          {"tag":"Proposed rule","tagtype":"prop","title":"The 60-day grace period: still in effect, no final rule yet","deck":"DHS's proposal to eliminate the discretionary 60-day grace period (FR 2026-18631) is in comment review; until a final rule issues, a worker losing an H-1B, L-1, O-1, E or TN job may still remain up to 60 days to change employer or category.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">FR 2026-18631 ↗</a>"},
+          {"tag":"Proposed rule","tagtype":"prop","title":"Deference to prior approvals: build extensions like first petitions","deck":"DHS's proposal to rescind 8 CFR 214.1(c)(5) (FR 2026-20941) awaits decision; while deference still applies, building 2027 extensions with the evidentiary strength of a first petition hedges both outcomes.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">FR 2026-20941 ↗</a>"},
+          {"tag":"Final rule","tagtype":"final","title":"EB-5: under two weeks to file at the old fee schedule","deck":"New EB-5 fees apply to petitions postmarked on or after November 30: the I-526 rises from US$3,675 to US$7,615. Filing by November 29 saves more than US$3,900 on the I-526 alone.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">FR 2026-20016 ↗</a>"}
+        ]
+      },
+      {
+        "head": "Consular & Passports",
+        "items": [
+          {"tag":"In effect","tagtype":"final","title":"The first U.S. passport-by-internet pilot is now live","deck":"State's pilot accepting certain Form DS-11 applications online went live November 16 and runs through November 20, 2027 — for a newly naturalized citizen, possibly the fastest route to a first passport.","src":"Official source: <a href=\"https://www.federalregister.gov/d/2026-23317\">FR 2026-23317 ↗</a>"}
+        ]
+      },
+      {
+        "head": "In Perspective",
+        "items": [
+          {"tag":"Column","tagtype":"final","span":true,"title":"“Twenty years”: why PERM was itself a revolution","deck":"PERM was born in the Federal Register of December 27, 2004 (69 FR 77326) and took effect March 28, 2005, replacing a backlogged, paper-driven system with the attestation model under 20 CFR Part 656. Today's proposal is a revision of that same labor market test — a reminder that what is being rebuilt is itself only twenty years old.","src":"Official source: <a href=\"https://www.federalregister.gov/citation/69-FR-77326\">69 FR 77326 ↗</a>"}
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "date_long": "Terça-feira, 17 de novembro de 2026",
+    "date_short": "17/11/2026",
+    "lead": {
+      "kicker": "Manchete do dia · PERM & Labor Certification",
+      "headline": "PERM: a maior reforma em vinte anos entra em consulta pública",
+      "deck": "O Departamento do Trabalho publica a proposta que refaz o teste de mercado de trabalho no coração da certificação laboral: um único período de recrutamento de 90 dias, uma trava para empregadores que demitiram na mesma ocupação e o fim da Schedule A. Nada está em vigor ainda — o que começa hoje é o prazo de 60 dias para comentar.",
+      "body": [
+        "O Departamento do Trabalho (DOL), por sua Employment and Training Administration, publica hoje, terça-feira, 17 de novembro, a regra proposta “Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program” (RIN 1205-AC29). É a revisão mais ampla da certificação laboral permanente desde que o próprio PERM foi criado há quase vinte anos, e atinge o núcleo do caminho de emprego mais comum para o green card: o teste que o empregador precisa passar para provar que nenhum trabalhador americano estava disponível, qualificado e disposto a ocupar a vaga.",
+        "O primeiro ponto a fixar é que nada muda hoje. Isto é uma proposta, não uma regra final: o regime atual, sob o 20 CFR Part 656, continua a valer por inteiro até — e a menos que — uma regra final entre em vigor. O que a publicação de hoje abre é um prazo de comentários públicos de 60 dias, que se encerra em 16 de janeiro de 2027, recebidos pelo regulations.gov sob o docket ETA-2026-0133. Quem tem um caso de PERM no horizonte deve usar essa janela: é a chance formal de a comunidade jurídica e empresarial dizer ao DOL o que funciona e o que tornaria o patrocínio inviável.",
+        "O desenho proposto é agressivo em três frentes. O recrutamento deixaria de ser um conjunto de etapas isoladas ancoradas num anúncio impresso e passaria a ser um único período de divulgação de no mínimo 90 dias corridos por canais eletrônicos, com o relatório de recrutamento entregue ao DOL no protocolo. Ao lado disso, surge uma trava de dois anos: o empregador que tenha demitido trabalhadores americanos na mesma ocupação — ou em ocupação semelhante — no local de trabalho nos dois anos anteriores ficaria impedido de protocolar. E a Schedule A — o atalho que dispensava o recrutamento para enfermeiros, fisioterapeutas e pessoas de habilidade excepcional — seria eliminada.",
+        "A leitura prática para o empregador é dupla. Para casos que precisam andar agora, a regra de hoje ainda é a conhecida — e um PERM protocolado sob o sistema atual continua regido por ele. Mas quem planeja um calendário de green card para 2027 em diante deve se preparar para um teste de mercado de trabalho mais longo, mais documentado e barrado por um filtro de demissões que pode, sozinho, inviabilizar o patrocínio."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — PERM Modernization NPRM ↗</a> · Comentários: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a>"
+    },
+    "deadlines": [
+      "<b>30/11:</b> taxas do EB-5 sobem — o I-526 vai de US$3.675 para US$7.615. Vale a data do <b>carimbo postal</b>, então um pacote pronto deve ser protocolado até 29/11. <span style=\"color:var(--faint)\">Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">FR 2026-20016 ↗</a></span>",
+      "<b>09/12:</b> protocolo eletrônico obrigatório no OALJ do DOL entra em vigor. <span style=\"color:var(--faint)\">Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">FR 2026-22761 ↗</a></span>",
+      "<b>16/01/2027:</b> encerra o prazo de comentários do NPRM do PERM (60 dias). <span style=\"color:var(--faint)\">Fonte oficial: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov ETA-2026-0133 ↗</a></span>",
+      "<b>Pendentes:</b> o período de graça de 60 dias (FR 2026-18631) e a deferência às aprovações anteriores (FR 2026-20941) seguem em análise de comentários — ambos em vigor até sair regra final."
+    ],
+    "sections": [
+      {
+        "head": "PERM & Labor Certification",
+        "items": [
+          {"tag":"Regra proposta","tagtype":"prop","title":"A trava de dois anos: demissões barram o protocolo","deck":"Um PERM não poderia ser protocolado se trabalhadores americanos na mesma ocupação foram demitidos no local nos dois anos anteriores — e o dever para com o demitido se estenderia até a aprovação do I-140, com demissões reportadas em cinco dias úteis.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">FR 2026-23370 ↗</a>"},
+          {"tag":"Regra proposta","tagtype":"prop","title":"Fim da Schedule A: enfermeiros e fisioterapeutas voltam ao processo completo","deck":"Eliminar a Schedule A empurraria enfermeiros, fisioterapeutas e pessoas de habilidade excepcional de volta ao teste completo de mercado de trabalho antes de o empregador poder protocolar — a mudança que hospitais sentiriam mais rápido.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">FR 2026-23370 ↗</a>"},
+          {"tag":"Regra final","tagtype":"final","title":"OALJ do DOL: protocolo eletrônico obrigatório começa em 9 de dezembro","deck":"Uma mudança já é certa: em 9 de dezembro o protocolo eletrônico passa a ser obrigatório perante o Office of Administrative Law Judges, onde se julgam disputas de fiscalização de H-1B e H-2A/H-2B.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">FR 2026-22761 ↗</a>"},
+          {"tag":"Observar","tagtype":"alert","title":"O relógio de hoje: o PERM ainda leva cerca de dez meses","deck":"Até a reforma virar regra final, o sistema de hoje governa o calendário — média perto de 300 dias, PWDs em pedidos de agosto. A regra dos 365 dias para prorrogar o H-1B além do sexto ano não dá folga.","src":"Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"}
+        ]
+      },
+      {
+        "head": "Regras & Agências",
+        "items": [
+          {"tag":"Regra proposta","tagtype":"prop","title":"O período de graça de 60 dias: ainda em vigor, sem regra final","deck":"A proposta do DHS de eliminar o período de graça discricionário de 60 dias (FR 2026-18631) está em análise; até sair regra final, quem perde o emprego em H-1B, L-1, O-1, E ou TN ainda pode permanecer até 60 dias para trocar de empregador ou de categoria.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">FR 2026-18631 ↗</a>"},
+          {"tag":"Regra proposta","tagtype":"prop","title":"Deferência às aprovações anteriores: monte prorrogações como primeiras petições","deck":"A proposta do DHS de revogar o 8 CFR 214.1(c)(5) (FR 2026-20941) aguarda decisão; enquanto a deferência vale, montar as prorrogações de 2027 com a força probatória de uma primeira petição protege nos dois cenários.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">FR 2026-20941 ↗</a>"},
+          {"tag":"Regra final","tagtype":"final","title":"EB-5: menos de duas semanas para protocolar na tabela antiga","deck":"As novas taxas do EB-5 valem para petições carimbadas em ou após 30 de novembro: o I-526 sobe de US$3.675 para US$7.615. Protocolar até 29 de novembro economiza mais de US$3.900 só no I-526.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">FR 2026-20016 ↗</a>"}
+        ]
+      },
+      {
+        "head": "Consular & Passaportes",
+        "items": [
+          {"tag":"Em vigor","tagtype":"final","title":"O primeiro piloto de passaporte pela internet dos EUA já está no ar","deck":"O piloto do Departamento de Estado que aceita certos formulários DS-11 online começou em 16 de novembro e vai até 20 de novembro de 2027 — para um recém-naturalizado, talvez o caminho mais rápido para o primeiro passaporte.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23317\">FR 2026-23317 ↗</a>"}
+        ]
+      },
+      {
+        "head": "Em Perspectiva",
+        "items": [
+          {"tag":"Coluna","tagtype":"final","span":true,"title":"“Vinte anos”: por que o PERM já foi, ele mesmo, uma revolução","deck":"O PERM nasceu no Federal Register de 27 de dezembro de 2004 (69 FR 77326) e entrou em vigor em 28 de março de 2005, trocando um sistema congestionado e em papel pelo modelo de atestação do 20 CFR Part 656. A proposta de hoje é uma revisão desse mesmo teste de mercado de trabalho — lembrete de que o que está sendo refeito tem, ele próprio, só vinte anos.","src":"Fonte oficial: <a href=\"https://www.federalregister.gov/citation/69-FR-77326\">69 FR 77326 ↗</a>"}
+        ]
+      }
+    ]
+  }
+}
