@@ -93,8 +93,17 @@ def footer(lang):
 def tagclass(t):
     return {"final":"t-final","prop":"t-prop","alert":"t-alert","watch":"t-alert","effect":"t-final"}.get(t,"t-final")
 
+MON_EN = ["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+MON_PT = ["","jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"]
+def short_label(date, lang):
+    try:
+        y,m,dd = date.split("-"); m=int(m); dd=int(dd)
+        return f'{MON_EN[m]} {dd}' if lang=="en" else f'{dd} {MON_PT[m]}'
+    except Exception:
+        return date
+
 # ---------- HOME ----------
-def render_home(d, lang):
+def render_home(d, lang, index):
     L = d[lang]
     ed_href = f'edicoes/{d["date"]}-{lang}.html'
     lead = L["lead"]
@@ -140,8 +149,12 @@ def render_home(d, lang):
     # rail
     dl = L.get("deadlines", [])
     dl_html = "".join(f'<li>{x}</li>' for x in dl)
-    recent = d.get("recent", [])
-    chips = "".join(f'<a class="chip" href="edicoes/{r["date"]}-{lang}.html">{e(r["label"])}</a>' for r in recent)
+    recent = [r for r in index if r["date"] != d["date"]][:6]
+    chips = "".join(f'<a class="chip" href="edicoes/{r["date"]}-{lang}.html">{e(short_label(r["date"],lang))}</a>' for r in recent)
+    if not chips:
+        chips = ('<span style="font-family:var(--sans);font-size:13px;color:var(--muted)">'
+                 + ("Earlier editions will appear here as they publish." if lang=="en"
+                    else "As edições anteriores aparecem aqui conforme são publicadas.") + '</span>')
     rail_dl_h = "Deadlines &amp; What to Watch" if lang=="en" else "Prazos &amp; O que Observar"
     rail_rc_h = "Recent Editions" if lang=="en" else "Edições Recentes"
     see_all = "See the full archive" if lang=="en" else "Ver todo o arquivo"
@@ -159,15 +172,14 @@ def render_home(d, lang):
     return body
 
 # ---------- ARQUIVO ----------
-def render_archive(d, lang):
-    L = d[lang]
+def render_archive(d, lang, index):
     rows = []
-    alled = d.get("all_editions", [])
-    for r in alled:
+    for r in index:
+        meta = r.get(lang, {})
         rows.append(f'<a class="arcrow reveal" href="edicoes/{r["date"]}-{lang}.html">'
                     f'<span class="n">{("No." if lang=="en" else "Nº")} {r["issue"]}</span>'
-                    f'<span class="dt">{e(r["date_long"])}</span>'
-                    f'<span class="hl">{e(r["headline"])}</span>'
+                    f'<span class="dt">{e(meta.get("date_long",r["date"]))}</span>'
+                    f'<span class="hl">{e(meta.get("headline",""))}</span>'
                     f'<span class="lk">{("Open" if lang=="en" else "Abrir")} →</span></a>')
     h = "Archive" if lang=="en" else "Arquivo"
     sub = "Every edition of the bulletin, newest first." if lang=="en" else "Todas as edições do boletim, da mais recente para a mais antiga."
@@ -278,24 +290,46 @@ def topbar_rel(active, lang, lang_switch_href, prefix=""):
       '</div></header>'
     )
 
+def build_index(data_path):
+    """Monta a lista de TODAS as edições (mais nova primeiro) varrendo a pasta de dados.
+    Cada entrada: {date, issue, en:{date_long,headline}, pt:{...}}."""
+    ddir = os.path.dirname(os.path.abspath(data_path))
+    idx = []
+    for fn in os.listdir(ddir):
+        if not fn.endswith(".json") or fn.startswith("_"): continue
+        try:
+            j = json.load(open(os.path.join(ddir, fn), encoding="utf-8"))
+            if "date" not in j or "issue" not in j: continue
+        except Exception:
+            continue
+        entry = {"date": j["date"], "issue": j["issue"]}
+        for lg in ("en","pt"):
+            if lg in j:
+                entry[lg] = {"date_long": j[lg].get("date_long", j["date"]),
+                             "headline": j[lg].get("lead",{}).get("headline","")}
+        idx.append(entry)
+    idx.sort(key=lambda r: r["date"], reverse=True)
+    return idx
+
 def main():
     data_path = sys.argv[1] if len(sys.argv)>1 else os.path.join(HERE,"dados","2026-11-17.json")
     outdir = sys.argv[2] if len(sys.argv)>2 else os.path.join(HERE,"out")
     d = json.load(open(data_path, encoding="utf-8"))
+    index = build_index(data_path)
     os.makedirs(outdir, exist_ok=True)
     os.makedirs(os.path.join(outdir,"edicoes"), exist_ok=True)
     langs = [l for l in ("en","pt") if l in d]
     global AVAIL; AVAIL = set(langs)
     for lang in langs:
         home = "index.html" if lang=="en" else "index-pt.html"
-        open(os.path.join(outdir,home),"w",encoding="utf-8").write(render_home(d,lang))
+        open(os.path.join(outdir,home),"w",encoding="utf-8").write(render_home(d,lang,index))
         arc = "archive.html" if lang=="en" else "archive-pt.html"
-        open(os.path.join(outdir,arc),"w",encoding="utf-8").write(render_archive(d,lang))
+        open(os.path.join(outdir,arc),"w",encoding="utf-8").write(render_archive(d,lang,index))
         ab = "about.html" if lang=="en" else "about-pt.html"
         open(os.path.join(outdir,ab),"w",encoding="utf-8").write(render_about(d,lang))
         edp = os.path.join(outdir,"edicoes",f'{d["date"]}-{lang}.html')
         open(edp,"w",encoding="utf-8").write(render_edition(d,lang))
-    print("gerado:", ", ".join(langs), "->", outdir)
+    print("gerado:", ", ".join(langs), f"({len(index)} edições no índice) ->", outdir)
 
 if __name__=="__main__":
     main()
