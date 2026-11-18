@@ -13,6 +13,10 @@ import sys, os, re, json, html as _html
 def clean(s):
     return re.sub(r'\s+', ' ', s or '').strip()
 
+def text(s):
+    # texto puro: tira tags e DESESCAPA entidades (o gerador re-escapa com e())
+    return _html.unescape(clean(re.sub(r'<[^>]+>', '', s or '')))
+
 def inner(tag_html):
     # remove a tag externa, mantém o conteúdo interno (com HTML)
     m = re.match(r'^\s*<[^>]+>(.*)</[^>]+>\s*$', tag_html, re.S)
@@ -24,7 +28,7 @@ def tagtype_from_class(cls):
     return 'final'
 
 def first_sentences(text, maxlen=220):
-    t = clean(re.sub(r'<[^>]+>', '', text))
+    t = _html.unescape(clean(re.sub(r'<[^>]+>', '', text)))
     # pega até ~2 frases ou maxlen
     parts = re.split(r'(?<=[.!?])\s+', t)
     out = parts[0] if parts else t
@@ -49,7 +53,7 @@ def parse_lang(path):
         if md: date_short = md.group(1)
     # dateline: primeira <span> = data por extenso
     m = re.search(r'class="dateline">\s*<span>(.*?)</span>', h, re.S)
-    d['date_long'] = clean(re.sub(r'<[^>]+>', '', m.group(1))) if m else ''
+    d['date_long'] = text(m.group(1)) if m else ''
     d['date_short'] = date_short
     # LEAD
     m = re.search(r'<div class="lead">(.*?)</div>\s*<div class="sechead"', h, re.S)
@@ -60,9 +64,9 @@ def parse_lang(path):
     body = [clean(x) for x in re.findall(r'<p>(.*?)</p>', lead_html, re.S)]
     msrc = re.search(r'class="src">(.*?)</div>', lead_html, re.S)
     d['lead'] = {
-        'kicker': clean(re.sub(r'<[^>]+>', '', mk.group(1))) if mk else '',
-        'headline': clean(re.sub(r'<[^>]+>', '', mh.group(1))) if mh else '',
-        'deck': clean(re.sub(r'<[^>]+>', '', mde.group(1))) if mde else '',
+        'kicker': text(mk.group(1)) if mk else '',
+        'headline': text(mh.group(1)) if mh else '',
+        'deck': text(mde.group(1)) if mde else '',
         'body': body,
         'src': clean(msrc.group(1)) if msrc else ''
     }
@@ -73,7 +77,7 @@ def parse_lang(path):
     blocks = re.split(r'<div class="sechead"><h3>(.*?)</h3></div>', h)
     # blocks[0] = antes da 1ª sechead; depois alterna head, conteúdo
     for i in range(1, len(blocks), 2):
-        head = clean(re.sub(r'<[^>]+>', '', blocks[i]))
+        head = text(blocks[i])
         content = blocks[i+1] if i+1 < len(blocks) else ''
         # corta no próximo sechead/exped/disclaimer/foot
         content = re.split(r'<div class="(?:exped|disclaimer|foot)"', content)[0]
@@ -94,9 +98,9 @@ def parse_lang(path):
             ms = re.search(r'class="src">(.*?)</div>', seg, re.S)
             if not mh4: continue
             item = {
-                'tag': clean(re.sub(r'<[^>]+>', '', mtag.group(2))) if mtag else '',
+                'tag': text(mtag.group(2)) if mtag else '',
                 'tagtype': tagtype_from_class(mtag.group(1)) if mtag else 'final',
-                'title': clean(re.sub(r'<[^>]+>', '', mh4.group(1))),
+                'title': text(mh4.group(1)),
                 'deck': first_sentences(ps[0]) if ps else '',
                 'body': ps,
                 'src': clean(ms.group(1)) if ms else ''
