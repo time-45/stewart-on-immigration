@@ -1,0 +1,228 @@
+{
+ "date": "2026-11-19",
+ "issue": 82,
+ "en": {
+  "date_long": "Thursday, November 19, 2026",
+  "date_short": "11/19/2026",
+  "lead": {
+   "kicker": "Today's lead · Rules & Agencies",
+   "headline": "EB-5: the new fee schedule takes effect on November 30",
+   "deck": "The final rule that adjusts the fees for the immigrant-investor visa takes effect on November 30 — and it is measured by the postmark. On average, the program's fees rise by about 70%, and anyone who files on or after that date pays the new amount. Eleven days to go.",
+   "body": [
+    "The Department of Homeland Security, through U.S. Citizenship and Immigration Services (USCIS), published in the Federal Register the final rule “U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule” (FR 2026-20016; 91 FR 61940; RIN 1615-AC93), effective November 30, 2026. The rule adjusts every EB-5 petition fee — the program that grants a green card to a foreign national who invests in a U.S. enterprise and creates ten jobs — codifies the requirements of the EB-5 Reform and Integrity Act of 2022, creates a technology fee, and establishes the Integrity Fund fees and penalties. The rule is explicit about the trigger: “any application, petition, or request postmarked on or after this date must be accompanied by the fees established by this final rule.” In other words, anyone who manages to file — by postmark — on or before November 29 still pays the current schedule.",
+    "The size of the jump is the news of the day. By the agency's own estimate, the rule reaches about 16,600 EB-5 filings a year and raises the average fee by roughly 70.7% — an increase on the order of US$2,945.90 per filing on a weighted-average basis. The Integrity Fund fees rise 10% as an inflation adjustment: the I-526E fee goes from US$1,000 to US$1,100; the regional-center annual fee from US$10,000 to US$11,000; and, for larger regional centers, from US$20,000 to US$22,000. The full, form-by-form schedule appears in the new Form G-1055 included in the docket, and the adjustment comes alongside the creation of the new Form I-527.",
+    "There is a reason the increase looks so abrupt, and it lies within the rule itself. On November 12, 2025, the U.S. District Court for the District of Colorado, in Moody v. Noem, stayed the EB-5 fees DHS had set in its 2024 general fee schedule, holding that the EB-5 Reform Act barred the agency from adjusting the program's fees that way. DHS disagrees, but complied: since November 12, 2025, USCIS reverted to the EB-5 fees in effect until March 2024 — in practice, the 2016 amounts. It is against that older baseline, then, that the new schedule is measured; today's adjustment resets the fees to a level calculated specifically for the program's cost, under an EB-5-specific fee study.",
+    "For decision-makers, the takeaway is concrete. What changes is the price, not eligibility: the investment thresholds remain US$1,050,000, or US$800,000 in a targeted employment area (TEA) or infrastructure project. Anyone with an I-526/I-526E, an I-829, or a regional-center application (I-956/I-956F) ready, or nearly so, should weigh filing before November 30 to lock in the current fee — remembering that what counts is the postmark, not the date USCIS receives it. After that date, the cost of entering the program — and of maintaining it, for regional centers — becomes the new one."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Fee Rule (final rule, 91 FR 61940, effective 11/30/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Monday, 11/30:</strong> the new EB-5 fees take effect (FR 2026-20016) — measured by postmark: anything postmarked on or after that date pays the new amount.",
+   "<strong>Early December:</strong> the DOL updates its PERM and prevailing-wage processing times.",
+   "<strong>Tuesday, 12/09:</strong> mandatory electronic filing at the DOL's OALJ (FR 2026-22761).",
+   "<strong>Thursday, 12/17:</strong> the final rule on Board of Immigration Appeals appeals takes effect (FR 2026-23320) — for decisions issued on or after that date.",
+   "<strong>Monday, 01/19/2027:</strong> comments close on the PERM modernization proposal (docket ETA-2026-0133).",
+   "<strong>60-day grace period and deference to prior approvals:</strong> both remain in force while DHS has not published a final rule."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Precedent",
+      "tagtype": "final",
+      "title": "The Board narrows the appeal again: conjecture is not error, says Matter of K-L-S-",
+      "deck": "The Board of Immigration Appeals issued a new precedent decision, Matter of K-L-S-, 30 I&N Dec. 241 (BIA 2026), with two weighty rules on what makes an appeal viable.",
+      "body": [
+       "The Board of Immigration Appeals issued a new precedent decision, Matter of K-L-S-, 30 I&amp;N Dec. 241 (BIA 2026), with two weighty rules on what makes an appeal viable. First: presenting hypothetical arguments and suggested alternative views of the evidence is not enough to establish clear error in the Immigration Judge's factual findings — one must point to concrete error in the record, not reopen the evidentiary debate. Second: an appeal based merely on conjecture and speculation lacks an arguable basis in fact or in law, serves no purpose other than to create delay, and is legally inappropriate. The decision reinforces deference to the Judge's fact-finding and arrives in step with the EOIR's new appellate rule: that a thin appeal is, increasingly, dismissed outright. The practical lesson is the same as yesterday's — the evidence and every argument must be built before the Judge, because the appeal is no longer the place to test theories."
+      ],
+      "src": "Official source: <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Board of Immigration Appeals, Matter of K-L-S-, 30 I&amp;N Dec. 241 (BIA 2026), Interim Decision #4275 ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: still in force while DHS decides",
+      "deck": "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) remains under review of the comments, which closed on November 10, with no final rule published.",
+      "body": [
+       "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631) remains under review of the comments, which closed on November 10, with no final rule published. Until the Federal Register carries the final action, the benefit stands: a worker who loses a job in H-1B, L-1, O-1, E-1/E-2/E-3 or TN may remain up to 60 days (or until the end of the authorized stay, if shorter) to change employers or categories. It is the window that allows time to file a new petition — and while there is a risk it may disappear, anyone in those categories should keep a backup plan ready before any layoff."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference to prior approvals: comments closed, decision pending",
+      "deck": "Also awaiting a DHS decision is the proposal (FR 2026-20941) to rescind 8 CFR 214.1(c)(5) — the rule that today directs USCIS to respect a prior approval when adjudicating extensions of H-1B, L-1, O-1 and other I-129…",
+      "body": [
+       "Also awaiting a DHS decision is the proposal (FR 2026-20941) to rescind 8 CFR 214.1(c)(5) — the rule that today directs USCIS to respect a prior approval when adjudicating extensions of H-1B, L-1, O-1 and other I-129 categories, where the parties and facts are the same; comments closed on November 13. While deference remains in force, each extension still starts from the approval already granted; if the rule becomes final, USCIS may re-examine each request from scratch. The recommended approach does not change: building extension requests with the full evidentiary force of a first petition is the hedge against both scenarios."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Comments on the new PERM run through January 19 — and the layoff bar is the point to engage",
+      "deck": "The PERM modernization proposal (FR 2026-23370, RIN 1205-AC29) is in public comment, and the official deadline to comment runs through January 19, 2027, via regulations.gov, in docket ETA-2026-0133 — which already logs…",
+      "body": [
+       "The PERM modernization proposal (FR 2026-23370, RIN 1205-AC29) is in public comment, and the official deadline to comment runs through January 19, 2027, via regulations.gov, in docket ETA-2026-0133 — which already logs more than five hundred comments. Nothing changes today: 20 CFR Part 656 remains in force. But now is when employers and counsel have a formal voice to show the DOL what works and what makes sponsorship unworkable. The point most deserving of a well-grounded comment is the two-year bar: under the proposal, an employer that has laid off U.S. workers in the same occupation (or a similar occupation) at the worksite in the prior two years is barred from filing, with a duty to consider the laid-off worker through I-140 approval. Anyone planning green cards for 2027 should map the company's layoff history now and use the comment window."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM) ↗</a> · Comments: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a>"
+     },
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "DOL's OALJ: mandatory electronic filing from December 9",
+      "deck": "While the major PERM overhaul is only beginning to be debated, one certain change is near: on December 9 the DOL's final rule (FR 2026-22761) takes effect, making electronic filing mandatory in proceedings before the…",
+      "body": [
+       "While the major PERM overhaul is only beginning to be debated, one certain change is near: on December 9 the DOL's final rule (FR 2026-22761) takes effect, making electronic filing mandatory in proceedings before the Office of Administrative Law Judges (OALJ), with exceptions for good cause and for parties without counsel. The OALJ is where H-1B and H-2A/H-2B enforcement disputes are heard; an employer with a pending case, or at risk of one, needs access to the electronic system configured before that date, or risks missing defense deadlines."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing ↗</a>"
+     },
+     {
+      "tag": "Watch",
+      "tagtype": "alert",
+      "title": "Today's clock: PERM still around ten months, and it is what 2027 is planned around",
+      "deck": "Until the overhaul becomes a final rule, it is the current system that governs the calendar — and the DOL data keep the average around 300 days for PERM cases decided in the latest month, with the prevailing wage (PWD)…",
+      "body": [
+       "Until the overhaul becomes a final rule, it is the current system that governs the calendar — and the DOL data keep the average around 300 days for PERM cases decided in the latest month, with the prevailing wage (PWD) processing August requests. Adding the wage-determination, recruitment and review stages, an employer should count a little over a year between the PWD request and certification. And there is the deadline that does not forgive: to sustain H-1B extensions beyond the sixth year, the PERM must be filed at least 365 days before the beneficiary exhausts status — a count the proposal's longer recruitment only tightens."
+      ],
+      "src": "Official source: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "The EB-5 fee seesaw: how a Colorado ruling sent the fees back to 2016",
+      "deck": "To understand why the November 30 jump looks so steep, look at the back-and-forth of the past two years. In January 2024, in a sweeping fee overhaul, DHS adjusted nearly the entire USCIS schedule at once — EB-5 fees…",
+      "body": [
+       "To understand why the November 30 jump looks so steep, look at the back-and-forth of the past two years. In January 2024, in a sweeping fee overhaul, DHS adjusted nearly the entire USCIS schedule at once — EB-5 fees included — using a full cost-recovery model. Investors and regional centers went to court, and on November 12, 2025, in Moody v. Noem, the U.S. District Court for the District of Colorado stayed the EB-5 fees from that overhaul — holding that the EB-5 Reform and Integrity Act of 2022 required the program's fees to come from an EB-5-specific study, not the general schedule. The effect was abrupt: USCIS had to revert, for EB-5, to the amounts in effect before April 2024, which trace back to the 2016 schedule. For about a year, then, the program ran on fees nearly a decade old. The rule taking effect now is the government's answer to that defeat: rebuilt along the path the court pointed to, with the specific fee study Congress had required in 2022. The lesson is the usual one in administrative law — when an agency skips the step the statute commands, the shortcut charges interest: years of litigation, a trip back in time, and, in the end, a larger increase, concentrated on a single day."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Fee Rule, 91 FR 61940 (recital of Moody v. Noem, 2025 WL 3157554 (D. Colo.) and 89 FR 6194) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quinta-feira, 19 de novembro de 2026",
+  "date_short": "19/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · Regras & Agências",
+   "headline": "EB-5: as novas taxas valem a partir de 30 de novembro",
+   "deck": "A regra final que reajusta as taxas do visto por investimento entra em vigor em 30 de novembro — e vale pelo carimbo do correio. Na média, as taxas do programa sobem cerca de 70%, e quem protocolar a partir dessa data paga o valor novo. Faltam onze dias.",
+   "body": [
+    "O Department of Homeland Security, pela U.S. Citizenship and Immigration Services (USCIS), publicou no Federal Register a regra final “U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule” (FR 2026-20016; 91 FR 61940; RIN 1615-AC93), que entra em vigor em 30 de novembro de 2026. A regra reajusta todas as taxas das petições do EB-5 — o programa que concede o green card ao estrangeiro que investe em um empreendimento nos Estados Unidos e cria dez empregos —, codifica as exigências do EB-5 Reform and Integrity Act de 2022, cria uma taxa de tecnologia e institui as taxas e multas do Fundo de Integridade. O texto é taxativo quanto ao marco: “qualquer petição, requerimento ou pedido postado nessa data ou depois deve vir acompanhado das taxas” novas. Ou seja, quem conseguir protocolar — com carimbo do correio — até 29 de novembro ainda paga a tabela atual.",
+    "O tamanho do salto é a informação do dia. Pela própria estimativa da agência, a regra atinge cerca de 16.600 petições do EB-5 por ano e eleva o valor médio das taxas em torno de 70,7% — um acréscimo da ordem de US$ 2.945,90 por protocolo, na média ponderada. As taxas do Fundo de Integridade sobem 10% por correção da inflação: a do I-526E vai de US$ 1.000 para US$ 1.100; a taxa anual do centro regional, de US$ 10.000 para US$ 11.000; e, para os centros regionais maiores, de US$ 20.000 para US$ 22.000. A tabela completa, formulário a formulário, consta do novo Form G-1055 incluído no processo, e o reajuste acompanha a criação do novo Form I-527.",
+    "Há uma razão para o reajuste parecer tão abrupto, e ela está na própria regra. Em 12 de novembro de 2025, o tribunal federal do Distrito do Colorado, no caso Moody v. Noem, suspendeu as taxas de EB-5 que o DHS havia fixado na tabela geral de 2024, por entender que o EB-5 Reform Act impedia a agência de reajustar as taxas do programa por aquela via. O DHS discorda, mas cumpriu: desde 12 de novembro de 2025 a USCIS voltou a cobrar as taxas de EB-5 que vigoravam até março de 2024 — na prática, os valores de 2016. É contra essa base antiga, portanto, que a nova tabela é medida; o reajuste de agora recoloca as taxas num patamar calculado especificamente para o custo do programa, com um estudo de taxas próprio do EB-5.",
+    "Para quem decide, a leitura é objetiva. O que muda é o preço, não a elegibilidade: os pisos de investimento seguem em US$ 1.050.000, ou US$ 800.000 em área de emprego-alvo (TEA) ou projeto de infraestrutura. Quem tem um I-526/I-526E, um I-829 ou um pedido de centro regional (I-956/I-956F) pronto, ou quase, deve pesar o protocolo antes de 30 de novembro para travar a taxa atual — lembrando que o que conta é o carimbo do correio, não a data em que a USCIS recebe. Depois dessa data, o custo de entrar no programa — e de mantê-lo, no caso dos centros regionais — passa a ser o novo."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Fee Rule (regra final, 91 FR 61940, vigente 30/11/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Segunda-feira, 30/11:</strong> entram em vigor as novas taxas do EB-5 (FR 2026-20016) — valem pelo carimbo do correio: o que for postado nessa data ou depois paga o valor novo.",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente.",
+   "<strong>Terça-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL (FR 2026-22761).",
+   "<strong>Quinta-feira, 17/12:</strong> entra em vigor a regra final dos recursos no Board of Immigration Appeals (FR 2026-23320) — vale para decisões proferidas dessa data em diante.",
+   "<strong>Segunda-feira, 19/01/2027:</strong> encerra-se o prazo para comentar a proposta de modernização do PERM (processo ETA-2026-0133).",
+   "<strong>Período de graça de 60 dias e deferência às aprovações anteriores:</strong> seguem em vigor enquanto o DHS não publica regra final."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Precedente",
+      "tagtype": "final",
+      "title": "O Board volta a estreitar o recurso: conjectura não é erro, diz Matter of K-L-S-",
+      "deck": "O Board of Immigration Appeals publicou nova decisão precedente, Matter of K-L-S-, 30 I&N Dec. 241 (BIA 2026), com duas regras de peso sobre o que é um recurso admissível.",
+      "body": [
+       "O Board of Immigration Appeals publicou nova decisão precedente, Matter of K-L-S-, 30 I&amp;N Dec. 241 (BIA 2026), com duas regras de peso sobre o que é um recurso admissível. Primeira: apresentar argumentos hipotéticos e versões alternativas da prova não basta para demonstrar erro manifesto (“clear error”) nas conclusões de fato do juiz de imigração — é preciso apontar o erro concreto no registro, não reabrir o debate probatório. Segunda: o recurso fundado apenas em conjectura e especulação carece de base defensável em fato ou em direito, só serve para criar atraso e é juridicamente impróprio. A decisão reforça a deferência às conclusões de fato do juiz e chega no mesmo compasso da nova regra de recursos do EOIR: a de que o recurso frágil tende, cada vez mais, a ser encerrado de pronto. A lição prática é a mesma de ontem — a prova e cada argumento precisam ser construídos perante o juiz, porque o recurso deixou de ser o lugar para experimentar teses."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.justice.gov/eoir/volume-30\">EOIR — Board of Immigration Appeals, Matter of K-L-S-, 30 I&amp;N Dec. 241 (BIA 2026), Interim Decision #4275 ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: segue em vigor enquanto o DHS não decide",
+      "deck": "A proposta do DHS para eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) continua na análise dos comentários, encerrados em 10 de novembro, sem regra final publicada.",
+      "body": [
+       "A proposta do DHS para eliminar o período de graça discricionário de até 60 dias (FR 2026-18631) continua na análise dos comentários, encerrados em 10 de novembro, sem regra final publicada. Enquanto o Federal Register não trouxer o ato definitivo, o benefício permanece válido: quem perde o emprego em H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer até 60 dias (ou até o fim da validade do status, se for menor) para trocar de empregador ou mudar de categoria. É a janela que dá tempo de protocolar uma nova petição — e, enquanto houver risco de ela desaparecer, quem está nessas categorias deve manter um plano B pronto antes de qualquer demissão."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência às aprovações anteriores: comentários fechados, decisão à espera",
+      "deck": "Também aguarda definição do DHS a proposta (FR 2026-20941) de revogar o 8 CFR 214.1(c)(5) — a norma que hoje manda a USCIS respeitar a aprovação anterior ao julgar prorrogações de H-1B, L-1, O-1 e outras categorias do…",
+      "body": [
+       "Também aguarda definição do DHS a proposta (FR 2026-20941) de revogar o 8 CFR 214.1(c)(5) — a norma que hoje manda a USCIS respeitar a aprovação anterior ao julgar prorrogações de H-1B, L-1, O-1 e outras categorias do I-129, quando as partes e os fatos são os mesmos; os comentários fecharam em 13 de novembro. Enquanto a deferência segue em vigor, cada prorrogação ainda parte da aprovação já concedida; se a regra virar final, a USCIS poderá reexaminar cada pedido do zero. A conduta recomendada não muda: montar os pedidos de prorrogação com a mesma força probatória de uma primeira petição é o seguro contra os dois cenários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Comentários do novo PERM vão até 19 de janeiro — e a trava de demissões é o ponto a atacar",
+      "deck": "A proposta de modernização do PERM (FR 2026-23370, RIN 1205-AC29) está em consulta pública, e o prazo oficial para comentar vai até 19 de janeiro de 2027, pelo regulations.gov, no processo ETA-2026-0133 — que já…",
+      "body": [
+       "A proposta de modernização do PERM (FR 2026-23370, RIN 1205-AC29) está em consulta pública, e o prazo oficial para comentar vai até 19 de janeiro de 2027, pelo regulations.gov, no processo ETA-2026-0133 — que já registra mais de quinhentos comentários. Nada muda hoje: o 20 CFR Parte 656 segue em vigor. Mas é agora que empregadores e advogados têm voz formal para mostrar ao DOL o que funciona e o que inviabiliza o patrocínio. O ponto que mais merece um comentário fundamentado é a trava de dois anos: pela proposta, o empregador que tenha demitido trabalhadores americanos na mesma ocupação (ou em ocupação semelhante) no local de trabalho nos dois anos anteriores fica impedido de protocolar, com dever de considerar o demitido até a aprovação do I-140. Quem planeja green cards para 2027 deve desde já mapear o histórico de demissões da empresa e usar a janela de comentários."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM) ↗</a> · Comentários: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, processo ETA-2026-0133 ↗</a>"
+     },
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "OALJ do DOL: protocolo eletrônico obrigatório a partir de 9 de dezembro",
+      "deck": "Enquanto a grande reforma do PERM apenas começa a ser debatida, uma mudança já certa se aproxima: em 9 de dezembro entra em vigor a regra final do DOL (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos…",
+      "body": [
+       "Enquanto a grande reforma do PERM apenas começa a ser debatida, uma mudança já certa se aproxima: em 9 de dezembro entra em vigor a regra final do DOL (FR 2026-22761) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ), com exceções por justa causa e para partes sem advogado. É na OALJ que tramitam as disputas de fiscalização de H-1B e de H-2A/H-2B; o empregador com caso em andamento, ou sob risco de abertura, precisa ter o acesso ao sistema eletrônico configurado antes da data, sob pena de perder prazos de defesa."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing ↗</a>"
+     },
+     {
+      "tag": "Atenção",
+      "tagtype": "alert",
+      "title": "O relógio de hoje: PERM ainda em torno de dez meses, e é por ele que se planeja 2027",
+      "deck": "Até a reforma virar regra final, é o sistema atual que governa o calendário — e os dados do DOL mantêm a média em torno de 300 dias para os PERM decididos no último mês, com o salário prevalecente (PWD) processando…",
+      "body": [
+       "Até a reforma virar regra final, é o sistema atual que governa o calendário — e os dados do DOL mantêm a média em torno de 300 dias para os PERM decididos no último mês, com o salário prevalecente (PWD) processando pedidos de agosto. Somadas as etapas de determinação de salário, recrutamento e análise, o empregador deve contar pouco mais de um ano entre o pedido de PWD e a certificação. E há o prazo que não perdoa: para sustentar as prorrogações de H-1B além do sexto ano, o PERM precisa estar protocolado ao menos 365 dias antes de o beneficiário esgotar o status — contagem que a proposta de recrutamento mais longo só torna mais apertada."
+      ],
+      "src": "Fonte oficial: <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "A gangorra das taxas do EB-5: como uma decisão no Colorado fez os valores recuarem a 2016",
+      "deck": "Para entender por que o salto de 30 de novembro parece tão alto, é preciso olhar o vaivém dos últimos dois anos. Em janeiro de 2024, numa reforma geral de taxas, o DHS reajustou de uma vez quase toda a tabela da USCIS,…",
+      "body": [
+       "Para entender por que o salto de 30 de novembro parece tão alto, é preciso olhar o vaivém dos últimos dois anos. Em janeiro de 2024, numa reforma geral de taxas, o DHS reajustou de uma vez quase toda a tabela da USCIS, inclusive as do EB-5, usando um modelo de recuperação integral de custos. Investidores e centros regionais foram à Justiça, e em 12 de novembro de 2025, no caso Moody v. Noem, o tribunal federal do Distrito do Colorado suspendeu as taxas de EB-5 daquela reforma — concluindo que o EB-5 Reform and Integrity Act, de 2022, exigia que as taxas do programa saíssem de um estudo próprio do EB-5, e não da tabela geral. O efeito foi abrupto: a USCIS teve de voltar a cobrar, para o EB-5, os valores que vigoravam antes de abril de 2024, que remontam à tabela de 2016. Durante cerca de um ano, portanto, o programa funcionou com taxas de quase uma década atrás. A regra que entra em vigor agora é a resposta do governo a essa derrota: refeita pelo caminho que o tribunal apontou, com o estudo de taxas específico que o Congresso havia exigido em 2022. A lição é a de sempre no direito administrativo — quando a agência pula a etapa que a lei manda cumprir, o atalho cobra juros: anos de litígio, uma volta ao passado e, no fim, um reajuste maior, concentrado num único dia."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Fee Rule, 91 FR 61940 (recital de Moody v. Noem, 2025 WL 3157554 (D. Colo.) e 89 FR 6194) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}
