@@ -1,0 +1,222 @@
+{
+ "date": "2026-11-26",
+ "issue": 89,
+ "en": {
+  "date_long": "Thursday, November 26, 2026",
+  "date_short": "11/26/2026",
+  "lead": {
+   "kicker": "Today's lead · EB-5",
+   "headline": "The holiday tightens the EB-5 clock: the postmark window closes Monday",
+   "deck": "The new investor-visa fees take effect Monday, November 30, and they are governed by the postal postmark date. With Thanksgiving today and the weekend right behind it, essentially one clean mailing day — Friday, the 27th — is left to send a filing in at the old amount.",
+   "body": [
+    "The EB-5 final fee rule (FR 2026-20016; 91 FR 61940; RIN 1615-AC93; 8 CFR Parts 106 and 216) takes effect this Monday, November 30. What decides who pays which amount is not the date USCIS receives the case, but the postmark: anything mailed on or after November 30 pays the new fee, while anything mailed with an earlier postmark still captures the old one. That is where the holiday calendar bites. With Thanksgiving today, the 26th, the post offices and federal agencies closed, and the weekend to follow, Friday the 27th is essentially the last clean business day to secure a postmark before 11/30.",
+    "The increase is steep. USCIS estimates a weighted average rise of roughly 70 percent across the category's some 16,600 annual filings, raises the EB-5 Integrity Fund contribution by 10 percent, and creates a new Form I-527. The investment thresholds, by contrast, do not change: they remain US$1,050,000 in the standard case and US$800,000 in a targeted employment area (TEA). For the investor with a case ready to go, the arithmetic is plain — mailing in the next two business days, with proof of postmark, can mean thousands of dollars less in fees.",
+    "The discipline the date imposes is the usual one, only compressed by the holiday: finish the paperwork, choose a mail service that records the mailing date, and keep the receipt. After Monday, the door to the old amount is shut — and, unlike a merits deadline, this one does not roll to the next business day: it is the postmark line that counts."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (final rule, 91 FR 61940, effective 11/30/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Thursday, 11/26 (today):</strong> Thanksgiving holiday — USCIS, DOL, EOIR and the State Department closed; online services (filing and lookups) stay up, but deadlines that fall on the holiday roll to the next business day.",
+   "<strong>Friday, 11/27:</strong> last clean mailing day before the EB-5 fee increase — to capture the old amount, the filing must be sent with a postmark earlier than 11/30 (FR 2026-20016).",
+   "<strong>Monday, 11/30:</strong> the new EB-5 fees take effect (FR 2026-20016) — governed by the postal postmark date.",
+   "<strong>Early December:</strong> the DOL updates PERM and prevailing-wage processing times (FLAG).",
+   "<strong>Wednesday, 12/09:</strong> mandatory electronic filing at the DOL's OALJ (FR 2026-22761).",
+   "<strong>Thursday, 12/17:</strong> the BIA appellate final rule takes effect (FR 2026-23320) — the appeal window drops from 30 to 10 days, for decisions issued on or after that date.",
+   "<strong>Tuesday, 01/19/2027:</strong> the comment period on the PERM modernization proposal closes (docket ETA-2026-0133).",
+   "<strong>60-day grace period (FR 2026-18631) and deference to prior approvals (FR 2026-20941):</strong> comments closed; both remain in force while DHS has not published a final rule."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "On December 17, the BIA appeal window drops from 30 days to 10",
+      "deck": "The DOJ/EOIR final rule rewriting appellate practice at the Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Parts 1003, 1208 and 1240) takes effect on December 17, a Thursday.",
+      "body": [
+       "The DOJ/EOIR final rule rewriting appellate practice at the Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Parts 1003, 1208 and 1240) takes effect on December 17, a Thursday. Besides cutting the appeal period from 30 to 10 days (except on the merits of asylum), it makes summary affirmance — a single-member decision without a reasoned opinion — the default path, fixes briefing at 20 simultaneous days with no reply brief, and treats as waived any argument not stated in the Notice of Appeal. The backdrop is the backlog: the Board's inventory jumped from about 35,800 cases in fiscal 2017 to 325,800 in fiscal 2026. The rule applies to decisions issued on or after December 17 — it does not reach back to pending appeals — but it genuinely narrows the margin for anyone who must appeal from that date forward."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (final rule, 91 FR 73876, effective 12/17/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "Electronic filing becomes mandatory at the DOL's OALJ on December 9",
+      "deck": "On December 9, a Wednesday, the final rule (FR 2026-22761; 91 FR 70790) making electronic filing mandatory before the Department of Labor's Office of Administrative Law Judges (OALJ) takes effect, with good-cause…",
+      "body": [
+       "On December 9, a Wednesday, the final rule (FR 2026-22761; 91 FR 70790) making electronic filing mandatory before the Department of Labor's Office of Administrative Law Judges (OALJ) takes effect, with good-cause exceptions and an exception for parties without counsel. The OALJ is where H-1B and H-2A/H-2B enforcement disputes and PERM denial appeals (BALCA) are litigated. An employer with a live case, or one at risk of one, needs its access to the electronic system configured before the date — losing a defense deadline over a registration glitch is the kind of harm that cannot be undone."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing (final rule, 91 FR 70790, effective 12/09/2026) ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "PERM overhaul: the comment window shrinks between the holidays",
+      "deck": "The largest revision of PERM in twenty years (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; docket ETA-2026-0133), published on November 17, remains in public consultation — nothing has changed in 20 CFR Part 656, which…",
+      "body": [
+       "The largest revision of PERM in twenty years (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; docket ETA-2026-0133), published on November 17, remains in public consultation — nothing has changed in 20 CFR Part 656, which stays in force. The comment deadline runs to January 19, 2027, but the practical count is less generous than it looks: between Thanksgiving and the year-end recess, much of the working calendar disappears for anyone who must draft and file comments through regulations.gov. The proposal ends the printed newspaper advertisement and replaces it with a single electronic recruitment of at least 90 days, creates a two-year bar for an employer that laid off U.S. workers in the same or a similar occupation at the worksite, and abolishes Schedule A. In the operational background, FLAG portal data show labor certification averaging around 300 days of review. Anyone planning to comment should treat the coming weeks as shorter than the nominal deadline suggests."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM), 91 FR 73916 ↗</a> · Comments: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: consultation closed, the benefit still in force",
+      "deck": "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) had its comments closed on November 10, and the Federal Register has not yet carried the final…",
+      "body": [
+       "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) had its comments closed on November 10, and the Federal Register has not yet carried the final act. Until it does, the benefit stands: under 8 CFR 214.1(l)(2), when employment ends, the holder of an H-1B, L-1, O-1, E-1/E-2/E-3 or TN may remain lawfully in the United States for up to 60 days — or until the status expires, if sooner — to find a new sponsor, change category, or arrange departure. With the consultation now closed, the text can reappear at any time as a final rule, with an effective date of its own. Until then, each week is time in favor of anyone at risk of a layoff, and it pays to have the plan B assembled in advance, not after."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period (proposed rule, 91 FR 57807; comments closed 11/10/2026) ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference to prior approvals: the second undated proposal, also still in force",
+      "deck": "The second proposal without an effective date is the DHS move (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) to rescind 8 CFR 214.1(c)(5) — the norm that today requires USCIS to respect its own prior approval when…",
+      "body": [
+       "The second proposal without an effective date is the DHS move (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) to rescind 8 CFR 214.1(c)(5) — the norm that today requires USCIS to respect its own prior approval when adjudicating an extension of H-1B, L-1, O-1 and other I-129 categories, where the parties, facts, and activity are the same. Comments closed on November 13 and, as with the grace period, the final act has not issued: deference remains in force. While it holds, each extension starts from what the agency already recognized, and a routine renewal tends to stay routine. If the proposal becomes a final rule, the officer will be able to re-examine from scratch the eligibility he himself already approved — and a renewal that seemed assured becomes one that can be denied on a full re-examination. The defense is the one from before deference existed: build every extension request with the evidentiary force of a first petition."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility (proposed rule, 91 FR 65119; comments closed 11/13/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "The table and the oath: two civic faces of belonging",
+      "deck": "On a day when the whole country sits down to a table for a reason that is neither religious nor by blood, it is worth looking at the gesture that, in immigration law, is the legal mirror of that same idea: the…",
+      "body": [
+       "On a day when the whole country sits down to a table for a reason that is neither religious nor by blood, it is worth looking at the gesture that, in immigration law, is the legal mirror of that same idea: the naturalization oath of allegiance. Thanksgiving asks only that a person be present and willing to give thanks; citizenship asks something similar, cast in legal form. INA 337 (8 U.S.C. 1448) and 8 CFR 337.1 require the applicant, in open session, to renounce prior allegiance, promise to support the Constitution and the laws, and take on the civic obligations — to bear arms or perform service when the law requires, or work of national importance under civilian direction. No one is asked their faith; they are asked their civic commitment. It is the last door of a long process, and the one most like a seat at the table: a public act of belonging.",
+       "The symmetry has a history. The modern oath was fixed by regulation in 1929 and later anchored in the Immigration and Nationality Act of 1952, but the logic is the same one Lincoln invoked in 1863 when he turned the day of thanksgiving into a national, civic holiday: to gather people of diverse origins and creeds around a common loyalty, not a common doctrine. For those who came from abroad, the two dates rhyme. One celebrates what has already been harvested in the new country; the other formalizes the decision to make it, for good, one's own home. Between the two lies the quiet labor of years — the same labor that, today, many around the table have reason to be grateful for."
+      ],
+      "src": "Official source: <a href=\"https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapIII-partII-sec1448.htm\">INA 337 — 8 U.S.C. 1448 (govinfo) ↗</a> · <a href=\"https://www.ecfr.gov/current/title-8/chapter-V/subchapter-C/part-337/section-337.1\">8 CFR 337.1 — Oath of Allegiance (eCFR) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Quinta-feira, 26 de novembro de 2026",
+  "date_short": "26/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · EB-5",
+   "headline": "O feriado aperta o relógio do EB-5: a janela do carimbo fecha na segunda",
+   "deck": "As novas taxas do visto de investidor entram em vigor na segunda-feira, 30 de novembro, e valem pela data do carimbo do correio. Com a Ação de Graças hoje e o fim de semana logo adiante, resta praticamente um dia útil limpo de correio — a sexta-feira, 27 — para postar um protocolo ainda no valor antigo.",
+   "body": [
+    "A regra final de taxas do EB-5 (FR 2026-20016; 91 FR 61940; RIN 1615-AC93; 8 CFR Partes 106 e 216) entra em vigor nesta segunda-feira, 30 de novembro. O ponto que decide quem paga quanto não é a data em que a USCIS recebe o processo, e sim a data do carimbo do correio: o que for postado em 30 de novembro ou depois paga o valor novo; o que sair com carimbo anterior ainda captura o valor antigo. É aí que o calendário do feriado pesa. Com a Ação de Graças nesta quinta-feira, 26, os correios e as agências federais fechados, e o fim de semana em seguida, sobra essencialmente a sexta-feira, 27, como último dia útil limpo para garantir carimbo anterior a 30/11.",
+    "O reajuste é expressivo. A USCIS estima alta média ponderada em torno de 70% sobre os cerca de 16.600 protocolos anuais da categoria, eleva em 10% a contribuição ao EB-5 Integrity Fund e cria um novo Formulário I-527. Os pisos de investimento, esses, não mudam: seguem em US$1.050.000 no caso geral e US$800.000 em área-alvo de emprego (TEA). Para o investidor com o caso montado, a aritmética é direta — postar nos próximos dois dias úteis, com comprovante de carimbo, pode significar milhares de dólares a menos em taxa.",
+    "A disciplina que a data impõe é a de sempre, só que comprimida pelo feriado: fechar a papelada, escolher um serviço de correio que registre a data de postagem e guardar o comprovante. Depois de segunda-feira, a porta do valor antigo está fechada — e, ao contrário de um prazo de mérito, este não rola para o próximo dia útil: é a fronteira do carimbo que conta."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (regra final, 91 FR 61940, vigente 30/11/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Quinta-feira, 26/11 (hoje):</strong> feriado de Ação de Graças — USCIS, DOL, EOIR e Departamento de Estado fechados; serviços online (protocolo e consultas) seguem no ar, mas prazos que caiam no feriado rolam para o próximo dia útil.",
+   "<strong>Sexta-feira, 27/11:</strong> último dia útil limpo de correio antes do reajuste das taxas do EB-5 — para capturar o valor antigo, a postagem precisa sair com carimbo anterior a 30/11 (FR 2026-20016).",
+   "<strong>Segunda-feira, 30/11:</strong> entram em vigor as novas taxas do EB-5 (FR 2026-20016) — valem pela data do carimbo do correio.",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente (FLAG).",
+   "<strong>Quarta-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL (FR 2026-22761).",
+   "<strong>Quinta-feira, 17/12:</strong> entra em vigor a regra final dos recursos no Board of Immigration Appeals (FR 2026-23320) — o prazo de recurso cai de 30 para 10 dias, para decisões proferidas dessa data em diante.",
+   "<strong>Terça-feira, 19/01/2027:</strong> encerra-se o prazo para comentar a proposta de modernização do PERM (processo ETA-2026-0133).",
+   "<strong>Período de graça de 60 dias (FR 2026-18631) e deferência às aprovações anteriores (FR 2026-20941):</strong> comentários encerrados; ambos seguem em vigor enquanto o DHS não publica regra final."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Em 17 de dezembro, o prazo de recurso no BIA cai de 30 para 10 dias",
+      "deck": "A regra final do DOJ/EOIR que reescreve o rito de recursos no Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Partes 1003, 1208 e 1240) entra em vigor em 17 de dezembro, uma quinta-feira.",
+      "body": [
+       "A regra final do DOJ/EOIR que reescreve o rito de recursos no Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Partes 1003, 1208 e 1240) entra em vigor em 17 de dezembro, uma quinta-feira. Além de cortar o prazo de recurso de 30 para 10 dias (salvo mérito de asilo), ela torna a dispensa sumária — decisão por um único membro, sem opinião fundamentada — o caminho padrão, fixa o briefing em 20 dias simultâneos sem réplica e passa a tratar como renunciado o argumento que não constar do Notice of Appeal. O pano de fundo é o acúmulo: o estoque do Board saltou de cerca de 35,8 mil casos no exercício de 2017 para 325,8 mil no de 2026. A regra vale para as decisões proferidas a partir de 17 de dezembro — não retroage aos recursos já pendentes —, mas encurta de forma real a margem de quem precisar recorrer a partir dessa data."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (regra final, 91 FR 73876, vigente 17/12/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Protocolo eletrônico passa a ser obrigatório na OALJ do DOL em 9 de dezembro",
+      "deck": "Em 9 de dezembro, uma quarta-feira, entra em vigor a regra final (FR 2026-22761; 91 FR 70790) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ) do…",
+      "body": [
+       "Em 9 de dezembro, uma quarta-feira, entra em vigor a regra final (FR 2026-22761; 91 FR 70790) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ) do Departamento do Trabalho, com exceções por justa causa e para partes sem advogado. É na OALJ que tramitam as disputas de fiscalização de H-1B e de H-2A/H-2B e os recursos de denegação de PERM (BALCA). O empregador com caso em andamento, ou sob risco de abertura, precisa deixar o acesso ao sistema eletrônico configurado antes da data — perder um prazo de defesa por uma falha de cadastro é o tipo de dano que não se recupera."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing (regra final, 91 FR 70790, vigente 09/12/2026) ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Reforma do PERM: a janela de comentários encolhe entre os feriados",
+      "deck": "A maior revisão do PERM em vinte anos (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; processo ETA-2026-0133), publicada em 17 de novembro, segue em consulta pública — nada mudou no 20 CFR Parte 656, que continua em vigor.",
+      "body": [
+       "A maior revisão do PERM em vinte anos (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; processo ETA-2026-0133), publicada em 17 de novembro, segue em consulta pública — nada mudou no 20 CFR Parte 656, que continua em vigor. O prazo para comentar vai até 19 de janeiro de 2027, mas a conta prática é menos generosa do que parece: entre a Ação de Graças e o recesso de fim de ano, boa parte dos dias úteis some do calendário de quem precisa redigir e protocolar comentários via regulations.gov. A proposta acaba com o anúncio em jornal impresso e o substitui por um recrutamento eletrônico único de pelo menos 90 dias, cria uma trava de dois anos para o empregador que tenha demitido trabalhadores americanos na mesma ocupação ou em ocupação semelhante no local, e elimina a Schedule A. No pano de fundo operacional, os dados do portal FLAG mostram a certificação de trabalho com média em torno de 300 dias de análise. Quem pretende comentar deve tratar as próximas semanas como mais curtas do que o prazo nominal sugere."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM), 91 FR 73916 ↗</a> · Comentários: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, processo ETA-2026-0133 ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: consulta encerrada, benefício ainda em vigor",
+      "deck": "A proposta do DHS de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) teve os comentários encerrados em 10 de novembro, e o Federal Register ainda não traz o ato…",
+      "body": [
+       "A proposta do DHS de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) teve os comentários encerrados em 10 de novembro, e o Federal Register ainda não traz o ato final. Enquanto ele não sai, o benefício continua valendo: pela regra do 8 CFR 214.1(l)(2), quando o emprego termina, o titular de H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer legalmente nos Estados Unidos por até 60 dias — ou até o fim da validade do status, se este for menor — para encontrar novo patrocinador, mudar de categoria ou organizar a saída. Fechada a consulta, o texto pode reaparecer a qualquer momento como regra final, com data de vigência própria. Até lá, cada semana é tempo a favor de quem está sob risco de demissão, e vale ter o plano B montado antes, não depois."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period (regra proposta, 91 FR 57807; comentários encerrados em 10/11/2026) ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência às aprovações anteriores: a segunda proposta sem data, também em vigor",
+      "deck": "A segunda proposta sem data de vigência é a do DHS (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) para revogar o 8 CFR 214.1(c)(5) — a norma que hoje obriga a USCIS a respeitar a própria aprovação anterior ao julgar uma…",
+      "body": [
+       "A segunda proposta sem data de vigência é a do DHS (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) para revogar o 8 CFR 214.1(c)(5) — a norma que hoje obriga a USCIS a respeitar a própria aprovação anterior ao julgar uma prorrogação de H-1B, L-1, O-1 e outras categorias do I-129, quando as partes, os fatos e a atividade são os mesmos. Os comentários fecharam em 13 de novembro e, como no período de graça, o ato final não saiu: a deferência segue em vigor. Enquanto ela vale, cada prorrogação parte do que a agência já reconheceu, e a renovação de rotina tende a ser rotina. Se a proposta virar regra final, o oficial poderá reexaminar do zero a elegibilidade que ele mesmo já havia aprovado — e uma renovação que parecia garantida passa a poder ser negada por um reexame completo. A defesa é a de antes de a deferência existir: montar cada pedido de prorrogação com a força probatória de uma primeira petição."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility (regra proposta, 91 FR 65119; comentários encerrados em 13/11/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "A mesa e o juramento: as duas faces cívicas do pertencer",
+      "deck": "Num dia em que o país inteiro se senta à mesa por uma razão que não é religiosa nem de sangue, vale olhar para o gesto que, no direito de imigração, é o espelho jurídico dessa mesma ideia: o juramento de fidelidade da…",
+      "body": [
+       "Num dia em que o país inteiro se senta à mesa por uma razão que não é religiosa nem de sangue, vale olhar para o gesto que, no direito de imigração, é o espelho jurídico dessa mesma ideia: o juramento de fidelidade da naturalização. Thanksgiving pede apenas que a pessoa esteja presente e disposta a dar graças; a cidadania pede algo parecido, posto em fórmula legal. O INA 337 (8 U.S.C. 1448) e o 8 CFR 337.1 exigem que o candidato, em sessão pública, renuncie à fidelidade anterior, prometa defender a Constituição e as leis e assuma as obrigações cívicas — portar armas ou prestar serviço quando a lei exigir, ou trabalho de importância nacional sob direção civil. Não se pergunta a fé de ninguém; pergunta-se o compromisso cívico. É a última porta de um longo processo, e a mais parecida com um lugar à mesa: um ato público de pertencer.",
+       "A simetria tem história. O juramento moderno foi fixado por regulamento em 1929 e depois ancorado no Immigration and Nationality Act de 1952, mas a lógica é a mesma que Lincoln invocou em 1863 ao transformar a ação de graças num feriado nacional e cívico: reunir pessoas de origens e credos diversos em torno de uma lealdade comum, não de uma doutrina. Para quem veio de fora, as duas datas rimam. Uma celebra o que já se colheu no país novo; a outra formaliza a decisão de fazer dele, de vez, a própria casa. Entre uma e outra fica o trabalho silencioso de anos — o mesmo que, hoje, muita gente ao redor da mesa tem motivo para agradecer."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapIII-partII-sec1448.htm\">INA 337 — 8 U.S.C. 1448 (govinfo) ↗</a> · <a href=\"https://www.ecfr.gov/current/title-8/chapter-V/subchapter-C/part-337/section-337.1\">8 CFR 337.1 — Oath of Allegiance (eCFR) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}
