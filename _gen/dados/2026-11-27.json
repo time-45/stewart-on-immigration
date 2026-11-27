@@ -1,0 +1,220 @@
+{
+ "date": "2026-11-27",
+ "issue": 90,
+ "en": {
+  "date_long": "Friday, November 27, 2026",
+  "date_short": "11/27/2026",
+  "lead": {
+   "kicker": "Today's lead · EB-5",
+   "headline": "EB-5: the Friday that decides who still pays the old fee",
+   "deck": "The new investor-visa fees take effect on Monday, November 30, and whether a case pays the old fee or the new one turns on the postmark date. With yesterday's holiday and the weekend ahead, today is, in practice, the last clean mailing day to lock in the old fee — a gap that, on the category's weighted average, runs into thousands of dollars per filing.",
+   "body": [
+    "The EB-5 final fee rule (FR 2026-20016; 91 FR 61940; RIN 1615-AC93; 8 CFR Parts 106 and 216) takes effect this Monday, November 30. What decides how much each investor pays is not the date USCIS receives the filing, but the postmark date: anything mailed on or after November 30 pays the new amount; anything that goes out with an earlier postmark still secures the old one. That is why the calendar weighs so heavily this week. With Thanksgiving yesterday — agencies and post offices closed — and the weekend right behind it, today, Friday the 27th, is essentially the last clean mailing day to secure a postmark before 11/30.",
+    "The increase is steep. USCIS estimates a weighted average rise of roughly 70% across the category's some 16,600 annual filings, raises the EB-5 Integrity Fund contribution by 10%, and creates a new Form I-527. The investment thresholds do not change: they remain US$1,050,000 in the standard case and US$800,000 in a targeted employment area (TEA). For an investor whose case is ready, the arithmetic is plain — mailing today, with proof of postmark, can mean several thousand dollars less in fees.",
+    "The discipline the date imposes is the usual one, only with no slack: finish the paperwork, choose a mail service that records and proves the postmark date, and keep the receipt. This is not a merits deadline that would roll to the next business day if it fell on a holiday — it is the postmark line, and after today the next mailing day already lands under the new fees. Whoever is going to mail, mail with proof."
+   ],
+   "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (final rule, 91 FR 61940, effective 11/30/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Friday, 11/27 (today):</strong> the last clean mailing day before the EB-5 fee increase — to capture the old amount, the filing must go out with a postmark before 11/30 (FR 2026-20016).",
+   "<strong>Monday, 11/30:</strong> the new EB-5 fees take effect (FR 2026-20016) — they apply by the mail postmark date.",
+   "<strong>Early December:</strong> the DOL updates PERM and prevailing-wage processing times (FLAG).",
+   "<strong>Wednesday, 12/09:</strong> electronic filing becomes mandatory at the DOL's OALJ (FR 2026-22761).",
+   "<strong>Thursday, 12/17:</strong> the BIA appellate final rule takes effect (FR 2026-23320) — the appeal deadline drops from 30 days to 10, for decisions issued on or after that date.",
+   "<strong>Tuesday, 01/19/2027:</strong> the deadline closes to comment on the PERM modernization proposal (docket ETA-2026-0133).",
+   "<strong>The 60-day grace period (FR 2026-18631) and deference to prior approvals (FR 2026-20941):</strong> comments closed; both remain in force while DHS has not issued a final rule."
+  ],
+  "sections": [
+   {
+    "head": "Rules & Agencies",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "On December 17, the BIA appeal deadline drops from 30 days to 10",
+      "deck": "The DOJ/EOIR final rule rewriting appellate procedure at the Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Parts 1003, 1208 and 1240) takes effect on Thursday, December 17.",
+      "body": [
+       "The DOJ/EOIR final rule rewriting appellate procedure at the Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Parts 1003, 1208 and 1240) takes effect on Thursday, December 17. Beyond cutting the appeal deadline from 30 days to 10 (except on asylum merits), it makes summary affirmance — a single-member decision, with no reasoned opinion — the default path, sets briefing at 20 simultaneous days with no reply, and treats as waived any argument not stated in the Notice of Appeal. The backdrop is the backlog: the Board's pending stock jumped from about 35,800 cases in fiscal 2017 to 325,800 in fiscal 2026. The rule applies to decisions issued on or after December 17 — it does not reach back to pending appeals — but it genuinely narrows the margin for anyone who must appeal from that date on. Less than three weeks remain, and a 10-day window is short enough to require that the appeal strategy be built before the decision issues, not after."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (final rule, 91 FR 73876, effective 12/17/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Final rule",
+      "tagtype": "final",
+      "title": "Electronic filing becomes mandatory at the DOL's OALJ on December 9",
+      "deck": "On Wednesday, December 9, the final rule (FR 2026-22761; 91 FR 70790) takes effect making electronic filing mandatory in proceedings before the Department of Labor's Office of Administrative Law Judges (OALJ), with…",
+      "body": [
+       "On Wednesday, December 9, the final rule (FR 2026-22761; 91 FR 70790) takes effect making electronic filing mandatory in proceedings before the Department of Labor's Office of Administrative Law Judges (OALJ), with exceptions for good cause and for parties without counsel. The OALJ is where H-1B and H-2A/H-2B enforcement disputes and PERM denial appeals (BALCA) are heard. An employer with a case underway, or at risk of one being opened, needs electronic-system access configured before the date — missing a defense deadline over a registration glitch is the kind of harm that cannot be undone."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing (final rule, 91 FR 70790, effective 12/09/2026) ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "PERM overhaul: the comment window shrinks between the holidays",
+      "deck": "The largest revision of PERM in twenty years (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; docket ETA-2026-0133), published on November 17, remains in public comment — nothing has changed in 20 CFR Part 656, which stays…",
+      "body": [
+       "The largest revision of PERM in twenty years (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; docket ETA-2026-0133), published on November 17, remains in public comment — nothing has changed in 20 CFR Part 656, which stays in force. The deadline to comment runs through Tuesday, January 19, 2027, but the practical count is less generous than it looks: between Thanksgiving and the year-end recess, much of the working calendar disappears for anyone who needs to draft and file comments through regulations.gov. The proposal ends the print-newspaper advertisement and replaces it with a single electronic recruitment of at least 90 days, creates a two-year bar for an employer that has laid off U.S. workers in the same or a similar occupation at the worksite, and eliminates Schedule A. On the operational side, FLAG portal data show labor certification averaging around 300 days of review. Anyone planning to comment should treat the coming weeks as shorter than the nominal deadline suggests."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM), 91 FR 73916 ↗</a> · Comments: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, docket ETA-2026-0133 ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "The 60-day grace period: comment closed, the benefit still in force",
+      "deck": "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) had its comment period close on November 10, and the Federal Register does not yet carry the…",
+      "body": [
+       "The DHS proposal to eliminate the discretionary grace period of up to 60 days (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) had its comment period close on November 10, and the Federal Register does not yet carry the final action. Until it issues, the benefit still applies: under 8 CFR 214.1(l)(2), when employment ends, a holder of H-1B, L-1, O-1, E-1/E-2/E-3 or TN status may remain lawfully in the United States for up to 60 days — or until the end of the status validity, if sooner — to find a new sponsor, change category, or arrange departure. With comment closed, the text can reappear at any time as a final rule, with its own effective date. Until then, each week is time on the side of anyone at risk of layoff, and it is worth having the fallback built in advance, not after."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period (proposed rule, 91 FR 57807; comments closed 11/10/2026) ↗</a>"
+     },
+     {
+      "tag": "Proposed rule",
+      "tagtype": "prop",
+      "title": "Deference to prior approvals: the second undated proposal, also still in force",
+      "deck": "The other proposal without an effective date is the DHS rule (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) to rescind 8 CFR 214.1(c)(5) — the provision that today requires USCIS to respect its own prior approval when…",
+      "body": [
+       "The other proposal without an effective date is the DHS rule (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) to rescind 8 CFR 214.1(c)(5) — the provision that today requires USCIS to respect its own prior approval when adjudicating an extension of H-1B, L-1, O-1 and other I-129 categories, where the parties, the facts and the activity are the same. Comments closed on November 13 and, as with the grace period, the final action has not issued: deference remains in force. While it holds, each extension starts from what the agency has already recognized, and a routine renewal tends to stay routine. If the proposal becomes a final rule, the officer could re-examine from scratch the eligibility he himself once approved — and a renewal that looked assured becomes one that can be denied on full re-examination. The defense is the one from before deference existed: build each extension request with the evidentiary force of a first petition."
+      ],
+      "src": "Official source: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility (proposed rule, 91 FR 65119; comments closed 11/13/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "In Perspective",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "Where the investor visa came from — and why today's fee is only its latest chapter",
+      "deck": "The EB-5 now adjusting its fees is, at root, a creature of 1990. It was the Immigration Act of 1990 (Pub.",
+      "body": [
+       "The EB-5 now adjusting its fees is, at root, a creature of 1990. It was the Immigration Act of 1990 (Pub. L. 101-649) that created the employment-based fifth preference, employment creation, today codified at INA 203(b)(5) (8 U.S.C. 1153(b)(5)): a path to permanent residence open to those who invest capital in a new commercial enterprise and create at least ten jobs for U.S. workers. Two years later, in 1992, Congress added the regional center pilot program to that design, which allowed investments to be pooled and jobs to be counted indirectly — the machinery that turned EB-5 from a niche into an industry. The investment thresholds, in fact, are the same ones this increase preserves: the standard tier and the reduced tier for a targeted employment area both descend from that original architecture.",
+       "The most recent chapter before today's fee was the 2022 overhaul. After years of temporary authorizations and a lapse in which the regional center program actually expired, the EB-5 Reform and Integrity Act of 2022 reauthorized and rewrote the program, created the EB-5 Integrity Fund — funded by the very contributions this rule now raises by 10% — and tightened anti-fraud oversight. Seen from that angle, this Friday's rush to the postmark is not an isolated jolt: it is the point at which a policy more than three decades old adjusts its own price. Understanding the lineage helps the investor read the increase for what it is — the upkeep of an old program — rather than a sign of instability."
+      ],
+      "src": "Official source: <a href=\"https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4978.pdf\">Immigration Act of 1990, Pub. L. 101-649 (govinfo) ↗</a> · <a href=\"https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1153.htm\">INA 203(b)(5) — 8 U.S.C. 1153(b)(5) (govinfo) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ },
+ "pt": {
+  "date_long": "Sexta-feira, 27 de novembro de 2026",
+  "date_short": "27/11/2026",
+  "lead": {
+   "kicker": "Manchete do dia · EB-5",
+   "headline": "EB-5: a sexta-feira que decide quem ainda paga a taxa antiga",
+   "deck": "As novas taxas do visto de investidor entram em vigor na segunda-feira, 30 de novembro, e quem paga o valor antigo ou o novo se define pela data do carimbo do correio. Com o feriado de ontem e o fim de semana adiante, hoje é, na prática, o último dia útil limpo de correio para capturar o valor antigo — uma diferença que, na média da categoria, passa dos milhares de dólares por protocolo.",
+   "body": [
+    "A regra final de taxas do EB-5 (FR 2026-20016; 91 FR 61940; RIN 1615-AC93; 8 CFR Partes 106 e 216) entra em vigor nesta segunda-feira, 30 de novembro. O que decide quanto cada investidor paga não é a data em que a USCIS recebe o processo, e sim a data do carimbo: o que for postado em 30 de novembro ou depois paga o valor novo; o que sair com carimbo anterior ainda garante o valor antigo. É por isso que o calendário pesa tanto esta semana. Com a Ação de Graças ontem — agências e correios fechados — e o fim de semana logo em seguida, hoje, sexta-feira, 27, é essencialmente o último dia útil limpo para assegurar um carimbo anterior a 30/11.",
+    "O reajuste é grande. A USCIS estima alta média ponderada em torno de 70% sobre os cerca de 16.600 protocolos anuais da categoria, eleva em 10% a contribuição ao EB-5 Integrity Fund e cria um novo Formulário I-527. Os pisos de investimento não mudam: seguem em US$1.050.000 no caso geral e US$800.000 em área-alvo de emprego (TEA). Para o investidor com o caso pronto, a conta é objetiva — postar hoje, com comprovante de carimbo, pode significar vários milhares de dólares a menos em taxa.",
+    "A disciplina que a data impõe é a de sempre, só que sem folga: fechar a papelada, escolher um serviço de correio que registre e comprove a data de postagem e guardar o recibo. Este não é um prazo de mérito, que rolaria para o próximo dia útil se caísse em feriado — é a fronteira do carimbo, e depois de hoje o próximo dia útil de correio já cai sobre a vigência nova. Quem for postar, que poste com prova."
+   ],
+   "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20016\">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (regra final, 91 FR 61940, vigente 30/11/2026) ↗</a>"
+  },
+  "deadlines": [
+   "<strong>Sexta-feira, 27/11 (hoje):</strong> último dia útil limpo de correio antes do reajuste das taxas do EB-5 — para capturar o valor antigo, a postagem precisa sair com carimbo anterior a 30/11 (FR 2026-20016).",
+   "<strong>Segunda-feira, 30/11:</strong> entram em vigor as novas taxas do EB-5 (FR 2026-20016) — valem pela data do carimbo do correio.",
+   "<strong>Início de dezembro:</strong> o DOL atualiza os tempos de PERM e de salário prevalecente (FLAG).",
+   "<strong>Quarta-feira, 09/12:</strong> protocolo eletrônico obrigatório na OALJ do DOL (FR 2026-22761).",
+   "<strong>Quinta-feira, 17/12:</strong> entra em vigor a regra final dos recursos no Board of Immigration Appeals (FR 2026-23320) — o prazo de recurso cai de 30 para 10 dias, para decisões proferidas dessa data em diante.",
+   "<strong>Terça-feira, 19/01/2027:</strong> encerra-se o prazo para comentar a proposta de modernização do PERM (processo ETA-2026-0133).",
+   "<strong>Período de graça de 60 dias (FR 2026-18631) e deferência às aprovações anteriores (FR 2026-20941):</strong> comentários encerrados; ambos seguem em vigor enquanto o DHS não publica regra final."
+  ],
+  "sections": [
+   {
+    "head": "Regras & Agências",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Em 17 de dezembro, o prazo de recurso no BIA cai de 30 para 10 dias",
+      "deck": "A regra final do DOJ/EOIR que reescreve o rito de recursos no Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Partes 1003, 1208 e 1240) entra em vigor na quinta-feira, 17 de dezembro.",
+      "body": [
+       "A regra final do DOJ/EOIR que reescreve o rito de recursos no Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Partes 1003, 1208 e 1240) entra em vigor na quinta-feira, 17 de dezembro. Além de cortar o prazo de recurso de 30 para 10 dias (salvo mérito de asilo), ela torna a dispensa sumária — decisão por um único membro, sem opinião fundamentada — o caminho padrão, fixa o briefing em 20 dias simultâneos sem réplica e passa a tratar como renunciado o argumento que não constar do Notice of Appeal. O pano de fundo é o acúmulo: o estoque do Board saltou de cerca de 35,8 mil casos no exercício de 2017 para 325,8 mil no de 2026. A regra vale para as decisões proferidas a partir de 17 de dezembro — não retroage aos recursos já pendentes —, mas encurta de forma real a margem de quem precisar recorrer dessa data em diante. Faltam menos de três semanas, e o intervalo de 10 dias é curto o bastante para exigir que a estratégia de recurso esteja montada antes da decisão, não depois dela."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23320\">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (regra final, 91 FR 73876, vigente 17/12/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "PERM & Labor Certification",
+    "items": [
+     {
+      "tag": "Regra final",
+      "tagtype": "final",
+      "title": "Protocolo eletrônico passa a ser obrigatório na OALJ do DOL em 9 de dezembro",
+      "deck": "Na quarta-feira, 9 de dezembro, entra em vigor a regra final (FR 2026-22761; 91 FR 70790) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ) do Departamento…",
+      "body": [
+       "Na quarta-feira, 9 de dezembro, entra em vigor a regra final (FR 2026-22761; 91 FR 70790) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ) do Departamento do Trabalho, com exceções por justa causa e para partes sem advogado. É na OALJ que tramitam as disputas de fiscalização de H-1B e de H-2A/H-2B e os recursos de denegação de PERM (BALCA). O empregador com caso em andamento, ou sob risco de abertura, precisa deixar o acesso ao sistema eletrônico configurado antes da data — perder um prazo de defesa por uma falha de cadastro é o tipo de dano que não se recupera."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-22761\">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing (regra final, 91 FR 70790, vigente 09/12/2026) ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Reforma do PERM: a janela de comentários encolhe entre os feriados",
+      "deck": "A maior revisão do PERM em vinte anos (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; processo ETA-2026-0133), publicada em 17 de novembro, segue em consulta pública — nada mudou no 20 CFR Parte 656, que continua em vigor.",
+      "body": [
+       "A maior revisão do PERM em vinte anos (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; processo ETA-2026-0133), publicada em 17 de novembro, segue em consulta pública — nada mudou no 20 CFR Parte 656, que continua em vigor. O prazo para comentar vai até terça-feira, 19 de janeiro de 2027, mas a conta prática é menos generosa do que parece: entre a Ação de Graças e o recesso de fim de ano, boa parte dos dias úteis some do calendário de quem precisa redigir e protocolar comentários via regulations.gov. A proposta acaba com o anúncio em jornal impresso e o substitui por um recrutamento eletrônico único de pelo menos 90 dias, cria uma trava de dois anos para o empregador que tenha demitido trabalhadores americanos na mesma ocupação ou em ocupação semelhante no local, e elimina a Schedule A. No pano de fundo operacional, os dados do portal FLAG mostram a certificação de trabalho com média em torno de 300 dias de análise. Quem pretende comentar deve tratar as próximas semanas como mais curtas do que o prazo nominal sugere."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-23370\">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM), 91 FR 73916 ↗</a> · Comentários: <a href=\"https://www.regulations.gov/docket/ETA-2026-0133\">regulations.gov, processo ETA-2026-0133 ↗</a> · <a href=\"https://flag.dol.gov/processingtimes\">DOL/OFLC — FLAG Processing Times ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "High Skilled Individuals",
+    "items": [
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Período de graça de 60 dias: consulta encerrada, benefício ainda em vigor",
+      "deck": "A proposta do DHS de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) teve os comentários encerrados em 10 de novembro, e o Federal Register ainda não traz o ato…",
+      "body": [
+       "A proposta do DHS de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) teve os comentários encerrados em 10 de novembro, e o Federal Register ainda não traz o ato final. Enquanto ele não sai, o benefício continua valendo: pela regra do 8 CFR 214.1(l)(2), quando o emprego termina, o titular de H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer legalmente nos Estados Unidos por até 60 dias — ou até o fim da validade do status, se este for menor — para encontrar novo patrocinador, mudar de categoria ou organizar a saída. Fechada a consulta, o texto pode reaparecer a qualquer momento como regra final, com data de vigência própria. Até lá, cada semana é tempo a favor de quem está sob risco de demissão, e vale ter o plano B montado antes, não depois."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-18631\">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period (regra proposta, 91 FR 57807; comentários encerrados em 10/11/2026) ↗</a>"
+     },
+     {
+      "tag": "Regra proposta",
+      "tagtype": "prop",
+      "title": "Deferência às aprovações anteriores: a segunda proposta sem data, também em vigor",
+      "deck": "A outra proposta sem data de vigência é a do DHS (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) para revogar o 8 CFR 214.1(c)(5) — a norma que hoje obriga a USCIS a respeitar a própria aprovação anterior ao julgar uma…",
+      "body": [
+       "A outra proposta sem data de vigência é a do DHS (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) para revogar o 8 CFR 214.1(c)(5) — a norma que hoje obriga a USCIS a respeitar a própria aprovação anterior ao julgar uma prorrogação de H-1B, L-1, O-1 e outras categorias do I-129, quando as partes, os fatos e a atividade são os mesmos. Os comentários fecharam em 13 de novembro e, como no período de graça, o ato final não saiu: a deferência segue em vigor. Enquanto ela vale, cada prorrogação parte do que a agência já reconheceu, e a renovação de rotina tende a ser rotina. Se a proposta virar regra final, o oficial poderá reexaminar do zero a elegibilidade que ele mesmo já havia aprovado — e uma renovação que parecia garantida passa a poder ser negada por um reexame completo. A defesa é a de antes de a deferência existir: montar cada pedido de prorrogação com a força probatória de uma primeira petição."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.federalregister.gov/d/2026-20941\">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility (regra proposta, 91 FR 65119; comentários encerrados em 13/11/2026) ↗</a>"
+     }
+    ]
+   },
+   {
+    "head": "Em Perspectiva",
+    "items": [
+     {
+      "tag": "",
+      "tagtype": "final",
+      "title": "De onde veio o visto do investidor — e por que a taxa de hoje é só o capítulo mais recente",
+      "deck": "O EB-5 que agora reajusta suas taxas é, em origem, uma criatura de 1990. Foi o Immigration Act of 1990 (Pub.",
+      "body": [
+       "O EB-5 que agora reajusta suas taxas é, em origem, uma criatura de 1990. Foi o Immigration Act of 1990 (Pub. L. 101-649) que criou a quinta preferência baseada em emprego, a employment creation, hoje codificada no INA 203(b)(5) (8 U.S.C. 1153(b)(5)): um caminho para a residência permanente aberto a quem investe capital em um novo empreendimento comercial e cria pelo menos dez empregos para trabalhadores americanos. Dois anos depois, em 1992, o Congresso somou a esse desenho o programa-piloto dos centros regionais, que permitiu agrupar investimentos e contar empregos de forma indireta — a engrenagem que transformou o EB-5 de nicho em indústria. Os pisos de investimento, aliás, são os mesmos que o reajuste de agora preserva: o patamar geral e o patamar reduzido para área-alvo de emprego vêm dessa arquitetura original.",
+       "O capítulo mais recente antes da taxa de hoje foi a reforma de 2022. Depois de anos de autorizações provisórias e de um lapso em que o programa dos centros regionais chegou a expirar, o EB-5 Reform and Integrity Act of 2022 reautorizou e reescreveu o programa, criou o EB-5 Integrity Fund — custeado justamente pelas contribuições que a regra de agora eleva em 10% — e endureceu a fiscalização contra fraude. Vista desse ângulo, a corrida ao carimbo desta sexta-feira não é um sobressalto isolado: é o ponto em que uma política de mais de três décadas ajusta o próprio preço. Entender a linhagem ajuda o investidor a ler o reajuste pelo que ele é — manutenção de um programa antigo —, e não como sinal de instabilidade."
+      ],
+      "src": "Fonte oficial: <a href=\"https://www.govinfo.gov/content/pkg/STATUTE-104/pdf/STATUTE-104-Pg4978.pdf\">Immigration Act of 1990, Pub. L. 101-649 (govinfo) ↗</a> · <a href=\"https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partII-sec1153.htm\">INA 203(b)(5) — 8 U.S.C. 1153(b)(5) (govinfo) ↗</a>",
+      "span": true
+     }
+    ]
+   }
+  ]
+ }
+}
