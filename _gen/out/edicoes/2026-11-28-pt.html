@@ -1,0 +1,256 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Stewart on Immigration — Sábado, 28 de novembro de 2026</title><meta name="description" content="A semana entregou dois precedentes do Board of Immigration Appeals que endurecem a adjudicação — o prazo de recurso que não se prorroga e o exame médico que não se adia — e termina na véspera do primeiro de uma sequência de prazos de dezembro: as novas taxas do EB-5, que entram em vigor na segunda-feira, 30 de novembro, pela data do carimbo do correio."><style>/* Stewart on Immigration — design system (aprovado). Tokens + edição + home. */
+:root{
+  --paper:#f7f2e6;--card:#fffdf6;--ink:#1b1a17;--muted:#6a6355;--faint:#8c8575;--line:#e2d9c4;--hair:rgba(27,26,23,.10);
+  --accent:#8a1b1b;--accent2:#0f4c5c;--tagfb:#e2efe4;--tagf:#0f6e2e;--tagpb:#f4ecd8;--tagp:#8a5a00;--tagab:#f3e0e0;--taga:#8a1b1b;
+  --bar:rgba(247,242,230,.72);--baredge:rgba(255,255,255,.65);--glass:rgba(255,253,246,.62);--glassln:rgba(255,255,255,.5);
+  --shadow:0 1px 2px rgba(27,26,23,.05),0 8px 26px rgba(27,26,23,.08);--shadow2:0 2px 6px rgba(27,26,23,.08),0 18px 44px rgba(27,26,23,.14);
+  --bg1:#efe8d8;--bg2:#e7e9e4;
+  --serif:'Iowan Old Style',Georgia,'Times New Roman',serif;--sans:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root[data-theme=auto]{
+  --paper:#15181b;--card:#1b1f23;--ink:#ece7db;--muted:#a39c8e;--faint:#857e70;--line:#2c3137;--hair:rgba(255,255,255,.08);
+  --accent:#e6736b;--accent2:#5bc0d6;--tagfb:rgba(40,90,55,.4);--tagf:#7fd79a;--tagpb:rgba(90,70,20,.4);--tagp:#e5b865;--tagab:rgba(100,45,45,.4);--taga:#f0918a;
+  --bar:rgba(21,24,27,.72);--baredge:rgba(255,255,255,.08);--glass:rgba(27,31,35,.6);--glassln:rgba(255,255,255,.07);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.45);--shadow2:0 2px 6px rgba(0,0,0,.35),0 18px 44px rgba(0,0,0,.55);--bg1:#0f1316;--bg2:#141a1b;
+}}
+:root[data-theme=dark]{
+  --paper:#15181b;--card:#1b1f23;--ink:#ece7db;--muted:#a39c8e;--faint:#857e70;--line:#2c3137;--hair:rgba(255,255,255,.08);
+  --accent:#e6736b;--accent2:#5bc0d6;--tagfb:rgba(40,90,55,.4);--tagf:#7fd79a;--tagpb:rgba(90,70,20,.4);--tagp:#e5b865;--tagab:rgba(100,45,45,.4);--taga:#f0918a;
+  --bar:rgba(21,24,27,.72);--baredge:rgba(255,255,255,.08);--glass:rgba(27,31,35,.6);--glassln:rgba(255,255,255,.07);
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.45);--shadow2:0 2px 6px rgba(0,0,0,.35),0 18px 44px rgba(0,0,0,.55);--bg1:#0f1316;--bg2:#141a1b;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:linear-gradient(170deg,var(--bg1),var(--bg2));background-attachment:fixed;color:var(--ink);font-family:var(--serif);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+
+/* ===== barra superior (glass) ===== */
+.rprog{position:fixed;top:0;left:0;height:3px;width:0;background:linear-gradient(90deg,var(--accent),var(--accent2));z-index:60;transition:width .1s linear}
+.ebar{position:sticky;top:0;z-index:50;background:var(--bar);backdrop-filter:blur(22px) saturate(180%);-webkit-backdrop-filter:blur(22px) saturate(180%);border-top:1px solid var(--baredge);transition:box-shadow .3s ease}
+.ebar.scrolled{box-shadow:0 1px 0 var(--hair),0 10px 30px rgba(0,0,0,.10)}
+.ebar-in{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:11px 24px;font-family:var(--sans)}
+.ewm{font-family:var(--serif);font-weight:700;font-size:18px;letter-spacing:-.01em;color:var(--ink);white-space:nowrap}
+.ewm b{color:var(--accent)}
+.ebar nav{display:flex;gap:18px;margin-left:10px;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.ebar nav a{position:relative;padding:2px 0}
+.ebar nav a:hover{color:var(--accent)}
+.ebar nav a.on{color:var(--ink)}
+.ebar nav a.on::after{content:"";position:absolute;left:0;right:0;bottom:-3px;height:2px;background:var(--accent);border-radius:2px}
+.ebar .sp{flex:1}
+.eicon{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--glassln);background:var(--glass);color:var(--ink);font-family:var(--sans);font-size:12.5px;font-weight:600;letter-spacing:.04em;cursor:pointer;transition:transform .14s ease,box-shadow .2s ease}
+.eicon:hover{box-shadow:var(--shadow)}.eicon:active{transform:scale(.96)}
+.eicon svg{width:16px;height:16px;display:block}
+@media(max-width:760px){.ebar nav{display:none}.ewm{font-size:15px}.ebar-in{gap:9px;padding:10px 15px}}
+
+main{max-width:1180px;margin:0 auto;padding:26px 24px 10px}
+
+/* ===== página de EDIÇÃO (folha única) ===== */
+.sheet{max-width:1000px;margin:0 auto;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow2);padding:40px 56px 46px;position:relative;overflow:hidden}
+.sheet::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+.toprule{display:flex;justify-content:space-between;font-family:var(--sans);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--faint);border-bottom:1px solid var(--hair);padding-bottom:7px}
+.masthead{text-align:center;padding:6px 0 14px;border-bottom:1px solid var(--line)}
+.masthead h1{font-family:var(--serif);font-weight:700;letter-spacing:-.025em;margin:.08em 0;color:var(--ink);font-size:clamp(34px,6vw,54px)}
+.masthead .sub{font-family:var(--sans);font-size:12.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+.masthead .byline{font-family:var(--sans);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);font-weight:700;margin-top:4px}
+.dateline{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;font-family:var(--sans);font-size:12px;color:var(--muted);padding:9px 0;border-bottom:1px solid var(--line);margin-bottom:18px}
+.lead{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:10px}
+.kicker{font-family:var(--sans);font-size:12px;font-weight:800;letter-spacing:.11em;text-transform:uppercase;color:var(--accent)}
+.lead h2{font-family:var(--serif);font-size:clamp(26px,4.4vw,38px);letter-spacing:-.02em;line-height:1.08;margin:8px 0 10px;color:var(--ink)}
+.lead .deck{font-family:var(--sans);font-size:18px;line-height:1.5;color:var(--muted);margin:0 0 12px}
+.lead p,.item p{font-size:16.5px;line-height:1.62;margin:.45em 0;color:var(--ink);text-align:left}
+.sechead{display:flex;align-items:center;gap:12px;margin:22px 0 12px}
+.sechead h3{font-family:var(--sans);font-size:14.5px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--accent2);white-space:nowrap;margin:0}
+.sechead::after{content:"";flex:1;height:1px;background:var(--line)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.grid.one{grid-template-columns:1fr}
+.grid > .item.wide{grid-column:1 / -1}
+.item{padding:2px 0 14px;margin-bottom:2px;border-bottom:1px solid var(--line)}
+.item h4{font-family:var(--serif);font-size:20px;line-height:1.25;letter-spacing:-.01em;margin:6px 0 7px;color:var(--ink)}
+.src{font-family:var(--sans);font-size:12px;color:var(--faint);margin-top:7px}
+.src a{color:var(--accent2)}
+.sheet .src a:hover,.sheet p a:hover,.brief a:hover,.exped a:hover{text-decoration:underline}
+.tag{display:inline-block;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:3px 10px;border-radius:999px}
+.t-final{background:var(--tagfb);color:var(--tagf)}
+.t-prop{background:var(--tagpb);color:var(--tagp)}
+.t-alert{background:var(--tagab);color:var(--taga)}
+.brief{font-family:var(--sans);font-size:15px;line-height:1.5;margin:0;padding-left:18px}
+.brief li{margin:8px 0;padding-bottom:8px;border-bottom:1px dotted var(--line)}
+.brief a{color:var(--accent2)}
+.exped{margin-top:18px;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-family:var(--sans);font-size:13px;color:var(--muted);text-align:center}
+.exped a{color:var(--accent2);font-weight:700}
+.disclaimer{font-family:var(--sans);font-size:11.5px;line-height:1.5;color:var(--muted);background:var(--glass);border:1px solid var(--glassln);border-radius:12px;padding:11px 15px;margin-top:14px;backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+
+/* ===== rodapé compartilhado (ícones sociais) ===== */
+.sitefoot{max-width:1000px;margin:26px auto 40px;font-family:var(--sans);color:var(--faint)}
+.social{display:flex;justify-content:center;gap:18px;margin:8px 0}
+.social a{color:var(--muted);display:inline-flex;text-decoration:none;transition:color .15s}
+.social a:hover{color:var(--accent2)}
+.social svg{width:20px;height:20px;display:block}
+.contact{font-family:var(--sans);font-size:11.5px;text-align:center;color:var(--muted);margin-top:4px}
+.contact b{color:var(--ink);font-weight:600}
+.legal{font-size:11.5px;line-height:1.5;color:var(--faint);border-top:1px solid var(--line);padding-top:12px;margin-top:12px;max-width:760px;margin-left:auto;margin-right:auto;text-align:center}
+.stamp{font-family:var(--sans);font-size:12px;color:var(--faint);text-align:center;margin-top:8px}
+.stamp b{color:var(--muted)}
+
+/* ===== HOME (estilo Law360) ===== */
+.home{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:22px;align-items:start}
+.hero{grid-column:1 / -1;background:var(--card);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow2);padding:30px 34px 28px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0 0 auto 0;height:3px;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+.hero .eyebrow{display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-family:var(--sans);font-size:12px;letter-spacing:.04em;color:var(--faint)}
+.badge{display:inline-flex;align-items:center;gap:6px;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:4px 11px;border-radius:999px;background:var(--tagfb);color:var(--tagf)}
+.hero h2{font-family:var(--serif);font-size:clamp(30px,5vw,50px);line-height:1.05;letter-spacing:-.025em;margin:14px 0 10px;color:var(--ink)}
+.hero .deck{font-family:var(--sans);font-size:18px;line-height:1.5;color:var(--muted);margin:0 0 18px;max-width:64ch}
+.herobtns{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.btn{display:inline-flex;align-items:center;gap:8px;font-family:var(--sans);font-size:14px;font-weight:700;padding:11px 20px;border-radius:999px;cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);transition:transform .14s,box-shadow .2s,background .2s}
+.btn:hover{box-shadow:var(--shadow)}.btn:active{transform:scale(.97)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.primary:hover{box-shadow:0 8px 22px rgba(138,27,27,.3)}
+.btn svg{width:16px;height:16px}
+.iconbtn{display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--muted);cursor:pointer}
+.iconbtn:hover{color:var(--accent2);box-shadow:var(--shadow)}
+.iconbtn svg{width:16px;height:16px}
+
+.col-main{min-width:0;display:flex;flex-direction:column;gap:6px}
+.secrule{display:flex;align-items:center;gap:12px;margin:18px 0 4px}
+.secrule h3{font-family:var(--sans);font-size:14px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:var(--accent2);margin:0;white-space:nowrap}
+.secrule::after{content:"";flex:1;height:1px;background:var(--line)}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.ncard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;display:flex;flex-direction:column;box-shadow:var(--shadow);transition:transform .16s ease,box-shadow .22s ease;position:relative}
+.ncard:hover,.ncard:focus-within{transform:translateY(-2px);box-shadow:var(--shadow2)}
+/* link esticado: o card inteiro é clicável; botões/links reais ficam acima (z-index:2) */
+.cardlink{position:absolute;inset:0;z-index:1;border-radius:16px}
+.ncard .cfoot .iconbtn,.ncard .csrc a{position:relative;z-index:2}
+.ncard:hover h4{color:var(--accent)}
+.ncard h4{font-family:var(--serif);font-size:19px;line-height:1.22;letter-spacing:-.01em;margin:9px 0 7px;color:var(--ink);transition:color .15s}
+.ncard .cdeck{font-family:var(--sans);font-size:14.5px;line-height:1.5;color:var(--muted);margin:0 0 12px;flex:1}
+.ncard .cfoot{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:auto;padding-top:10px;border-top:1px solid var(--line)}
+.ncard .csrc{font-family:var(--sans);font-size:11.5px;color:var(--faint)}
+.ncard .csrc a{color:var(--accent2)}
+.ncard.span{grid-column:1 / -1}
+
+/* Feature em destaque na home */
+.featcard{grid-column:1 / -1;position:relative;display:flex;gap:22px;align-items:stretch;background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow);transition:transform .16s ease,box-shadow .22s ease}
+.featcard:hover,.featcard:focus-within{transform:translateY(-2px);box-shadow:var(--shadow2)}
+.featcard .fcimg{flex:0 0 38%;min-height:200px;background:linear-gradient(135deg,var(--accent),var(--accent2));background-size:cover;background-position:center}
+.featcard .fcbody{flex:1;min-width:0;padding:22px 26px;display:flex;flex-direction:column;justify-content:center}
+.featcard .fckick{font-family:var(--sans);font-size:11.5px;font-weight:800;letter-spacing:.11em;text-transform:uppercase;color:var(--accent)}
+.featcard h3{font-family:var(--serif);font-size:clamp(22px,3vw,30px);line-height:1.12;letter-spacing:-.02em;margin:8px 0 8px;color:var(--ink)}
+.featcard .fcdeck{font-family:var(--sans);font-size:15.5px;line-height:1.5;color:var(--muted);margin:0 0 12px}
+.featcard .fcmore{font-family:var(--sans);font-size:13.5px;font-weight:700;color:var(--accent2);display:inline-flex;align-items:center;gap:7px}
+.featcard .fcmore svg{width:15px;height:15px}
+@media(max-width:760px){.featcard{flex-direction:column}.featcard .fcimg{flex-basis:160px}}
+
+aside.rail{display:flex;flex-direction:column;gap:18px;position:sticky;top:70px}
+.railcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;box-shadow:var(--shadow)}
+.railcard h3{font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:var(--accent2);margin:0 0 12px}
+.railcard ul{font-family:var(--sans);font-size:14px;line-height:1.5;margin:0;padding-left:18px;color:var(--ink)}
+.railcard li{margin:9px 0;padding-bottom:9px;border-bottom:1px dotted var(--line)}
+.railcard li:last-child{border-bottom:0}
+.railcard a{color:var(--accent2)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{font-family:var(--sans);font-size:13px;font-weight:600;padding:6px 13px;border-radius:999px;border:1px solid var(--line);color:var(--muted);background:var(--glass);transition:all .14s}
+.chip:hover{border-color:var(--accent);color:var(--ink)}
+.railmore{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:13px;font-weight:700;color:var(--accent2);margin-top:14px}
+.railmore svg{width:15px;height:15px}
+
+/* About / páginas simples */
+.panel{max-width:860px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow2);padding:34px 40px}
+.panel h2{font-family:var(--serif);font-size:30px;letter-spacing:-.02em;margin:0 0 14px;color:var(--ink)}
+.panel p{font-family:var(--sans);font-size:16px;line-height:1.62;color:var(--ink);margin:.6em 0}
+.panel p.muted{color:var(--muted)}
+/* arquivo interativo */
+.arcbar{max-width:860px;margin:0 auto 6px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.arcsearch{flex:1;min-width:200px;font-family:var(--sans);font-size:15px;padding:12px 16px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+.arcsearch:focus{outline:none;border-color:var(--accent)}
+.arccount{font-family:var(--sans);font-size:13px;color:var(--muted);white-space:nowrap}
+.arccount b{color:var(--ink)}
+.yearchips{max-width:860px;margin:10px auto 2px;display:flex;flex-wrap:wrap;gap:8px}
+.ychip{font-family:var(--sans);font-size:13px;font-weight:600;padding:5px 13px;border-radius:999px;border:1px solid var(--line);color:var(--muted);background:var(--glass);cursor:pointer;transition:all .14s}
+.ychip:hover,.ychip.on{border-color:var(--accent);color:var(--ink)}
+.arcyear{max-width:860px;margin:22px auto 8px;font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--accent2);display:flex;align-items:center;gap:12px}
+.arcyear::after{content:"";flex:1;height:1px;background:var(--line)}
+.arcempty{max-width:860px;margin:30px auto;text-align:center;font-family:var(--sans);color:var(--muted)}
+.scrollhint{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:40;display:flex;flex-direction:column;align-items:center;gap:2px;font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--glass);border:1px solid var(--glassln);border-radius:999px;padding:7px 14px;backdrop-filter:blur(10px);box-shadow:var(--shadow);transition:opacity .3s;animation:hintbob 1.8s ease-in-out infinite}
+.scrollhint.hide{opacity:0;pointer-events:none}
+.scrollhint svg{width:15px;height:15px}
+@keyframes hintbob{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(4px)}}
+@media (prefers-reduced-motion:reduce){.scrollhint{animation:none}}
+.arclist{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:2px}
+.arcrow{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:15px 20px;box-shadow:var(--shadow);transition:transform .14s,box-shadow .2s}
+.arcrow:hover{transform:translateY(-1px);box-shadow:var(--shadow2)}
+.arcrow .n{font-family:var(--sans);font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);white-space:nowrap}
+.arcrow .dt{font-family:var(--sans);font-size:12.5px;color:var(--faint);white-space:nowrap}
+.arcrow .hl{font-family:var(--serif);font-size:17px;line-height:1.25;color:var(--ink);flex:1 1 320px;min-width:0}
+.arcrow .lk{font-family:var(--sans);font-size:12px;color:var(--accent2);white-space:nowrap}
+
+.toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(20px);opacity:0;pointer-events:none;background:var(--ink);color:var(--paper);font-size:13px;font-weight:600;padding:10px 18px;border-radius:999px;z-index:80;transition:opacity .25s,transform .25s;box-shadow:var(--shadow2);font-family:var(--sans)}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+
+/* animação de entrada — só com JS (sem JS, tudo visível); respeita reduce-motion */
+html.js .reveal{opacity:0;transform:translateY(14px)}
+html.js .reveal.in{opacity:1;transform:none;transition:opacity .5s ease,transform .5s cubic-bezier(.22,.7,.2,1)}
+
+@media(max-width:900px){.home{grid-template-columns:1fr}aside.rail{position:static}.cards{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.sheet{padding:30px 22px 34px}.hero{padding:24px 22px}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}.reveal{opacity:1;transform:none}.rprog{transition:none}}
+@media print{.ebar,.rprog,.toast{display:none!important}.sheet{box-shadow:none!important;border:0!important;border-radius:0!important;max-width:none!important;padding:0!important}body{background:#fff!important}}
+</style></head><body><div class="rprog" id="rprog"></div><header class="ebar" id="ebar"><div class="ebar-in"><a class="ewm" href="../index-pt.html">Stewart <b>on</b> Immigration</a><nav><a href="../index-pt.html" class="on">Últimas</a><a href="../archive-pt.html">Arquivo</a><a href="../about-pt.html">Sobre</a></nav><span class="sp"></span><a class="eicon" href="2026-11-28-en.html" title="Read in English">EN</a><span style="position:relative"><button class="eicon" id="shareBtn" title="Share" aria-haspopup="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg></button><div class="shmenu" id="shMenu" style="position:absolute;right:0;top:42px;min-width:168px;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow2);padding:6px;display:none;flex-direction:column;z-index:70;font-family:var(--sans)"><button data-sh="copy" style="display:flex;align-items:center;gap:10px;padding:9px 11px;border:0;background:none;color:var(--ink);font-size:13px;font-weight:600;cursor:pointer;border-radius:9px;text-align:left;width:100%">Copy link</button><a data-sh="li" target="_blank" rel="noopener" style="display:flex;align-items:center;gap:10px;padding:9px 11px;color:var(--ink);font-size:13px;font-weight:600;border-radius:9px">LinkedIn</a><a data-sh="wa" target="_blank" rel="noopener" style="display:flex;align-items:center;gap:10px;padding:9px 11px;color:var(--ink);font-size:13px;font-weight:600;border-radius:9px">WhatsApp</a></div></span><button class="eicon" id="themeBtn" title="Theme" aria-label="Theme"><svg id="thIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div></header><main><div class="sheet" lang="pt"><div class="toprule"><span></span><span>Edição Nº 91 · 28/11/2026</span></div><div class="masthead"><h1>Stewart on Immigration</h1><div class="sub byline">Joel Stewart, P.A.</div></div><div class="dateline"><span>Sábado, 28 de novembro de 2026</span><span>Regras &amp; Agências &middot; PERM &amp; Labor Certification &middot; AOS — Ajuste de Status &middot; High Skilled Individuals &middot; Em Perspectiva</span></div><div class="lead"><div class="kicker">Edição de fim de semana · Panorama da semana</div><h2>Às vésperas de um dezembro de vigências, o Board estreita a margem da segunda chance</h2><div class="deck">A semana entregou dois precedentes do Board of Immigration Appeals que endurecem a adjudicação — o prazo de recurso que não se prorroga e o exame médico que não se adia — e termina na véspera do primeiro de uma sequência de prazos de dezembro: as novas taxas do EB-5, que entram em vigor na segunda-feira, 30 de novembro, pela data do carimbo do correio.</div><p>A semana foi curta no calendário: a Ação de Graças fechou agências e correios na quinta-feira e, com o feriado seguido do fim de semana, sobrou pouca folga para quem trabalha com prazos. Ainda assim, foram dias de peso. O Board of Immigration Appeals aproveitou os dias úteis para firmar dois precedentes que, juntos, apertam a adjudicação — e o país chega a este sábado na véspera do primeiro de uma sequência de datas que vão marcar dezembro.</p><p>Na segunda-feira, 23, o Board decidiu <em>Matter of Gomez Pacheco</em> (30 I&amp;N Dec. 249), fixando que o prazo de trinta dias para recorrer de uma decisão do juiz de imigração é regra obrigatória de tramitação — não comporta a prorrogação por equidade que alguns tribunais admitiam. No dia seguinte, em <em>Matter of Aguilar Ceballos</em> (30 I&amp;N Dec. 259), vetou a prática de deferir o ajuste de status com a condição de o imigrante entregar o exame médico (Formulário I-693) só depois: a admissibilidade tem de estar completa no momento da decisão, não prometida para o futuro. Os dois casos aparecem detalhados nas seções abaixo.</p><p>O calendário, por sua vez, começa a vencer. Na segunda-feira, 30 de novembro, entram em vigor as novas taxas do EB-5 (FR 2026-20016) — e o que decide quanto o investidor paga é a data do carimbo do correio, não a data em que a USCIS recebe o processo. Depois dela vêm o protocolo eletrônico obrigatório na OALJ do Departamento do Trabalho (9 de dezembro), o novo rito de recursos no próprio Board (17 de dezembro) e o fim do prazo para comentar a reforma do PERM (19 de janeiro de 2027). Para quem acompanha, dezembro é menos um mês de festas e mais uma sequência de datas a cumprir.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-20016">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (regra final, 91 FR 61940, vigente 30/11/2026) ↗</a></div></div><div class="sechead"><h3>Regras &amp; Agências</h3></div><div class="grid"><div class="item" id="segunda-feira-sobem-as-taxas-do-eb-5-e-vale-a-data-do-carimb" style="scroll-margin-top:72px"><span class="tag t-final">Regra final</span><h4>Segunda-feira: sobem as taxas do EB-5, e vale a data do carimbo</h4><p>A regra final de taxas do EB-5 (FR 2026-20016; 91 FR 61940; RIN 1615-AC93; 8 CFR Partes 106 e 216) entra em vigor nesta segunda-feira, 30 de novembro. O que define quanto cada investidor paga é a data do carimbo do correio: processo postado em 30 de novembro ou depois paga o valor novo; postado antes, com comprovante, ainda garante o valor antigo. A USCIS estima alta média ponderada em torno de 70% sobre os cerca de 16.600 protocolos anuais da categoria, eleva em 10% a contribuição ao EB-5 Integrity Fund e cria um novo Formulário I-527. Os pisos de investimento não mudam: seguem em US$1.050.000 no caso geral e US$800.000 em área-alvo de emprego (TEA). Para quem ainda vai postar neste fim de semana, a recomendação prática é uma só — usar um serviço que registre e comprove a data de postagem, e guardar o recibo.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-20016">Federal Register 2026-20016 — EB-5 Immigrant Investor Program Fees (regra final, 91 FR 61940, vigente 30/11/2026) ↗</a></div></div><div class="item" id="em-17-de-dezembro-o-prazo-de-recurso-no-board-cai-de-30-para" style="scroll-margin-top:72px"><span class="tag t-final">Regra final</span><h4>Em 17 de dezembro, o prazo de recurso no Board cai de 30 para 10 dias</h4><p>A regra final do DOJ/EOIR que reescreve o rito de recursos no Board of Immigration Appeals (FR 2026-23320; 91 FR 73876; 8 CFR Partes 1003, 1208 e 1240) entra em vigor na quinta-feira, 17 de dezembro. Além de cortar o prazo de recurso de 30 para 10 dias (salvo mérito de asilo), ela torna a dispensa sumária — decisão por um único membro, sem opinião fundamentada — o caminho padrão, fixa o briefing em 20 dias simultâneos sem réplica e passa a tratar como renunciado o argumento que não constar do Notice of Appeal. O pano de fundo é o acúmulo: o estoque do Board saltou de cerca de 35,8 mil casos no exercício de 2017 para 325,8 mil no de 2026. A regra vale para as decisões proferidas a partir de 17 de dezembro — não retroage aos recursos já pendentes —, mas encurta de forma real a margem de quem precisar recorrer dessa data em diante.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-23320">Federal Register 2026-23320 — Appellate Procedures for the Board of Immigration Appeals (regra final, 91 FR 73876, vigente 17/12/2026) ↗</a></div></div><div class="item wide" id="matter-of-gomez-pacheco-o-prazo-de-30-dias-para-recorrer-nao" style="scroll-margin-top:72px"><span class="tag t-alert">Precedente do BIA</span><h4>Matter of Gomez Pacheco: o prazo de 30 dias para recorrer não se prorroga por equidade</h4><p>Em <em>Matter of Gomez Pacheco</em> (Interim Decision #4276; 30 I&amp;N Dec. 249), decidido em 23 de novembro, o Board firmou que nem ele nem os juízes de imigração têm autoridade inerente de equidade para esticar o prazo de recurso. O prazo de trinta dias do 8 CFR 1003.38(b) é uma regra de tramitação (<em>claims-processing rule</em>) obrigatória, não jurisdicional, que vincula a parte quando a adversária — aqui, o DHS — a invoca. A decisão supera <em>Matter of Morales-Morales</em> (28 I&amp;N Dec. 714, 2023) e deixa de seguir os Segundo, Quinto e Nono Circuitos, que admitiam a prorrogação. No caso, um recurso protocolado 39 dias após a decisão foi indeferido de plano. O ponto liga-se direto ao novo rito que entra em vigor em 17 de dezembro, que encurta esse mesmo prazo para dez dias: a partir de dezembro, perder o prazo custa mais caro e sobra ainda menos margem para corrigir o atraso.</p><div class="src">Fonte oficial: <a href="https://www.justice.gov/eoir/media/1473971/dl?inline=">EOIR — Matter of Gomez Pacheco, 30 I&amp;N Dec. 249 (BIA 2026), Interim Decision #4276 ↗</a> · <a href="https://www.ecfr.gov/current/title-8/section-1003.38">8 CFR 1003.38 (eCFR) ↗</a></div></div></div><div class="sechead"><h3>PERM &amp; Labor Certification</h3></div><div class="grid"><div class="item" id="protocolo-eletronico-passa-a-ser-obrigatorio-na-oalj-do-dol-" style="scroll-margin-top:72px"><span class="tag t-final">Regra final</span><h4>Protocolo eletrônico passa a ser obrigatório na OALJ do DOL em 9 de dezembro</h4><p>Na quarta-feira, 9 de dezembro, entra em vigor a regra final (FR 2026-22761; 91 FR 70790) que torna obrigatório o protocolo eletrônico nos processos perante o Office of Administrative Law Judges (OALJ) do Departamento do Trabalho, com exceções por justa causa e para partes sem advogado. É na OALJ que tramitam as disputas de fiscalização de H-1B e de H-2A/H-2B e os recursos de denegação de PERM (BALCA). O empregador com caso em andamento, ou sob risco de abertura, precisa deixar o acesso ao sistema eletrônico configurado antes da data — perder um prazo de defesa por uma falha de cadastro é o tipo de dano que não se recupera.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-22761">Federal Register 2026-22761 — OALJ Mandatory Electronic Filing (regra final, 91 FR 70790, vigente 09/12/2026) ↗</a></div></div><div class="item" id="reforma-do-perm-a-janela-de-comentarios-encolhe-entre-os-fer" style="scroll-margin-top:72px"><span class="tag t-prop">Regra proposta</span><h4>Reforma do PERM: a janela de comentários encolhe entre os feriados</h4><p>A maior revisão do PERM em vinte anos (FR 2026-23370; 91 FR 73916; RIN 1205-AC29; processo ETA-2026-0133), publicada em 17 de novembro, segue em consulta pública — nada mudou no 20 CFR Parte 656, que continua em vigor. O prazo para comentar vai até terça-feira, 19 de janeiro de 2027, mas a conta prática é menos generosa do que parece: entre a Ação de Graças e o recesso de fim de ano, boa parte dos dias úteis some do calendário de quem precisa redigir e protocolar comentários via regulations.gov. A proposta acaba com o anúncio em jornal impresso e o substitui por um recrutamento eletrônico único de pelo menos 90 dias, cria uma trava de dois anos para o empregador que tenha demitido trabalhadores americanos na mesma ocupação ou em ocupação semelhante no local, e elimina a Schedule A. No pano de fundo operacional, os dados do portal FLAG mostram a certificação de trabalho com média em torno de 300 dias de análise. Quem pretende comentar deve tratar as próximas semanas como mais curtas do que o prazo nominal sugere.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-23370">Federal Register 2026-23370 — Modernizing the Labor Market Test (PERM), 91 FR 73916 ↗</a> · Comentários: <a href="https://www.regulations.gov/docket/ETA-2026-0133">regulations.gov, processo ETA-2026-0133 ↗</a> · <a href="https://flag.dol.gov/processingtimes">DOL/OFLC — FLAG Processing Times ↗</a></div></div></div><div class="sechead"><h3>AOS — Ajuste de Status</h3></div><div class="grid one"><div class="item" id="matter-of-aguilar-ceballos-o-exame-medico-nao-pode-ficar-par" style="scroll-margin-top:72px"><span class="tag t-alert">Precedente do BIA</span><h4>Matter of Aguilar Ceballos: o exame médico não pode ficar para depois do deferimento</h4><p>Em <em>Matter of Aguilar Ceballos</em> (Interim Decision #4277; 30 I&amp;N Dec. 259), de 24 de novembro, o Board decidiu que é indevido conceder o ajuste de status (INA 245(a)) condicionado à entrega futura do Formulário I-693 — o exame médico. A admissibilidade, que inclui a parte de saúde pública (INA 212(a)(1)(A)), precisa estar demonstrada no momento em que a residência é deferida, com o I-693 válido assinado por um <em>civil surgeon</em>; as próprias instruções do Formulário I-485 mandam apresentar o exame junto, não como pendência a cumprir depois. No caso, um juiz havia deferido o ajuste dando ao requerente 60 dias após a soltura para entregar o exame; o DHS recorreu, e o Board anulou e devolveu. A leitura prática é direta: o exame médico válido é parte do pedido, não um complemento posterior — e quem deixa essa peça para o fim arrisca ver o deferimento desfeito.</p><div class="src">Fonte oficial: <a href="https://www.justice.gov/eoir/media/1474116/dl?inline=">EOIR — Matter of Aguilar Ceballos, 30 I&amp;N Dec. 259 (BIA 2026), Interim Decision #4277 ↗</a> · <a href="https://www.ecfr.gov/current/title-8/section-1245.5">8 CFR 1245.5 (eCFR) ↗</a></div></div></div><div class="sechead"><h3>High Skilled Individuals</h3></div><div class="grid"><div class="item" id="periodo-de-graca-de-60-dias-consulta-encerrada-beneficio-ain" style="scroll-margin-top:72px"><span class="tag t-prop">Regra proposta</span><h4>Período de graça de 60 dias: consulta encerrada, benefício ainda em vigor</h4><p>A proposta do DHS de eliminar o período de graça discricionário de até 60 dias (FR 2026-18631; 91 FR 57807; RIN 1615-AD22) teve os comentários encerrados em 10 de novembro, e o Federal Register ainda não traz o ato final. Enquanto ele não sai, o benefício continua valendo: pela regra do 8 CFR 214.1(l)(2), quando o emprego termina, o titular de H-1B, L-1, O-1, E-1/E-2/E-3 ou TN pode permanecer legalmente nos Estados Unidos por até 60 dias — ou até o fim da validade do status, se este for menor — para encontrar novo patrocinador, mudar de categoria ou organizar a saída. Fechada a consulta, o texto pode reaparecer a qualquer momento como regra final, com data de vigência própria. Até lá, cada semana é tempo a favor de quem está sob risco de demissão, e vale ter o plano B montado antes, não depois.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-18631">Federal Register 2026-18631 — Eliminating the Discretionary 60-Day Grace Period (regra proposta, 91 FR 57807; comentários encerrados em 10/11/2026) ↗</a></div></div><div class="item" id="deferencia-as-aprovacoes-anteriores-a-segunda-proposta-sem-d" style="scroll-margin-top:72px"><span class="tag t-prop">Regra proposta</span><h4>Deferência às aprovações anteriores: a segunda proposta sem data, também em vigor</h4><p>A outra proposta sem data de vigência é a do DHS (FR 2026-20941; 91 FR 65119; RIN 1615-AD26) para revogar o 8 CFR 214.1(c)(5) — a norma que hoje obriga a USCIS a respeitar a própria aprovação anterior ao julgar uma prorrogação de H-1B, L-1, O-1 e outras categorias do I-129, quando as partes, os fatos e a atividade são os mesmos. Os comentários fecharam em 13 de novembro e, como no período de graça, o ato final não saiu: a deferência segue em vigor. Enquanto ela vale, cada prorrogação parte do que a agência já reconheceu, e a renovação de rotina tende a ser rotina. Se a proposta virar regra final, o oficial poderá reexaminar do zero a elegibilidade que ele mesmo já havia aprovado — e uma renovação que parecia garantida passa a poder ser negada por um reexame completo. A defesa é a de antes de a deferência existir: montar cada pedido de prorrogação com a força probatória de uma primeira petição.</p><div class="src">Fonte oficial: <a href="https://www.federalregister.gov/d/2026-20941">Federal Register 2026-20941 — Removing Deference to Prior USCIS Determinations of Eligibility (regra proposta, 91 FR 65119; comentários encerrados em 13/11/2026) ↗</a></div></div></div><div class="sechead"><h3>Em Perspectiva</h3></div><div class="grid one"><div class="item" id="por-que-o-procurador-geral-pode-reescrever-as-regras-do-boar" style="scroll-margin-top:72px"><span class="tag t-final"></span><h4>Por que o procurador-geral pode reescrever as regras do Board sem passar pelo Congresso</h4><p>A regra que em 17 de dezembro muda o rito de recursos no Board of Immigration Appeals não precisou de uma linha de lei nova. A razão está na própria natureza do Board: ele não é uma criação do Congresso, e sim do Poder Executivo. O BIA nasceu de regulamento, dentro do Departamento de Justiça, e até hoje sua organização, jurisdição e poderes vivem no 8 CFR 1003.1 — não em um artigo do Immigration and Nationality Act. A autoridade que o sustenta é a do procurador-geral sobre a adjudicação migratória, prevista no INA 103 (8 U.S.C. 1103). Como o Board é desenho regulamentar, o procurador-geral pode redesenhá-lo por regulamento — encurtar prazos, tornar a dispensa sumária o padrão, redefinir o que conta como argumento renunciado — sem depender de nova legislação.</p><p>A raiz vem de 1940. Até aquele ano, a imigração era administrada pelo Departamento do Trabalho; o Reorganization Plan No. V of 1940 (54 Stat. 1238) transferiu o Immigration and Naturalization Service para o Departamento de Justiça, em junho daquele ano, no clima de segurança da véspera da entrada dos Estados Unidos na Segunda Guerra. Foi nesse novo lar que o recurso administrativo das decisões de imigração se consolidou sob o comando do procurador-geral, e dele descende a linha de autoridade que o Board exerce hoje. Entender essa origem ajuda a ler o momento: quando o rito do Board muda por regra publicada no Federal Register, e não por lei votada, não é uma anomalia — é o modo como o sistema foi construído desde o começo. E explica por que a margem de quem recorre pode se estreitar de uma vigência para outra, sem que o texto da lei de imigração tenha mudado uma vírgula.</p><div class="src">Fonte oficial: <a href="https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-A/section-1003.1">8 CFR 1003.1 — Organization, jurisdiction, and powers of the BIA (eCFR) ↗</a> · <a href="https://www.govinfo.gov/link/uscode/8/1103">INA 103 — 8 U.S.C. 1103 (govinfo) ↗</a> · <a href="https://www.govinfo.gov/link/statute/54/1238">Reorganization Plan No. V of 1940, 54 Stat. 1238 (govinfo) ↗</a></div></div></div><div class="exped"><a href="https://www.joelstewartpa.com/">Joel Stewart, P.A.</a></div><div class="disclaimer">Informativo geral; não constitui aconselhamento jurídico. A leitura deste boletim, ou a interação com qualquer conteúdo vinculado, não estabelece relação advogado-cliente. Compilado de fontes oficiais e primárias.</div></div></main><footer class="sitefoot"><div class="social"><a href="https://www.joelstewartpa.com/" target="_blank" rel="noopener" title="Website" aria-label="Website"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a><a href="https://www.linkedin.com/in/joelstewartpa" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path fill="currentColor" stroke="none" d="M4.98 3.5A2.5 2.5 0 1 1 0 3.5a2.5 2.5 0 0 1 4.98 0zM.5 8h4V24h-4zM8 8h3.8v2.2h.05c.53-1 1.82-2.2 3.75-2.2 4 0 4.7 2.6 4.7 6V24h-4v-7.1c0-1.7 0-3.9-2.4-3.9s-2.7 1.8-2.7 3.8V24H8z"/></svg></a><a href="https://www.reddit.com/user/JS-FGI" target="_blank" rel="noopener" title="Reddit" aria-label="Reddit"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="9"/><circle cx="8.5" cy="13" r="1.1" fill="currentColor" stroke="none"/><circle cx="15.5" cy="13" r="1.1" fill="currentColor" stroke="none"/><path d="M9 16.5c1.8 1.2 4.2 1.2 6 0"/><circle cx="19" cy="6.5" r="1.4"/><path d="M15 5.2 16.8 5"/></svg></a><a href="https://joelstewartpa.substack.com" target="_blank" rel="noopener" title="Substack" aria-label="Substack"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path fill="currentColor" stroke="none" d="M4 4h16v2.4H4zM4 8.3h16V22l-8-4.2L4 22z"/></svg></a><a href="https://www.instagram.com/joel.miami" target="_blank" rel="noopener" title="Instagram" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.3" cy="6.7" r="1.1" fill="currentColor" stroke="none"/></svg></a></div><div class="contact">Contato apenas por escrito: <b>js@joelstewartpa.com</b> · WhatsApp <b>+1 954-772-7600</b></div><div class="legal"><b>Aviso legal:</b> Este boletim é fornecido apenas para fins informativos gerais e não constitui aconselhamento jurídico. A leitura ou a interação com qualquer conteúdo vinculado não estabelece relação advogado-cliente. Consulte um profissional qualificado antes de tomar qualquer decisão.</div><div class="stamp">&copy; 2026 <b>Joel Stewart, P.A.</b> · Todos os direitos reservados.</div></footer><script>/* Stewart on Immigration — interações compartilhadas (tema, progresso, share, reveal). */
+(function(){
+  var root=document.documentElement, tkey='soi-theme';
+  root.classList.add('js');
+  var SUN='<circle cx="12" cy="12" r="4.5"/><path d="M12 2v2.5M12 19.5V22M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2 12h2.5M19.5 12H22M4.2 19.8l1.8-1.8M18 6l1.8-1.8"/>';
+  var MOON='<path d="M21 12.8A8.5 8.5 0 1 1 11.2 3a6.6 6.6 0 0 0 9.8 9.8z"/>';
+  function get(){var t=null;try{t=localStorage.getItem(tkey)}catch(e){} return t||'light';}
+  function apply(t){root.setAttribute('data-theme',t);var ic=document.getElementById('thIcon');if(ic)ic.innerHTML=(t==='dark')?SUN:MOON;}
+  apply(get());
+  var tb=document.getElementById('themeBtn');
+  if(tb)tb.addEventListener('click',function(){var c=root.getAttribute('data-theme')==='dark'?'light':'dark';apply(c);try{localStorage.setItem(tkey,c)}catch(e){}});
+
+  // barra: sombra ao rolar + progresso de leitura (página inteira, standalone)
+  var bar=document.getElementById('ebar'), rp=document.getElementById('rprog');
+  function onScroll(){
+    var h=document.documentElement, sc=h.scrollTop||document.body.scrollTop, mx=(h.scrollHeight-h.clientHeight)||1;
+    if(bar){ if(sc>6) bar.classList.add('scrolled'); else bar.classList.remove('scrolled'); }
+    if(rp){ rp.style.width=(100*sc/mx)+'%'; }
+  }
+  window.addEventListener('scroll',onScroll,{passive:true}); onScroll();
+
+  // toast
+  var toast=document.createElement('div'); toast.className='toast'; document.body.appendChild(toast); var tt;
+  function say(m){toast.textContent=m;toast.classList.add('on');clearTimeout(tt);tt=setTimeout(function(){toast.classList.remove('on')},1800);}
+  window.__soiToast=say;
+
+  // menu compartilhar
+  var sb=document.getElementById('shareBtn'), menu=document.getElementById('shMenu');
+  function cur(){return {u:location.href,t:document.title};}
+  if(sb&&menu){
+    sb.addEventListener('click',function(e){e.stopPropagation();var x=cur();
+      var li=menu.querySelector('[data-sh=li]'); if(li) li.href='https://www.linkedin.com/sharing/share-offsite/?url='+encodeURIComponent(x.u);
+      var wa=menu.querySelector('[data-sh=wa]'); if(wa) wa.href='https://wa.me/?text='+encodeURIComponent(x.t+' '+x.u);
+      menu.classList.toggle('on');});
+    var cp=menu.querySelector('[data-sh=copy]');
+    if(cp) cp.addEventListener('click',function(){var x=cur();
+      if(navigator.share){navigator.share({title:x.t,url:x.u}).catch(function(){});}
+      else if(navigator.clipboard){navigator.clipboard.writeText(x.u).then(function(){say('Link copiado')},function(){say(x.u)});}
+      else say(x.u); menu.classList.remove('on');});
+    document.addEventListener('click',function(){menu.classList.remove('on');});
+  }
+  // botões "compartilhar" de card (data-share no card com data-url/data-title)
+  document.querySelectorAll('[data-cardshare]').forEach(function(b){
+    b.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();
+      var u=b.getAttribute('data-url')||location.href, t=b.getAttribute('data-title')||document.title;
+      if(navigator.share){navigator.share({title:t,url:u}).catch(function(){});}
+      else if(navigator.clipboard){navigator.clipboard.writeText(u).then(function(){say('Link copiado')},function(){say(u)});}
+      else say(u);});
+  });
+
+  // reveal on scroll
+  var els=[].slice.call(document.querySelectorAll('.reveal'));
+  if('IntersectionObserver' in window && els.length){
+    var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);}})},{rootMargin:'0px 0px -8% 0px',threshold:.06});
+    els.forEach(function(el){io.observe(el);});
+  } else { els.forEach(function(el){el.classList.add('in');}); }
+
+  // registra leitura (conveniência local)
+  try{var slug=location.pathname.split('/').pop();localStorage.setItem('soi-last',JSON.stringify({u:slug,t:document.title,ts:Date.now()}));}catch(e){}
+})();
+</script></body></html>
